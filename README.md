@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastian L</h1>
-<h3 align="center">A passionate Backend developer and Data Analyst from Colombia</h3>
+<h3 align="center">A passionate Backend developer and Data Analyst from Medellín, Colombia</h3>
 
 [![Banner](https://github.com/SebastianLopezO/SebastianLopezO/blob/main/Sebastian-s-banner.png)](https://sebastian-s-portafolio.vercel.app/)
 

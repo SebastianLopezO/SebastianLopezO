@@ -137,11 +137,17 @@ _____________|','   ///_/-------------/   |
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" height="20"/> </a>
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" height="20"/> </a>
   <a href="https://about.gitlab.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitLab%20CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI/CD" height="20"/> </a>
+  <a href="https://owasp.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" height="20"/></a>
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" height="20"/></a>
+  <a href="https://certiport.pearsonvue.com/Certifications/ITSpecialist" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/IT%20Specialist-Python-306998?style=for-the-badge&logo=python&logoColor=white" alt="IT Specialist Python" height="20"/></a>
+
     
-  <h4>Testing</h4>
+   <h4>Testing</h4>
   <a href="https://junit.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white" alt="JUnit" height="20"/></a>
   <a href="https://docs.pytest.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PyTest-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PyTest" height="20"/></a>
   <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="20"/> </a>
+  <a href="https://www.uipath.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/UiPath-F04E23?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath" height="20"/></a>
+  <a href="https://powerautomate.microsoft.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Power%20Automate-0078D4?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate" height="20"/></a>
   
    <h4>Backend as a Service</h4>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" height="20"/> </a>
@@ -151,6 +157,15 @@ _____________|','   ///_/-------------/   |
   <a href="https://pages.github.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages" height="20"/> </a>
   <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Cloud%20Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Cloud Redis" height="20"/> </a>
   <a href="https://www.mongodb.com/atlas" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Atlas" height="20"/> </a>
+
+   <h4> Mathematical Tools</h4>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /></a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" /></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a>
+  <a href="https://www.scipy.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" /></a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" /></a>
+  <a href="https://www.geogebra.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GeoGebra-1A237E?style=for-the-badge&logo=geogebra&logoColor=white" alt="GeoGebra" /></a>
+
   
    <h4>Other tools</h4>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" height="20"/> </a>

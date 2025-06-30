@@ -3,61 +3,122 @@
 
 [![Banner](https://github.com/SebastianLopezO/SebastianLopezO/blob/main/Sebastian-s-banner.png)](https://sebastian-s-portafolio.vercel.app/)
 
-## About Me
 
-I am a self-taught and highly motivated individual with a strong passion for technology and continuous learning. My academic journey in Computer Engineering at Politécnico Jaime Isaza Cadavid in Medellín, Colombia, has equipped me with a wide range of technical and analytical skills across multiple domains.
+<details open>
+  <summary><h2> 👨‍💻 About Me</h2></summary>
 
-Throughout my studies, I have developed strong mathematical and algorithmic thinking thanks to courses like Numerical Analysis, where I applied various methods using Python with libraries such as NumPy and Matplotlib. I have also explored the fundamentals of R and used tools like GeoGebra and Excel, including automation through Macros, VBA, and Google Apps Script.
+  <p>
+    I am a self-taught and highly motivated individual with a strong passion for technology and continuous learning. My academic journey in Computer Engineering at Politécnico Jaime Isaza Cadavid in Medellín, Colombia, has equipped me with a wide range of technical and analytical skills across multiple domains.
+  </p>
 
-In addition, I’ve gained experience with Robotic Process Automation (RPA) using Python and Chrome drivers. I have actively worked with Agile methodologies, especially Scrum, using Jira and Confluence, and have taken on roles involving teamwork and leadership, such as Scrum Master.
+  <p>
+    Throughout my studies, I have developed strong mathematical and algorithmic thinking thanks to courses like Numerical Analysis, where I applied various methods using Python with libraries such as NumPy and Matplotlib. I have also explored the fundamentals of R and used tools like GeoGebra and Excel, including automation through Macros, VBA, and Google Apps Script.
+  </p>
 
-My background also includes knowledge in networks, acquired through tools like Cisco Packet Tracer, as well as in virtualization and system administration using Linux, including the installation of network services and command-line operations. Moreover, I have a solid foundation in automata theory and compilers, working with tools like JFLAP and Chachalero to design finite state machines and implement language-processing algorithms.
+  <p>
+    In addition, I’ve gained experience with Robotic Process Automation (RPA) using Python and Chrome drivers. I have actively worked with Agile methodologies, especially Scrum, using Jira and Confluence, and have taken on roles involving teamwork and leadership, such as Scrum Master.
+  </p>
 
-These skills and experiences are the result of comprehensive coursework in Software Construction, Networks and Communications, Operating Systems, Theory of Languages and Compilers, and many other areas. My long-term goal is to deepen my expertise in Software Development, Data Analysis, and the Internet of Things (IoT), while continually contributing to impactful projects through innovation and teamwork.
+  <p>
+    My background also includes knowledge in networks, acquired through tools like Cisco Packet Tracer, as well as in virtualization and system administration using Linux, including the installation of network services and command-line operations. Moreover, I have a solid foundation in automata theory and compilers, working with tools like JFLAP and Chachalero to design finite state machines and implement language-processing algorithms.
+  </p>
 
-~~~
+  <p>
+    These skills and experiences are the result of comprehensive coursework in Software Construction, Networks and Communications, Operating Systems, Theory of Languages and Compilers, and many other areas. My long-term goal is to deepen my expertise in Software Development, Data Analysis, and the Internet of Things (IoT), while continually contributing to impactful projects through innovation and teamwork.
+  </p>
+
+  ~~~
+  
+  
+                               \\\\\\\
+                              \\\\\\\\\\\\
+                            \\\\\\\\\\\\\\\
+    -----------,-|           |C>   // )\\\\|
+             ,','|          /    || ,'/////|
+  ---------,','  |         (,    ||   /////
+           ||    |          \\  ||||//''''|
+           ||    |           |||||||     _|
+           ||    |______      `````\____/ \
+           ||    |     ,|         _/_____/ \
+           ||  ,'    ,' |        /          |
+           ||,'    ,'   |       |         \  |
+  _________|/    ,'     |      /           | |
+  _____________,'      ,',_____|      |    | |
+               |     ,','      |      |    | |
+               |   ,','    ____|_____/    /  |
+               | ,','  __/ |             /   |
+  _____________|','   ///_/-------------/   |
+                |===========,'
+  
+  ~~~
+  
+</details>
+
+<details open>
+  <summary><h2>🎓 Education</h2></summary>
+
+  <ul>
+    <li>
+      <strong>2019–2021</strong><br>
+      High School with Specialization in Computer Science<br>
+      <em>I.E. Inem José Félix de Restrepo</em>
+    </li>
+    <br>
+    <li>
+      <strong>2020–2021</strong><br>
+      Assistant Software Development Technician (Technical Secondary Level)<br>
+      <em>Institución Educativa Pascual Bravo</em>
+    </li>
+    <br>
+    <li>
+      <strong>2022–2023</strong><br>
+      Software Programming Technician<br>
+      <em>SENA – Instituto Universitario Salazar y Herrera (IUSH)</em>
+    </li>
+    <br>
+    <li>
+      <strong>2022–2027 (In Progress)</strong><br>
+      Bachelor’s Degree in Computer Engineering<br>
+      <em>Politécnico Jaime Isaza Cadavid</em>
+    </li>
+  </ul>
+</details>
+
+<details open>
+  <summary><h2>💼 Experience</h2></summary>
+
+  <ul>
+    <li>
+      <strong>IT Manager & Backend CRM Developer</strong><br>
+      <em>TIVENOS - Solutions for Education · Remote</em><br>
+      <small>Jun 2025 – Present</small><br>
+      Responsible for REST API integrations, backend development, and database management to enhance educational platforms.
+    </li>
+    <br>
+    <li>
+      <strong>CRM Developer & Web Developer</strong><br>
+      <em>ADCOM GROUP · Medellín (Hybrid/Remote)</em><br>
+      <small>Feb 2025 – Present</small><br>
+      Led customization and optimization of Zoho CRM with Deluge scripting. Integrated platforms like WhatsApp, Meta Ads, and Google Ads via APIs. Developed internal tools in Zoho Creator and implemented AI-powered contact automation with Dapta.
+    </li>
+    <br>
+    <li>
+      <strong>Backend Developer | Data Analyst | CRM Analyst</strong><br>
+      <em>MUV-U S.A.S · Sabaneta, Antioquia (Hybrid)</em><br>
+      <small>Jul 2023 – Jan 2025</small><br>
+      Preprocessed CRM data and created Power BI reports for financial and marketing insights. Automated workflows within CRM, developed web components, and managed incoming data architecture. Took part in infrastructure and server administration.
+    </li>
+    <br>
+    <li>
+      <strong>Data Analyst</strong><br>
+      <em>Quipux S.A.S · Medellín (Hybrid Internship)</em><br>
+      <small>Aug 2022 – May 2023</small><br>
+      Focused on data preprocessing, automated reporting processes, and designed clear data visualizations to support strategic decisions and enhance operational efficiency.
+    </li>
+  </ul>
+</details>
 
 
-                             \\\\\\\
-                            \\\\\\\\\\\\
-                          \\\\\\\\\\\\\\\
-  -----------,-|           |C>   // )\\\\|
-           ,','|          /    || ,'/////|
----------,','  |         (,    ||   /////
-         ||    |          \\  ||||//''''|
-         ||    |           |||||||     _|
-         ||    |______      `````\____/ \
-         ||    |     ,|         _/_____/ \
-         ||  ,'    ,' |        /          |
-         ||,'    ,'   |       |         \  |
-_________|/    ,'     |      /           | |
-_____________,'      ,',_____|      |    | |
-             |     ,','      |      |    | |
-             |   ,','    ____|_____/    /  |
-             | ,','  __/ |             /   |
-_____________|','   ///_/-------------/   |
-              |===========,'
-
-~~~
-
-
-## Education
-
-- **2019-2021**  
-  High School with Specialization in Computer Science
-  I.E. Inem José Félix de Restrepo
-
-- **2020-2021**  
-  Assistant Software Development Technician (Technical Medium)  
-  Institución Educativa Pascual Bravo
-
-- **2022-2023**  
-  Software Programming Technician  
-  SENA - IUSH
-
-- **2022-2027 (In Process)**  
-  Computer Engineer  
-  Politécnico Jaime Isaza Cadavid
 
 ## Technical Skills
 

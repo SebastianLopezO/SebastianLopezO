@@ -122,7 +122,7 @@
   <summary><h2>🧠 Technical Skills</h2></summary>
 
   <details open>
-    <summary><h3>📋 Skills Overview</h3></summary>
+    <summary><h3>&nbsp;&nbsp;&nbsp;&nbsp;📋 Skills Overview</h3></summary>
     <ul>
       <li><strong>Programming Languages:</strong> Python, Java, C++, JavaScript, SQL</li>
       <li><strong>Web Development:</strong> HTML, CSS, JavaScript</li>
@@ -137,7 +137,7 @@
     </ul>
   </details>
   <details>
-      <summary><h3>🎖️ Tech Stack Badges</h3></summary>
+      <summary><h3>&nbsp;&nbsp;&nbsp;&nbsp;🎖️ Tech Stack Badges</h3></summary>
         <p align="left">
           <h4>Languages</h4>
           <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="20"/> </a>
@@ -303,7 +303,7 @@
   <summary><h2>📚 Repositories by Organization</h2></summary>
 
 <details open>
-  <summary><h2>🎓 Repositories of Computer Engineering</h2></summary>
+  <summary><h2>&nbsp;&nbsp;&nbsp;&nbsp;🎓 Repositories of Computer Engineering</h2></summary>
   <p>
     Throughout my <strong>Computer Engineering</strong> degree at <strong>Politécnico Jaime Isaza Cadavid</strong>, I have worked on various projects that showcase my growth in key areas of computer science. These repositories reflect the knowledge acquired through courses in <strong>programming</strong>, <strong>databases</strong>, <strong>operating systems</strong>, <strong>artificial intelligence</strong>, and <strong>communication networks</strong>. They demonstrate practical solutions and experiments with current technologies like <strong>Java</strong>, <strong>Python</strong>, <strong>MongoDB</strong>, <strong>Docker</strong>, and more.
   </p>
@@ -311,7 +311,7 @@
     Each project highlights my hands-on approach and ability to tackle complex problems, underpinned by a solid theoretical foundation from my academic courses.
   </p>
     <details>
-    <summary><h2>📚 Repositories</h2></summary>
+    <summary><h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚 Repositories</h2></summary>
     <div align="left">
       <a href="https://github.com/EngineeringSebastian-s/DB2">
         <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=DB2&theme=dark" alt="DB2" />
@@ -366,7 +366,7 @@
 </details>
 
 <details open>
-  <summary><h2>🛠️ Repositories of TechnicalSebastians</h2></summary>
+  <summary><h2>&nbsp;&nbsp;&nbsp;&nbsp;🛠️ Repositories of TechnicalSebastians</h2></summary>
   <p>
     This space is dedicated to the projects and learning I've acquired during the <strong>Software Programming Technique</strong> course at <strong>IUSH</strong>. Throughout this course, I have developed projects that showcase my proficiency in different programming languages and technologies such as <strong>C#</strong>, <strong>PHP</strong>, <strong>JavaScript</strong>, <strong>MySQL</strong>, and <strong>HTML/CSS</strong>. The following repositories represent the work I have done, including tools like <strong>Apache</strong>, <strong>Composer</strong>, and <strong>Docker</strong>. These projects reflect my growth in <strong>software development</strong>, ranging from web applications to system tools.
   </p>
@@ -375,7 +375,7 @@
   </p>
 
 <details>
-  <summary><h2>📚 Repositories</h2></summary>
+  <summary><h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚 Repositories</h2></summary>
   <div align="left">
     <a href="https://github.com/TechnicalSebastians/VideoToAscii">
       <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=TechnicalSebastians&repo=VideoToAscii&theme=dark" alt="VideoToAscii" />
@@ -394,13 +394,13 @@
 </details>
 
 <details open>
-  <summary><h2>🎓 Repositories of VocationalSebastian-s</h2></summary>
+  <summary><h2>&nbsp;&nbsp;&nbsp;&nbsp;🎓 Repositories of VocationalSebastian-s</h2></summary>
   <p>
     This space is dedicated to my projects and learning in the <strong>Software Programming Technical High School</strong> at <strong>Pascual Bravo</strong>, in collaboration with <strong>INEM</strong>. Through this educational program, I have developed a variety of projects that have helped me strengthen my skills in programming, using languages such as <strong>HTML</strong>, <strong>PHP</strong>, <strong>Visual Basic .NET</strong>, <strong>Java</strong>, and <strong>Python</strong>. These repositories represent practical applications and experiments with various programming concepts and technologies, showcasing my ability to create both functional and creative solutions.
   </p>
 
   <details>
-  <summary><h2>📚 Repositories</h2></summary>
+  <summary><h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚 Repositories</h2></summary>
   <div align="left">
     <a href="https://github.com/VocationalSebastian-s/TheCompanyDream">
       <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=VocationalSebastian-s&repo=TheCompanyDream&theme=dark" alt="TheCompanyDream" />
@@ -431,13 +431,13 @@
 </details>
 
 <details open>
-  <summary><h2>🌱 Repositories of SmartPotTech</h2></summary>
+  <summary><h2>&nbsp;&nbsp;&nbsp;&nbsp;🌱 Repositories of SmartPotTech</h2></summary>
   <p>
     <strong>SmartPot</strong> is a personal project that integrates IoT technologies to automate and optimize the management of hydroponic gardens, focusing on crops like tomatoes and lettuce. This system has been developed across multiple courses, such as <strong>Hardware Architecture</strong> (using ESP32 for IoT processes), <strong>Software Design</strong> (creating the web portal with React, Node, and design patterns), and <strong>Programming Languages Workshop 2</strong> (developing the API with Spring Boot). Over time, the project has evolved significantly and now has its own dedicated organization to manage its expanding features.
   </p>
 
  <details>
-  <summary><h2>📚 Repositories</h2></summary>
+  <summary><h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚 Repositories</h2></summary>
 
   <div align="left">
     <a href="https://github.com/SmartPotTech/SmartPot-API">

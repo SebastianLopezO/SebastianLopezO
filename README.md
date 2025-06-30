@@ -275,7 +275,7 @@
 
 <details open>
   <summary><h2>📊 GitHub Stats</h2></summary>
-  <p>
+  <p align="center">
     <p align="center">
       <img src="https://komarev.com/ghpvc/?username=SebastianLopezO&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
       <img src="https://img.shields.io/github/stars/SebastianLopezO?style=flat&logo=github" alt="GitHub Stars" />
@@ -300,7 +300,7 @@
     </details>
 </details>
 <details open>
-  <summary><h2>📚 Repositories by Category</h2></summary>
+  <summary><h2>📚 Repositories by Organization</h2></summary>
 
 <details open>
   <summary><h2>🎓 Repositories of Computer Engineering</h2></summary>
@@ -310,59 +310,59 @@
   <p>
     Each project highlights my hands-on approach and ability to tackle complex problems, underpinned by a solid theoretical foundation from my academic courses.
   </p>
-
-  <br>
-
-  <div align="left">
-    <a href="https://github.com/EngineeringSebastian-s/DB2">
-      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=DB2&theme=dark" alt="DB2" />
-    </a>
-    <a href="https://github.com/EngineeringSebastian-s/SistemasOperativos">
-      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=SistemasOperativos&theme=dark" alt="SistemasOperativos" />
-    </a>
-    <a href="https://github.com/EngineeringSebastian-s/ARQH">
-      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=ARQH&theme=dark" alt="ARQH" />
-    </a>
-    <a href="https://github.com/EngineeringSebastian-s/TLP2">
-      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=TLP2&theme=dark" alt="TLP2" />
-    </a>
-    <a href="https://github.com/EngineeringSebastian-s/TLP1">
-      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=TLP1&theme=dark" alt="TLP1" />
-    </a>
-    <a href="https://github.com/EngineeringSebastian-s/Grafos">
-      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=Grafos&theme=dark" alt="Grafos" />
-    </a>
-    <a href="https://github.com/EngineeringSebastian-s/Arboles">
-      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=Arboles&theme=dark" alt="Arboles" />
-    </a>
-    <a href="https://github.com/EngineeringSebastian-s/Polinomios">
-      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=Polinomios&theme=dark" alt="Polinomios" />
-    </a>
-    <a href="https://github.com/EngineeringSebastian-s/MatricesDispersas">
-      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=MatricesDispersas&theme=dark" alt="MatricesDispersas" />
-    </a>
-    <a href="https://github.com/EngineeringSebastian-s/SemioticaInformatica">
-      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=SemioticaInformatica&theme=dark" alt="SemioticaInformatica" />
-    </a>
-    <a href="https://github.com/EngineeringSebastian-s/AP4">
-      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=AP4&theme=dark" alt="AP4" />
-    </a>
-    <a href="https://github.com/EngineeringSebastian-s/SistemaDeNotas">
-      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=SistemaDeNotas&theme=dark" alt="SistemaDeNotas" />
-    </a>
-    <a href="https://github.com/EngineeringSebastian-s/AP3">
-      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=AP3&theme=dark" alt="AP3" />
-    </a>
-    <a href="https://github.com/EngineeringSebastian-s/AP2">
-      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=AP2&theme=dark" alt="AP2" />
-    </a>
-    <a href="https://github.com/EngineeringSebastian-s/AP1">
-      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=AP1&theme=dark" alt="AP1" />
-    </a>
-    <a href="https://github.com/EngineeringSebastian-s/CarSpace">
-      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=CarSpace&theme=dark" alt="CarSpace" />
-    </a>
-  </div>
+    <details>
+    <summary><h2>📚 Repositories</h2></summary>
+    <div align="left">
+      <a href="https://github.com/EngineeringSebastian-s/DB2">
+        <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=DB2&theme=dark" alt="DB2" />
+      </a>
+      <a href="https://github.com/EngineeringSebastian-s/SistemasOperativos">
+        <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=SistemasOperativos&theme=dark" alt="SistemasOperativos" />
+      </a>
+      <a href="https://github.com/EngineeringSebastian-s/ARQH">
+        <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=ARQH&theme=dark" alt="ARQH" />
+      </a>
+      <a href="https://github.com/EngineeringSebastian-s/TLP2">
+        <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=TLP2&theme=dark" alt="TLP2" />
+      </a>
+      <a href="https://github.com/EngineeringSebastian-s/TLP1">
+        <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=TLP1&theme=dark" alt="TLP1" />
+      </a>
+      <a href="https://github.com/EngineeringSebastian-s/Grafos">
+        <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=Grafos&theme=dark" alt="Grafos" />
+      </a>
+      <a href="https://github.com/EngineeringSebastian-s/Arboles">
+        <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=Arboles&theme=dark" alt="Arboles" />
+      </a>
+      <a href="https://github.com/EngineeringSebastian-s/Polinomios">
+        <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=Polinomios&theme=dark" alt="Polinomios" />
+      </a>
+      <a href="https://github.com/EngineeringSebastian-s/MatricesDispersas">
+        <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=MatricesDispersas&theme=dark" alt="MatricesDispersas" />
+      </a>
+      <a href="https://github.com/EngineeringSebastian-s/SemioticaInformatica">
+        <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=SemioticaInformatica&theme=dark" alt="SemioticaInformatica" />
+      </a>
+      <a href="https://github.com/EngineeringSebastian-s/AP4">
+        <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=AP4&theme=dark" alt="AP4" />
+      </a>
+      <a href="https://github.com/EngineeringSebastian-s/SistemaDeNotas">
+        <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=SistemaDeNotas&theme=dark" alt="SistemaDeNotas" />
+      </a>
+      <a href="https://github.com/EngineeringSebastian-s/AP3">
+        <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=AP3&theme=dark" alt="AP3" />
+      </a>
+      <a href="https://github.com/EngineeringSebastian-s/AP2">
+        <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=AP2&theme=dark" alt="AP2" />
+      </a>
+      <a href="https://github.com/EngineeringSebastian-s/AP1">
+        <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=AP1&theme=dark" alt="AP1" />
+      </a>
+      <a href="https://github.com/EngineeringSebastian-s/CarSpace">
+        <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=CarSpace&theme=dark" alt="CarSpace" />
+      </a>
+    </div>
+      </details>
 </details>
 
 <details open>
@@ -374,8 +374,8 @@
     Each repository demonstrates my hands-on experience and my ability to create practical solutions, emphasizing both backend and frontend development, as well as the application of best practices in the software engineering process.
   </p>
 
-  <br>
-
+<details>
+  <summary><h2>📚 Repositories</h2></summary>
   <div align="left">
     <a href="https://github.com/TechnicalSebastians/VideoToAscii">
       <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=TechnicalSebastians&repo=VideoToAscii&theme=dark" alt="VideoToAscii" />
@@ -390,6 +390,7 @@
       <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=TechnicalSebastians&repo=AdminSitePersist&theme=dark" alt="AdminSitePersist" />
     </a>
   </div>
+  </details>
 </details>
 
 <details open>
@@ -398,8 +399,8 @@
     This space is dedicated to my projects and learning in the <strong>Software Programming Technical High School</strong> at <strong>Pascual Bravo</strong>, in collaboration with <strong>INEM</strong>. Through this educational program, I have developed a variety of projects that have helped me strengthen my skills in programming, using languages such as <strong>HTML</strong>, <strong>PHP</strong>, <strong>Visual Basic .NET</strong>, <strong>Java</strong>, and <strong>Python</strong>. These repositories represent practical applications and experiments with various programming concepts and technologies, showcasing my ability to create both functional and creative solutions.
   </p>
 
-  <br>
-
+  <details>
+  <summary><h2>📚 Repositories</h2></summary>
   <div align="left">
     <a href="https://github.com/VocationalSebastian-s/TheCompanyDream">
       <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=VocationalSebastian-s&repo=TheCompanyDream&theme=dark" alt="TheCompanyDream" />
@@ -426,6 +427,7 @@
       <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=VocationalSebastian-s&repo=DimensionCube&theme=dark" alt="DimensionCube" />
     </a>
   </div>
+    </details>
 </details>
 
 <details open>
@@ -434,7 +436,8 @@
     <strong>SmartPot</strong> is a personal project that integrates IoT technologies to automate and optimize the management of hydroponic gardens, focusing on crops like tomatoes and lettuce. This system has been developed across multiple courses, such as <strong>Hardware Architecture</strong> (using ESP32 for IoT processes), <strong>Software Design</strong> (creating the web portal with React, Node, and design patterns), and <strong>Programming Languages Workshop 2</strong> (developing the API with Spring Boot). Over time, the project has evolved significantly and now has its own dedicated organization to manage its expanding features.
   </p>
 
-  <br>
+ <details>
+  <summary><h2>📚 Repositories</h2></summary>
 
   <div align="left">
     <a href="https://github.com/SmartPotTech/SmartPot-API">
@@ -468,6 +471,7 @@
       <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=SmartPotTech&repo=SmartPot-Cache&theme=dark" alt="SmartPot-Cache" />
     </a>
   </div>
+  </details>
 </details>
 
 </details>

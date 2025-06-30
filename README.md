@@ -235,7 +235,7 @@
 </details>
 
 <details open>
-  <summary><h3 align="left">🌐 Connect with me</h3></summary>
+  <summary><h2 align="left">🌐 Connect with me</h2></summary>
   <p align="left">
     <a href="https://codepen.io/sebastianlopezo" target="_blank">
       <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />

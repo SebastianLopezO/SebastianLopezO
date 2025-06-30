@@ -61,15 +61,16 @@ _____________|','   ///_/-------------/   |
 
 ## Technical Skills
 
+* **Programming Languages**: Python, Java, C++, JavaScript, SQL
 * **Web Development**: HTML, CSS, JavaScript
-* **Web Programming**: PHP, JavaScript (Node.js), Google Apps Script, Zoho Deluge
-* **Intermediate Programming**: Python, Java, C, C++
-* **Version Management**: Git (GitHub)
-* **Data Management**: SQL, NoSQL
-* **Data Analysis**: Power BI (Basic), Excel (Advanced)
-* **Data Preprocessing**: Python (Pandas), REST API integration, Webhooks
-* **Statistics**: Applied Statistics for Engineering
-* **Workplace Suite Configuration**: Microsoft 365, Google Workspace, Zoho Suite — for business collaboration and productivity optimization
+* **Web Programming**: PHP, Node.js, Google Apps Script, Zoho Deluge
+* **Frameworks & Tools**: Django, Git/GitHub, Power BI, VBA, Pandas, NumPy, Matplotlib
+* **Data Management**: SQL, NoSQL, REST APIs, Webhooks
+* **Data Analysis & Applied Mathematics**: Power BI, Advanced Excel, R, statistical analysis for engineering
+* **Automation & Agile Development**: Scrum methodology (Jira, Confluence), RPA with Python, Macros (Excel, Google Workspace)
+* **Computer Science Foundations**: Automata theory, formal languages, compiler design (JFLAP, Chachalero)
+* **Networks & Systems**: Linux environments, Cisco Packet Tracer, network service installation and administration
+* **Productivity & Collaboration Suites**: Configuration and use of Microsoft 365, Google Workspace, and Zoho Suite for enterprise solutions
 
 <h3 align="left"> 💻 Tech:</h3>
 <p align="left">

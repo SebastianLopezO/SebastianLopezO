@@ -61,14 +61,15 @@ _____________|','   ///_/-------------/   |
 
 ## Technical Skills
 
-- **Web Development**: HTML, CSS, JS
-- **Web Programming**: PHP, JavaScript (Node.js)
-- **Intermediate Programming**: Python, Java, C, C++
-- **Version Management**: Git (GitHub)
-- **Data Management**: SQL, NoSQL
-- **Data Analysis**: Power BI, Basic and Advanced Excel
-- **Data Preprocessing**: Python (Pandas), REST API Management
-- **Statistics**: Applied to Engineering
+* **Web Development**: HTML, CSS, JavaScript
+* **Web Programming**: PHP, JavaScript (Node.js), Google Apps Script, Zoho Deluge
+* **Intermediate Programming**: Python, Java, C, C++
+* **Version Management**: Git (GitHub)
+* **Data Management**: SQL, NoSQL
+* **Data Analysis**: Power BI (Basic), Excel (Advanced)
+* **Data Preprocessing**: Python (Pandas), REST API integration, Webhooks
+* **Statistics**: Applied Statistics for Engineering
+* **Workplace Suite Configuration**: Microsoft 365, Google Workspace, Zoho Suite — for business collaboration and productivity optimization
 
 <h3 align="left"> 💻 Tech:</h3>
 <p align="left">

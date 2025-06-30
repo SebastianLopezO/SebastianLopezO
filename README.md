@@ -299,52 +299,175 @@
       <img src="https://github-contributor-stats.vercel.app/api?username=SebastianLopezO&theme=dark&hide_contributor_rank=false" alt="GitHub Contributor Stats" /> <br>
     </details>
 </details>
+<details open>
+  <summary><h2>📚 Repositories by Category</h2></summary>
 
+<details open>
+  <summary><h2>🎓 Repositories of Computer Engineering</h2></summary>
+  <p>
+    Throughout my <strong>Computer Engineering</strong> degree at <strong>Politécnico Jaime Isaza Cadavid</strong>, I have worked on various projects that showcase my growth in key areas of computer science. These repositories reflect the knowledge acquired through courses in <strong>programming</strong>, <strong>databases</strong>, <strong>operating systems</strong>, <strong>artificial intelligence</strong>, and <strong>communication networks</strong>. They demonstrate practical solutions and experiments with current technologies like <strong>Java</strong>, <strong>Python</strong>, <strong>MongoDB</strong>, <strong>Docker</strong>, and more.
+  </p>
+  <p>
+    Each project highlights my hands-on approach and ability to tackle complex problems, underpinned by a solid theoretical foundation from my academic courses.
+  </p>
 
-## Repositories of Computer Engineering
+  <br>
 
-Throughout my **Computer Engineering** degree at **Politécnico Jaime Isaza Cadavid**, I have worked on various projects that showcase my growth in key areas of computer science. These repositories reflect the knowledge acquired through courses in **programming**, **databases**, **operating systems**, **artificial intelligence**, and **communication networks**. They demonstrate practical solutions and experiments with current technologies like **Java**, **Python**, **MongoDB**, **Docker**, and more.
+  <div align="left">
+    <a href="https://github.com/EngineeringSebastian-s/DB2">
+      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=DB2&theme=dark" alt="DB2" />
+    </a>
+    <a href="https://github.com/EngineeringSebastian-s/SistemasOperativos">
+      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=SistemasOperativos&theme=dark" alt="SistemasOperativos" />
+    </a>
+    <a href="https://github.com/EngineeringSebastian-s/ARQH">
+      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=ARQH&theme=dark" alt="ARQH" />
+    </a>
+    <a href="https://github.com/EngineeringSebastian-s/TLP2">
+      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=TLP2&theme=dark" alt="TLP2" />
+    </a>
+    <a href="https://github.com/EngineeringSebastian-s/TLP1">
+      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=TLP1&theme=dark" alt="TLP1" />
+    </a>
+    <a href="https://github.com/EngineeringSebastian-s/Grafos">
+      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=Grafos&theme=dark" alt="Grafos" />
+    </a>
+    <a href="https://github.com/EngineeringSebastian-s/Arboles">
+      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=Arboles&theme=dark" alt="Arboles" />
+    </a>
+    <a href="https://github.com/EngineeringSebastian-s/Polinomios">
+      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=Polinomios&theme=dark" alt="Polinomios" />
+    </a>
+    <a href="https://github.com/EngineeringSebastian-s/MatricesDispersas">
+      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=MatricesDispersas&theme=dark" alt="MatricesDispersas" />
+    </a>
+    <a href="https://github.com/EngineeringSebastian-s/SemioticaInformatica">
+      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=SemioticaInformatica&theme=dark" alt="SemioticaInformatica" />
+    </a>
+    <a href="https://github.com/EngineeringSebastian-s/AP4">
+      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=AP4&theme=dark" alt="AP4" />
+    </a>
+    <a href="https://github.com/EngineeringSebastian-s/SistemaDeNotas">
+      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=SistemaDeNotas&theme=dark" alt="SistemaDeNotas" />
+    </a>
+    <a href="https://github.com/EngineeringSebastian-s/AP3">
+      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=AP3&theme=dark" alt="AP3" />
+    </a>
+    <a href="https://github.com/EngineeringSebastian-s/AP2">
+      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=AP2&theme=dark" alt="AP2" />
+    </a>
+    <a href="https://github.com/EngineeringSebastian-s/AP1">
+      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=AP1&theme=dark" alt="AP1" />
+    </a>
+    <a href="https://github.com/EngineeringSebastian-s/CarSpace">
+      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=CarSpace&theme=dark" alt="CarSpace" />
+    </a>
+  </div>
+</details>
 
-Each project highlights my hands-on approach and ability to tackle complex problems, underpinned by a solid theoretical foundation from my academic courses.
+<details open>
+  <summary><h2>🛠️ Repositories of TechnicalSebastians</h2></summary>
+  <p>
+    This space is dedicated to the projects and learning I've acquired during the <strong>Software Programming Technique</strong> course at <strong>IUSH</strong>. Throughout this course, I have developed projects that showcase my proficiency in different programming languages and technologies such as <strong>C#</strong>, <strong>PHP</strong>, <strong>JavaScript</strong>, <strong>MySQL</strong>, and <strong>HTML/CSS</strong>. The following repositories represent the work I have done, including tools like <strong>Apache</strong>, <strong>Composer</strong>, and <strong>Docker</strong>. These projects reflect my growth in <strong>software development</strong>, ranging from web applications to system tools.
+  </p>
+  <p>
+    Each repository demonstrates my hands-on experience and my ability to create practical solutions, emphasizing both backend and frontend development, as well as the application of best practices in the software engineering process.
+  </p>
 
-| [![DB2 GitHub stats-Dark](https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=DB2&theme=dark)](https://github.com/EngineeringSebastian-s/DB2) | [![SistemasOperativos GitHub stats-Dark](https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=SistemasOperativos&theme=dark)](https://github.com/EngineeringSebastian-s/SistemasOperativos) |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [![ARQH GitHub stats-Dark](https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=ARQH&theme=dark)](https://github.com/EngineeringSebastian-s/ARQH) | [![TLP2 GitHub stats-Dark](https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=TLP2&theme=dark)](https://github.com/EngineeringSebastian-s/TLP2) |
-| [![TLP1 GitHub stats-Dark](https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=TLP1&theme=dark)](https://github.com/EngineeringSebastian-s/TLP1) | [![Grafos GitHub stats-Dark](https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=Grafos&theme=dark)](https://github.com/EngineeringSebastian-s/Grafos) |
-| [![Arboles GitHub stats-Dark](https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=Arboles&theme=dark)](https://github.com/EngineeringSebastian-s/Arboles) | [![Polinomios GitHub stats-Dark](https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=Polinomios&theme=dark)](https://github.com/EngineeringSebastian-s/Polinomios) |
-| [![MatricesDispersas GitHub stats-Dark](https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=MatricesDispersas&theme=dark)](https://github.com/EngineeringSebastian-s/MatricesDispersas) | [![SemioticaInformatica GitHub stats-Dark](https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=SemioticaInformatica&theme=dark)](https://github.com/EngineeringSebastian-s/SemioticaInformatica) |
-| [![AP4 GitHub stats-Dark](https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=AP4&theme=dark)](https://github.com/EngineeringSebastian-s/AP4) | [![SistemaDeNotas GitHub stats-Dark](https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=SistemaDeNotas&theme=dark)](https://github.com/EngineeringSebastian-s/SistemaDeNotas) |
-| [![AP3 GitHub stats-Dark](https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=AP3&theme=dark)](https://github.com/EngineeringSebastian-s/AP3) | [![AP2 GitHub stats-Dark](https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=AP2&theme=dark)](https://github.com/EngineeringSebastian-s/AP2) |
-| [![AP1 GitHub stats-Dark](https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=AP1&theme=dark)](https://github.com/EngineeringSebastian-s/AP1) | [![CarSpace GitHub stats-Dark](https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=CarSpace&theme=dark)](https://github.com/EngineeringSebastian-s/CarSpace) |
+  <br>
 
-## Repositories of TechnicalSebastians
+  <div align="left">
+    <a href="https://github.com/TechnicalSebastians/VideoToAscii">
+      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=TechnicalSebastians&repo=VideoToAscii&theme=dark" alt="VideoToAscii" />
+    </a>
+    <a href="https://github.com/TechnicalSebastians/SitePersist">
+      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=TechnicalSebastians&repo=SitePersist&theme=dark" alt="SitePersist" />
+    </a>
+    <a href="https://github.com/TechnicalSebastians/CalculadoraNasa">
+      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=TechnicalSebastians&repo=CalculadoraNasa&theme=dark" alt="CalculadoraNasa" />
+    </a>
+    <a href="https://github.com/TechnicalSebastians/AdminSitePersist">
+      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=TechnicalSebastians&repo=AdminSitePersist&theme=dark" alt="AdminSitePersist" />
+    </a>
+  </div>
+</details>
 
-This space is dedicated to the projects and learning I've acquired during the **Software Programming Technique** course at **IUSH**. Throughout this course, I have developed projects that showcase my proficiency in different programming languages and technologies such as **C#**, **PHP**, **JavaScript**, **MySQL**, and **HTML/CSS**. The following repositories represent the work I have done, including tools like **Apache**, **Composer**, and **Docker**. These projects reflect my growth in **software development**, ranging from web applications to system tools.
+<details open>
+  <summary><h2>🎓 Repositories of VocationalSebastian-s</h2></summary>
+  <p>
+    This space is dedicated to my projects and learning in the <strong>Software Programming Technical High School</strong> at <strong>Pascual Bravo</strong>, in collaboration with <strong>INEM</strong>. Through this educational program, I have developed a variety of projects that have helped me strengthen my skills in programming, using languages such as <strong>HTML</strong>, <strong>PHP</strong>, <strong>Visual Basic .NET</strong>, <strong>Java</strong>, and <strong>Python</strong>. These repositories represent practical applications and experiments with various programming concepts and technologies, showcasing my ability to create both functional and creative solutions.
+  </p>
 
-Each repository demonstrates my hands-on experience and my ability to create practical solutions, emphasizing both backend and frontend development, as well as the application of best practices in the software engineering process.
+  <br>
 
+  <div align="left">
+    <a href="https://github.com/VocationalSebastian-s/TheCompanyDream">
+      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=VocationalSebastian-s&repo=TheCompanyDream&theme=dark" alt="TheCompanyDream" />
+    </a>
+    <a href="https://github.com/VocationalSebastian-s/InstintoAcuatico">
+      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=VocationalSebastian-s&repo=InstintoAcuatico&theme=dark" alt="InstintoAcuatico" />
+    </a>
+    <a href="https://github.com/VocationalSebastian-s/BitMapConvertColor">
+      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=VocationalSebastian-s&repo=BitMapConvertColor&theme=dark" alt="BitMapConvertColor" />
+    </a>
+    <a href="https://github.com/VocationalSebastian-s/BingoExcel">
+      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=VocationalSebastian-s&repo=BingoExcel&theme=dark" alt="BingoExcel" />
+    </a>
+    <a href="https://github.com/VocationalSebastian-s/CalculadoraJava">
+      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=VocationalSebastian-s&repo=CalculadoraJava&theme=dark" alt="CalculadoraJava" />
+    </a>
+    <a href="https://github.com/VocationalSebastian-s/PositionHorse">
+      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=VocationalSebastian-s&repo=PositionHorse&theme=dark" alt="PositionHorse" />
+    </a>
+    <a href="https://github.com/VocationalSebastian-s/GuiaPython">
+      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=VocationalSebastian-s&repo=GuiaPython&theme=dark" alt="GuiaPython" />
+    </a>
+    <a href="https://github.com/VocationalSebastian-s/DimensionCube">
+      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=VocationalSebastian-s&repo=DimensionCube&theme=dark" alt="DimensionCube" />
+    </a>
+  </div>
+</details>
 
-| [![VideoToAscii GitHub stats-Dark](https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=TechnicalSebastians&repo=VideoToAscii&theme=dark)](https://github.com/TechnicalSebastians/VideoToAscii) | [![SitePersist GitHub stats-Dark](https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=TechnicalSebastians&repo=SitePersist&theme=dark)](https://github.com/TechnicalSebastians/SitePersist) |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [![CalculadoraNasa GitHub stats-Dark](https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=TechnicalSebastians&repo=CalculadoraNasa&theme=dark)](https://github.com/TechnicalSebastians/CalculadoraNasa) | [![AdminSitePersist GitHub stats-Dark](https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=TechnicalSebastians&repo=AdminSitePersist&theme=dark)](https://github.com/TechnicalSebastians/AdminSitePersist) |
+<details open>
+  <summary><h2>🌱 Repositories of SmartPotTech</h2></summary>
+  <p>
+    <strong>SmartPot</strong> is a personal project that integrates IoT technologies to automate and optimize the management of hydroponic gardens, focusing on crops like tomatoes and lettuce. This system has been developed across multiple courses, such as <strong>Hardware Architecture</strong> (using ESP32 for IoT processes), <strong>Software Design</strong> (creating the web portal with React, Node, and design patterns), and <strong>Programming Languages Workshop 2</strong> (developing the API with Spring Boot). Over time, the project has evolved significantly and now has its own dedicated organization to manage its expanding features.
+  </p>
 
-## Repositories of VocationalSebastian-s
+  <br>
 
-This space is dedicated to my projects and learning in the **Software Programming Technical High School** at **Pascual Bravo**, in collaboration with **INEM**. Through this educational program, I have developed a variety of projects that have helped me strengthen my skills in programming, using languages such as **HTML**, **PHP**, **Visual Basic .NET**, **Java**, and **Python**. These repositories represent practical applications and experiments with various programming concepts and technologies, showcasing my ability to create both functional and creative solutions.
+  <div align="left">
+    <a href="https://github.com/SmartPotTech/SmartPot-API">
+      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=SmartPotTech&repo=SmartPot-API&theme=dark" alt="SmartPot-API" />
+    </a>
+    <a href="https://github.com/SmartPotTech/.github">
+      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=SmartPotTech&repo=.github&theme=dark" alt=".github" />
+    </a>
+    <a href="https://github.com/SmartPotTech/SmartPot-Web">
+      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=SmartPotTech&repo=SmartPot-Web&theme=dark" alt="SmartPot-Web" />
+    </a>
+    <a href="https://github.com/SmartPotTech/SmartPot-DB">
+      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=SmartPotTech&repo=SmartPot-DB&theme=dark" alt="SmartPot-DB" />
+    </a>
+    <a href="https://github.com/SmartPotTech/SmartPot-IoT">
+      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=SmartPotTech&repo=SmartPot-IoT&theme=dark" alt="SmartPot-IoT" />
+    </a>
+    <a href="https://github.com/SmartPotTech/SmartPot-Middleware">
+      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=SmartPotTech&repo=SmartPot-Middleware&theme=dark" alt="SmartPot-Middleware" />
+    </a>
+    <a href="https://github.com/SmartPotTech/SmartPot-DataAnalytics">
+      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=SmartPotTech&repo=SmartPot-DataAnalytics&theme=dark" alt="SmartPot-DataAnalytics" />
+    </a>
+    <a href="https://github.com/SmartPotTech/SmartPot-DataGenerator">
+      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=SmartPotTech&repo=SmartPot-DataGenerator&theme=dark" alt="SmartPot-DataGenerator" />
+    </a>
+    <a href="https://github.com/SmartPotTech/SmartPot-Mail">
+      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=SmartPotTech&repo=SmartPot-Mail&theme=dark" alt="SmartPot-Mail" />
+    </a>
+    <a href="https://github.com/SmartPotTech/SmartPot-Cache">
+      <img width="278" src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=SmartPotTech&repo=SmartPot-Cache&theme=dark" alt="SmartPot-Cache" />
+    </a>
+  </div>
+</details>
 
-| [![TheCompanyDream GitHub stats-Dark](https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=VocationalSebastian-s&repo=TheCompanyDream&theme=dark)](https://github.com/VocationalSebastian-s/TheCompanyDream) | [![InstintoAcuatico GitHub stats-Dark](https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=VocationalSebastian-s&repo=InstintoAcuatico&theme=dark)](https://github.com/VocationalSebastian-s/InstintoAcuatico) |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [![BitMapConvertColor GitHub stats-Dark](https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=VocationalSebastian-s&repo=BitMapConvertColor&theme=dark)](https://github.com/VocationalSebastian-s/BitMapConvertColor) | [![BingoExcel GitHub stats-Dark](https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=VocationalSebastian-s&repo=BingoExcel&theme=dark)](https://github.com/VocationalSebastian-s/BingoExcel) |
-| [![CalculadoraJava GitHub stats-Dark](https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=VocationalSebastian-s&repo=CalculadoraJava&theme=dark)](https://github.com/VocationalSebastian-s/CalculadoraJava) | [![PositionHorse GitHub stats-Dark](https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=VocationalSebastian-s&repo=PositionHorse&theme=dark)](https://github.com/VocationalSebastian-s/PositionHorse) |
-| [![GuiaPython GitHub stats-Dark](https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=VocationalSebastian-s&repo=GuiaPython&theme=dark)](https://github.com/VocationalSebastian-s/GuiaPython) | [![DimensionCube GitHub stats-Dark](https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=VocationalSebastian-s&repo=DimensionCube&theme=dark)](https://github.com/VocationalSebastian-s/DimensionCube) |
-
-## Repositories of SmartPotTech
-
-**SmartPot** is a personal project that integrates IoT technologies to automate and optimize the management of hydroponic gardens, focusing on crops like tomatoes and lettuce. This system has been developed across multiple courses, such as **Hardware Architecture** (using ESP32 for IoT processes), **Software Design** (creating the web portal with React, Node, and design patterns), and **Programming Languages Workshop 2** (developing the API with Spring Boot). Over time, the project has evolved significantly and now has its own dedicated organization to manage its expanding features.
-
-| [![SmartPot-API GitHub stats-Dark](https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=SmartPotTech&repo=SmartPot-API&theme=dark)](https://github.com/SmartPotTech/SmartPot-API) | [![.github GitHub stats-Dark](https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=SmartPotTech&repo=.github&theme=dark)](https://github.com/SmartPotTech/.github) |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [![SmartPot-Web GitHub stats-Dark](https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=SmartPotTech&repo=SmartPot-Web&theme=dark)](https://github.com/SmartPotTech/SmartPot-Web) | [![SmartPot-DB GitHub stats-Dark](https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=SmartPotTech&repo=SmartPot-DB&theme=dark)](https://github.com/SmartPotTech/SmartPot-DB) |
-| [![SmartPot-IoT GitHub stats-Dark](https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=SmartPotTech&repo=SmartPot-IoT&theme=dark)](https://github.com/SmartPotTech/SmartPot-IoT) | [![SmartPot-Middleware GitHub stats-Dark](https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=SmartPotTech&repo=SmartPot-Middleware&theme=dark)](https://github.com/SmartPotTech/SmartPot-Middleware) |
-| [![SmartPot-DataAnalytics GitHub stats-Dark](https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=SmartPotTech&repo=SmartPot-DataAnalytics&theme=dark)](https://github.com/SmartPotTech/SmartPot-DataAnalytics) | [![SmartPot-DataGenerator GitHub stats-Dark](https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=SmartPotTech&repo=SmartPot-DataGenerator&theme=dark)](https://github.com/SmartPotTech/SmartPot-DataGenerator) |
-| [![SmartPot-Mail GitHub stats-Dark](https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=SmartPotTech&repo=SmartPot-Mail&theme=dark)](https://github.com/SmartPotTech/SmartPot-Mail) | [![SmartPot-Cache GitHub stats-Dark](https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=SmartPotTech&repo=SmartPot-Cache&theme=dark)](https://github.com/SmartPotTech/SmartPot-Cache) |
+</details>

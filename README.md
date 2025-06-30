@@ -209,6 +209,8 @@ _____________|','   ///_/-------------/   |
 
 [![GitHub Streak](https://github-readme-streak-stats-steel-theta.vercel.app/?user=SebastianLopezO&theme=dark&hide_border=false&border_radius=10)](https://git.io/streak-stats)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SebastianLopezO&bg_color=151515&color=9e9e9e&line=fb8c00&point=fb8c00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 [![Sebastian's GitHub stats-Dark](https://github-readme-stats-one-liart-24.vercel.app/api?username=SebastianLopezO&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/SebastianLopezO#gh-dark-mode-only)
 
 [![Sebastian's GitHub Contributor stats-Dark](https://github-contributor-stats.vercel.app/api?username=SebastianLopezO&theme=dark&hide_contributor_rank=false#gh-dark-mode-only)](https://github.com/SebastianLopezO#gh-dark-mode-only)

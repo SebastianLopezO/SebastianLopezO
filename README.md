@@ -58,16 +58,10 @@
   <summary><h2>🎓 Education</h2></summary>
 
   <ul>
-    <li>
-      <strong>2019–2021</strong><br>
-      High School with Specialization in Computer Science<br>
-      <em>I.E. Inem José Félix de Restrepo</em>
-    </li>
-    <br>
-    <li>
-      <strong>2020–2021</strong><br>
-      Assistant Software Development Technician (Technical Secondary Level)<br>
-      <em>Institución Educativa Pascual Bravo</em>
+     <li>
+      <strong>2022–2027 (In Progress)</strong><br>
+      Bachelor’s Degree in Computer Engineering<br>
+      <em>Politécnico Jaime Isaza Cadavid</em>
     </li>
     <br>
     <li>
@@ -77,9 +71,15 @@
     </li>
     <br>
     <li>
-      <strong>2022–2027 (In Progress)</strong><br>
-      Bachelor’s Degree in Computer Engineering<br>
-      <em>Politécnico Jaime Isaza Cadavid</em>
+      <strong>2020–2021</strong><br>
+      Assistant Software Development Technician (Technical Secondary Level)<br>
+      <em>Institución Educativa Pascual Bravo</em>
+    </li>
+    <br>
+    <li>
+      <strong>2019–2021</strong><br>
+      High School with Specialization in Computer Science<br>
+      <em>I.E. Inem José Félix de Restrepo</em>
     </li>
   </ul>
 </details>

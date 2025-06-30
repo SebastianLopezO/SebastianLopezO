@@ -15,7 +15,7 @@ My background also includes knowledge in networks, acquired through tools like C
 
 These skills and experiences are the result of comprehensive coursework in Software Construction, Networks and Communications, Operating Systems, Theory of Languages and Compilers, and many other areas. My long-term goal is to deepen my expertise in Software Development, Data Analysis, and the Internet of Things (IoT), while continually contributing to impactful projects through innovation and teamwork.
 
----
+~~~
 
 
                              \\\\\\\

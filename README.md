@@ -11,39 +11,26 @@
   <summary>
     <h2> 👨‍💻 About Me</h2>
   </summary>
-
-  <p>
-    I am a self-taught and highly motivated individual with a strong passion for technology and continuous learning. My
-    academic journey in Computer Engineering at Politécnico Jaime Isaza Cadavid in Medellín, Colombia, has equipped me
-    with a wide range of technical and analytical skills across multiple domains.
+     <p>
+    I am a passionate and proactive Computer Engineering student from Medellín, Colombia, driven by an insatiable curiosity and a strong commitment to continuous learning. My journey has been defined by a hands-on mindset, a deep sense of initiative, and the constant search for solutions that make a real impact.
   </p>
 
   <p>
-    Throughout my studies, I have developed strong mathematical and algorithmic thinking thanks to courses like
-    Numerical Analysis, where I applied various methods using Python with libraries such as NumPy and Matplotlib. I have
-    also explored the fundamentals of R and used tools like GeoGebra and Excel, including automation through Macros,
-    VBA, and Google Apps Script.
+    My academic and professional experiences have shaped me into a versatile individual capable of tackling complex challenges through analytical thinking, creativity, and teamwork. I stand out for my investigative mindset, my ability to learn independently, and my dedication to improving both individual and collective outcomes.
   </p>
 
   <p>
-    In addition, I’ve gained experience with Robotic Process Automation (RPA) using Python and Chrome drivers. I have
-    actively worked with Agile methodologies, especially Scrum, using Jira and Confluence, and have taken on roles
-    involving teamwork and leadership, such as Scrum Master.
+    Whether working as part of a team or independently, I strive to contribute value by connecting ideas, optimizing processes, and solving problems with a balance of logic, empathy, and innovation. My work ethic is rooted in consistency, communication, and a genuine desire to help others grow.
   </p>
 
   <p>
-    My background also includes knowledge in networks, acquired through tools like Cisco Packet Tracer, as well as in
-    virtualization and system administration using Linux, including the installation of network services and
-    command-line operations. Moreover, I have a solid foundation in automata theory and compilers, working with tools
-    like JFLAP and Chachalero to design finite state machines and implement language-processing algorithms.
+    I’ve had the privilege of contributing to various projects across different environments—academic, business, and social—always bringing a forward-thinking perspective, a deep respect for collaboration, and a strong adaptability to new challenges.
   </p>
 
   <p>
-    These skills and experiences are the result of comprehensive coursework in Software Construction, Networks and
-    Communications, Operating Systems, Theory of Languages and Compilers, and many other areas. My long-term goal is to
-    deepen my expertise in Software Development, Data Analysis, and the Internet of Things (IoT), while continually
-    contributing to impactful projects through innovation and teamwork.
+    I see engineering not just as the mastery of tools, but as the art of understanding complex systems, asking the right questions, and building thoughtful, sustainable, and human-centered solutions.
   </p>
+
   
   ~~~
   

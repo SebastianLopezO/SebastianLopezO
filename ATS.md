@@ -200,17 +200,11 @@ Introducción a Excel Profesional, **Cámara de Comercio**
 SQL (Basic), **HackerRank**
 : may. 2022
 
-Fundamentos de Programación 1, **Universidad Tecnológica de Pereira**
-: dic. 2021
-
-Fundamentos de Programación 2, **Universidad Tecnológica de Pereira**
+Fundamentos de Programación 1 y 2, **Universidad Tecnológica de Pereira**
 : dic. 2021
 
 Introducción a Python, **Universidad EIA**
 : may. 2021
-
-Introduction to HTML, **Coursera**
-: dic. 2020 
 
 ## Projects
 
@@ -238,3 +232,5 @@ Repositorios realizados durante el bachillerato especializado en informática en
 
 * Aplicaciones didácticas usando Visual Basic .NET, Java, HTML, PHP y Python.
 * Fortalecimiento de habilidades de lógica, diseño y desarrollo de software desde la educación media técnica.
+
+

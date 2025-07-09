@@ -229,5 +229,3 @@ Repositorios realizados durante el bachillerato especializado en informática en
 
 * Aplicaciones didácticas usando Visual Basic .NET, Java, HTML, PHP y Python.
 * Fortalecimiento de habilidades de lógica, diseño y desarrollo de software desde la educación media técnica.
-
-

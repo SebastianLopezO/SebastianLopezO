@@ -50,9 +50,10 @@
 
 Politécnico Jaime Isaza Cadavid
 : Medellín, Colombia
-- Formación integral en desarrollo de software, arquitectura de computadoras, redes, inteligencia artificial y bases de datos.
-- 
-- 
+
+* Formación integral en ciencias de la computación, ingeniería de software, arquitectura de hardware, redes, sistemas operativos e inteligencia artificial.
+* Desarrollo de proyectos con tecnologías como Java, Python, MongoDB, Spring Boot, Docker, React y ESP32.
+* Enfoque en el pensamiento crítico, la resolución de problemas y el liderazgo de proyectos tecnológicos.
 
 **Technician in Software Programming**  
 : **Jan 2022 – May 2023**
@@ -60,18 +61,19 @@ Politécnico Jaime Isaza Cadavid
 SENA – Instituto Universitario Salazar y Herrera (IUSH)
 : Medellín, Colombia
 
-- 
--
--
+* Formación práctica en desarrollo web, bases de datos, control de versiones, y gestión de proyectos.
+* Uso de herramientas como Git, MySQL, HTML/CSS, JavaScript, PHP y Composer.
+* Enfoque en programación funcional, analítica de datos y modelado de datos.
 
 **Assistant Technician in Software Development (Media Técnica)**  
 : **2020 – 2021**
 
 Institución Educativa Pascual Bravo
 : Medellín, Colombia
--
--
--
+
+* Formación enfocada en la lógica de programación, estructuras de datos y bases de datos relacionales.
+* Desarrollo de aplicaciones web simples y manejo de herramientas como Visual Studio y MySQL.
+* Introducción al trabajo colaborativo, control de versiones y principios básicos del desarrollo ágil.
 
 **High School with IT Specialization**  
 : **2019 – 2021**
@@ -79,9 +81,10 @@ Institución Educativa Pascual Bravo
 I.E. Inem José Félix de Restrepo
 : Medellín, Colombia
 
--
--
--
+* Bachillerato técnico con énfasis en informática y fundamentos de programación.
+* Formación básica en HTML, Visual Basic .NET, lógica algorítmica y ofimática avanzada.
+* Participación en proyectos académicos de innovación con enfoque en TIC.
+
 
 ## Skills
 
@@ -211,15 +214,27 @@ Introduction to HTML, **Coursera**
 
 ## Projects
 
-**SmartPotTech (IoT & Agricultura)**  
-- Sistema automatizado de cultivo hidropónico con ESP32 y sensores, desarrollado con MicroPython, React, Node.js y Spring Boot.  
-- Integración de múltiples tecnologías desde cursos de arquitectura de hardware, diseño de software y APIs REST.
+**SmartPotTech (IoT & Agricultura)**
+Proyecto personal de automatización de cultivo hidropónico con enfoque académico y profesional.
 
-**Repositorio Ingeniería en Computación**  
-- Proyectos de universidad con soluciones en Java, Python, MongoDB, Docker, etc.  
-- Aplicaciones orientadas a resolución de problemas reales con base académica sólida.
+* Sistema completo de gestión de cultivos usando ESP32, sensores ambientales y MicroPython.
+* Desarrollo backend en Spring Boot, frontend en React y orquestación con Node.js y bases de datos.
+* Organización dedicada en GitHub con múltiples repositorios que incluyen API, IoT, Web, Cache, Middleware, Análisis de Datos y Generador de Datos.
 
-**Repositorio Técnica Profesional e Intermedia**  
-- Aplicaciones web en PHP, MySQL, HTML, C#, proyectos con Docker y Composer.  
-- Herramientas desarrolladas para gestión de datos y flujos automatizados en ambientes simulados.
+**EngineeringSebastian-s (Computer Engineering)**
+Repositorio académico vinculado a la carrera de Ingeniería Informática en el Politécnico Jaime Isaza Cadavid.
 
+* Proyectos en Java, Python, MongoDB y Docker que reflejan conocimientos adquiridos en programación, redes, IA, estructuras de datos y sistemas operativos.
+* Ejemplos clave: manejo de árboles, grafos, semiótica informática, programación funcional, sistemas operativos y más.
+
+**TechnicalSebastians (Técnico Profesional en Programación de Software - IUSH)**
+Proyectos desarrollados durante el ciclo técnico profesional.
+
+* Aplicaciones web con PHP, C#, MySQL, JavaScript, HTML y herramientas como Apache, Docker y Composer.
+* Enfoque en desarrollo backend y frontend, automatización de procesos y buenas prácticas en ingeniería de software.
+
+**VocationalSebastian-s (Técnico en Programación - Bachillerato)**
+Repositorios realizados durante el bachillerato especializado en informática en Pascual Bravo e INEM.
+
+* Aplicaciones didácticas usando Visual Basic .NET, Java, HTML, PHP y Python.
+* Fortalecimiento de habilidades de lógica, diseño y desarrollo de software desde la educación media técnica.

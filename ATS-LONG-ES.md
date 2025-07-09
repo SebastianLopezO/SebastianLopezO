@@ -16,31 +16,34 @@
 **IT Manager & Backend CRM Developer**  
 : **TIVENOS - Solutions for Education**  
 : **Jun 2025 – Present | Remote**
-- Desarrollo y mantenimiento de servicios backend para plataformas educativas.  
-- Integración de APIs REST y administración de bases de datos.  
-- Automatización de flujos y optimización de infraestructura en entornos educativos.
+* Lidero el desarrollo backend de plataformas educativas, integrando APIs REST y gestionando estructuras de datos escalables.
+* Automatizo flujos administrativos y académicos, mejorando la eficiencia operativa de los sistemas internos.
+* Diseño e implemento soluciones personalizadas adaptadas al entorno educativo, manteniendo la escalabilidad y seguridad.
+
 
 **CRM Developer & Web Developer**  
 : **ADCOM GROUP**  
 : **Feb 2025 – Present | Medellín (Híbrido)**  
-- Configuración de Zoho CRM, desarrollo de funciones personalizadas con Deluge.  
-- Integración de plataformas externas como WhatsApp, Meta Ads y Google Ads vía APIs.  
-- Desarrollo de herramientas internas con Zoho Creator y automatización de contactabilidad con IA (Dapta).
+* Configuración avanzada y personalización de Zoho CRM: módulos, flujos, funciones y scripts con Deluge.
+* Integración de servicios externos (WhatsApp, Meta Ads, Google Ads) mediante APIs RESTful.
+* Desarrollo de herramientas internas con Zoho Creator y automatización de procesos con inteligencia artificial (Dapta).
+* Mejora de la eficiencia comercial a través de soluciones a medida para equipos de marketing y ventas.
 
 **Backend Developer | Data Analyst | CRM Analyst**  
 : **MUV-U S.A.S**  
 : **Jul 2023 – Jan 2025 | Sabaneta (Híbrido)**  
-- Desarrollo de informes en Power BI para áreas financieras y de mercadeo.  
-- Automatización de procesos dentro del CRM.  
-- Diseño de arquitectura de datos entrantes y desarrollo de componentes web.  
-- Administración de servidores y gestión de infraestructura TI.
+* Desarrollo de reportes ejecutivos en **Power BI** para áreas financieras y comerciales, usando modelado de datos avanzado.
+* Automatización de tareas en CRM para mejorar la productividad del equipo comercial.
+* Diseño de arquitectura de datos para entrada y transformación de información en CRM.
+* Desarrollo backend de componentes para la plataforma web de la empresa.
+* Administración de servidores e infraestructura TI, y soporte a usuarios internos.
 
 **Data Analyst (Intern)**  
 : **Quipux S.A.S**  
 : **Aug 2022 – May 2023 | Medellín (Híbrido)**  
-- Preprocesamiento de datos para análisis estratégico.  
-- Automatización de reportes y visualizaciones interactivas.  
-- Optimización de procesos de información para la toma de decisiones.
+* Limpieza, transformación y carga de grandes volúmenes de datos para informes de alto impacto.
+* Automatización de procesos y generación de reportes utilizando herramientas de BI y scripts en Python.
+* Diseño de visualizaciones interactivas que facilitaron la toma de decisiones en procesos de recaudo y movilidad.
 
 ## Education
 
@@ -116,12 +119,6 @@ I.E. Inem José Félix de Restrepo
 
 **Other Skills:**  
 <span class="iconify" data-icon="mdi:robot-industrial"></span> Automatización RPA,  <span class="iconify" data-icon="mdi:clipboard-check-outline"></span> Metodologías Ágiles (Scrum),  <span class="iconify" data-icon="mdi:function-variant"></span> Matemáticas Aplicadas,  <span class="iconify" data-icon="mdi:chart-areaspline"></span> Diseño de Arquitecturas,  <span class="iconify" data-icon="mdi:account-group-outline"></span> Herramientas Colaborativas,  <span class="iconify" data-icon="mdi:database-cog-outline"></span> Administración de CRM,  <span class="iconify" data-icon="mdi:server-network-outline"></span> Infraestructura TI
-
-## Languages
-
-**Español:** Nativo  
-**Inglés:** Nivel B1  
-**Portugués:** Nivel A2
 
 ## Certifications & Awards
 
@@ -232,5 +229,3 @@ Repositorios realizados durante el bachillerato especializado en informática en
 
 * Aplicaciones didácticas usando Visual Basic .NET, Java, HTML, PHP y Python.
 * Fortalecimiento de habilidades de lógica, diseño y desarrollo de software desde la educación media técnica.
-
-

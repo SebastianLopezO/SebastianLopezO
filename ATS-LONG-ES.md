@@ -11,7 +11,7 @@
   : <span class="iconify" data-icon="tabler:brand-linkedin"></span> [linkedin/sebastianlopezosorno](https://linkedin.com/in/sebastianlopezosorno)
   : <span class="iconify" data-icon="tabler:mail"></span> [sebastianlopezosorno2005@gmail.com](mailto:sebastianlopezosorno2005@gmail.com)
 
-## Experience
+## Experiencia
 
 **IT Manager & Backend CRM Developer**  
 : **TIVENOS - Solutions for Education**  
@@ -45,7 +45,7 @@
 * Automatización de procesos y generación de reportes utilizando herramientas de BI y scripts en Python.
 * Diseño de visualizaciones interactivas que facilitaron la toma de decisiones en procesos de recaudo y movilidad.
 
-## Education
+## Educación
 
 **B.Eng. in Computer Engineering**  
 : **Politécnico Jaime Isaza Cadavid**  
@@ -89,7 +89,7 @@ I.E. Inem José Félix de Restrepo
 * Participación en proyectos académicos de innovación con enfoque en TIC.
 
 
-## Skills
+## Habilidades
 
 
 **Programming Languages:**  
@@ -229,3 +229,5 @@ Repositorios realizados durante el bachillerato especializado en informática en
 
 * Aplicaciones didácticas usando Visual Basic .NET, Java, HTML, PHP y Python.
 * Fortalecimiento de habilidades de lógica, diseño y desarrollo de software desde la educación media técnica.
+
+

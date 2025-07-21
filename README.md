@@ -31,6 +31,8 @@
     I see engineering not just as the mastery of tools, but as the art of understanding complex systems, asking the right questions, and building thoughtful, sustainable, and human-centered solutions.
   </p>
 
+<img src="https://github.com/SebastianLopezO/SebastianLopezO/blob/main/resume/ATS.png" alt="Resume ATS" />
+
   
   ~~~
   

@@ -10,18 +10,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-      # 📅 Isometric commit calendar (3D)
-      - name: Isometric calendar
+      # 🧊 Isometric calendar (2D)
+      - name: Isocalendar
         uses: lowlighter/metrics@v3.34
         with:
-          filename: metrics.isometric.svg
+          filename: metrics.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: SebastianLopezO
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-      # 📆 Commit calendar (histórico)
+      # 📆 Commit history
       - name: Commit calendar
         uses: lowlighter/metrics@v3.34
         with:
@@ -32,7 +32,24 @@ jobs:
           plugin_calendar: yes
           plugin_calendar_limit: 0
 
-      # 🎟️ Follow-up (issues y PRs)
+      # 💡 Coding habits
+      - name: Coding habits
+        uses: lowlighter/metrics@v3.34
+        with:
+          filename: metrics.habits.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: SebastianLopezO
+          base: ""
+          plugin_habits: yes
+          plugin_habits_from: 300
+          plugin_habits_days: 21
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_trim: yes
+          config_timezone: America/Bogota
+
+      # 🎟️ Issues & PRs
       - name: Follow-up
         uses: lowlighter/metrics@v3.34
         with:
@@ -42,3 +59,40 @@ jobs:
           base: ""
           plugin_followup: yes
           plugin_followup_indepth: yes
+
+      # 🧑‍🤝‍🧑 People
+      - name: People
+        uses: lowlighter/metrics@v3.34
+        with:
+          filename: metrics.people.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: SebastianLopezO
+          base: ""
+          plugin_people: yes
+          plugin_people_types: followers, following
+          plugin_people_limit: 24
+
+      # 🏆 Achievements
+      - name: Achievements
+        uses: lowlighter/metrics@v3.34
+        with:
+          filename: metrics.achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: SebastianLopezO
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
+
+      # 📰 Recent activity
+      - name: Recent activity
+        uses: lowlighter/metrics@v3.34
+        with:
+          filename: metrics.activity.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: SebastianLopezO
+          base: ""
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: issue, pr, release, fork, review

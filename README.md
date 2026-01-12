@@ -474,49 +474,46 @@
     <h2>📊 GitHub Stats</h2>
   </summary>
   <p align="center">
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=SebastianLopezO&label=Profile%20views&color=0e75b6&style=flat"
-      alt="Profile Views" />
-    <img src="https://img.shields.io/github/stars/SebastianLopezO?style=flat&logo=github" alt="GitHub Stars" />
-    <img src="https://img.shields.io/github/followers/SebastianLopezO?style=flat&logo=github&label=Followers"
-      alt="Followers Count" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SebastianLopezO&layout=compact&theme=dark"
-      alt="WakaTime Stats" />
+    <p align="center">
+      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/github-metrics.svg" />
+    </p>
+    <p align="center">
+      <img
+        src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics.isometric.svg"
+        alt="Isometric Commit Calendar" />
+      <img
+        src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics.calendar.svg"
+        alt="Commit History Calendar" />
+    </p>
+    <p align="center">
+      <img src="https://komarev.com/ghpvc/?username=SebastianLopezO&label=Profile%20views&color=0e75b6&style=flat"
+        alt="Profile Views" />
+      <img src="https://img.shields.io/github/stars/SebastianLopezO?style=flat&logo=github" alt="GitHub Stars" />
+      <img src="https://img.shields.io/github/followers/SebastianLopezO?style=flat&logo=github&label=Followers"
+        alt="Followers Count" />
+    </p>
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SebastianLopezO&layout=compact&theme=dark"
+        alt="WakaTime Stats" />
+      <img
+        src="https://github-readme-stats-one-liart-24.vercel.app/api/top-langs/?username=SebastianLopezO&layout=donut-vertical&hide=HTML,Procfile,Papyrus&langs_count=20&theme=dark"
+        alt="Top Languages" />
+    </p>
+    <br>
+    <p align="center">
+      <img
+        src="https://github-readme-streak-stats-steel-theta.vercel.app/?user=SebastianLopezO&theme=dark&hide_border=false&border_radius=10"
+        alt="GitHub Streak" />
+      <img
+        src="https://github-readme-stats-one-liart-24.vercel.app/api?username=SebastianLopezO&show_icons=true&theme=dark"
+        alt="GitHub Stats" />
+    </p>
     <img
-      src="https://github-readme-stats-one-liart-24.vercel.app/api/top-langs/?username=SebastianLopezO&layout=donut-vertical&hide=HTML,Procfile,Papyrus&langs_count=20&theme=dark"
-      alt="Top Languages" />
-  </p>
-  <br>
-  <p align="center">
-    <img
-      src="https://github-readme-streak-stats-steel-theta.vercel.app/?user=SebastianLopezO&theme=dark&hide_border=false&border_radius=10"
-      alt="GitHub Streak" />
-    <img
-      src="https://github-readme-stats-one-liart-24.vercel.app/api?username=SebastianLopezO&show_icons=true&theme=dark"
-      alt="GitHub Stats" />
-  </p>
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SebastianLopezO&bg_color=151515&color=9e9e9e&line=fb8c00&point=fb8c00&area=true&hide_border=true"
-    alt="GitHub Activity Graph" /> <br>
-  <img src="https://github-profile-trophy-pi-umber.vercel.app/?username=SebastianLopezO&theme=onedark&row=2&column=9" alt="GitHub Trophies" /> <br>
-  <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/output/snake.svg" alt="Snake animation" />
-  ## 📅 GitHub Activity
-
-  ### 🧊 Isometric Commit Calendar
-  ![Isometric](https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics.isometric.svg)
-  
-  ### 📆 Commit History
-  ![Calendar](https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics.calendar.svg)
-  
-  ### 💡 Coding Habits
-  ![Habits](https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics.habits.svg)
-  
-  ### 🎟️ Issues & Pull Requests
-  ![Follow-up](https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics.followup.svg)
-
-  <br>
+      src="https://github-readme-activity-graph.vercel.app/graph?username=SebastianLopezO&bg_color=151515&color=9e9e9e&line=fb8c00&point=fb8c00&area=true&hide_border=true"
+      alt="GitHub Activity Graph" /> <br>
+    <img src="https://github-profile-trophy-pi-umber.vercel.app/?username=SebastianLopezO&theme=onedark&row=2&column=9" alt="GitHub Trophies" /> <br>
+    <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/output/snake.svg" alt="Snake animation" />
+    <br>
   </p>
   <details>
     <summary>

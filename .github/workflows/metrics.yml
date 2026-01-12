@@ -1,0 +1,19 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Se actualiza diariamente
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Metrics embed
+        uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: SebastianLopezO
+
+          plugin_isometric: yes
+          plugin_isometric_duration: full-year

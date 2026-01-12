@@ -2,18 +2,57 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Se actualiza diariamente
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Metrics embed
+
+      # 📅 Isometric commit calendar (3D)
+      - name: Isometric calendar
         uses: lowlighter/metrics@v3.34
         with:
+          filename: metrics.isometric.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: SebastianLopezO
-
+          base: ""
           plugin_isometric: yes
           plugin_isometric_duration: full-year
+
+      # 📆 Commit calendar (histórico)
+      - name: Commit calendar
+        uses: lowlighter/metrics@v3.34
+        with:
+          filename: metrics.calendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: SebastianLopezO
+          base: ""
+          plugin_calendar: yes
+          plugin_calendar_limit: 0
+
+      # 💡 Coding habits
+      - name: Coding habits
+        uses: lowlighter/metrics@v3.34
+        with:
+          filename: metrics.habits.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: SebastianLopezO
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: graph
+          config_timezone: America/Bogota
+
+      # 🎟️ Follow-up (issues y PRs)
+      - name: Follow-up
+        uses: lowlighter/metrics@v3.34
+        with:
+          filename: metrics.followup.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: SebastianLopezO
+          base: ""
+          plugin_followup: yes
+          plugin_followup_indepth: yes

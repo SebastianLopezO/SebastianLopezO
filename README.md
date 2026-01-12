@@ -502,7 +502,20 @@
     alt="GitHub Activity Graph" /> <br>
   <img src="https://github-profile-trophy-pi-umber.vercel.app/?username=SebastianLopezO&theme=onedark&row=2&column=9" alt="GitHub Trophies" /> <br>
   <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/output/snake.svg" alt="Snake animation" />
-  <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/github-metrics.svg" />
+  ## 📅 GitHub Activity
+
+  ### 🧊 Isometric Commit Calendar
+  ![Isometric](https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics.isometric.svg)
+  
+  ### 📆 Commit History
+  ![Calendar](https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics.calendar.svg)
+  
+  ### 💡 Coding Habits
+  ![Habits](https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics.habits.svg)
+  
+  ### 🎟️ Issues & Pull Requests
+  ![Follow-up](https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics.followup.svg)
+
   <br>
   </p>
   <details>

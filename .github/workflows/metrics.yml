@@ -32,20 +32,6 @@ jobs:
           plugin_calendar: yes
           plugin_calendar_limit: 0
 
-      # 💡 Coding habits
-      - name: Coding habits
-        uses: lowlighter/metrics@v3.34
-        with:
-          filename: metrics.habits.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: SebastianLopezO
-          base: ""
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: graph
-          config_timezone: America/Bogota
-
       # 🎟️ Follow-up (issues y PRs)
       - name: Follow-up
         uses: lowlighter/metrics@v3.34

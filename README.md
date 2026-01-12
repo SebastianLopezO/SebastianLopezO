@@ -502,6 +502,7 @@
     alt="GitHub Activity Graph" /> <br>
   <img src="https://github-profile-trophy-pi-umber.vercel.app/?username=SebastianLopezO&theme=onedark&row=2&column=9" alt="GitHub Trophies" /> <br>
   <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/github-metrics.svg" />
   <br>
   </p>
   <details>

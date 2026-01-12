@@ -475,7 +475,10 @@
   </summary>
   <p align="center">
     <p align="center">
-      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/github-metrics.svg" />
+      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/github-metrics.svg" 
+        alt="Github Metrics" />
+      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics.activity.svg" 
+        alt="Recent Activity" />
     </p>
     <p align="center">
       <img
@@ -485,6 +488,18 @@
         src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics.calendar.svg"
         alt="Commit History Calendar" />
     </p>
+     <p align="center">
+        <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics.habits.svg" 
+          alt="Coding Habits" />
+        <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics.followup.svg" 
+          alt="Issues & Pull Requests" />
+     </p>
+     <p align="center">
+        <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics.people.svg" 
+          alt="People" />
+        <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics.achievements.svg" 
+          alt="Achievements" />
+     </p>
     <p align="center">
       <img src="https://komarev.com/ghpvc/?username=SebastianLopezO&label=Profile%20views&color=0e75b6&style=flat"
         alt="Profile Views" />

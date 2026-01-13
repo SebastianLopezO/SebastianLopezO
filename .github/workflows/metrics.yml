@@ -140,4 +140,12 @@ jobs:
             gnuplot
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 4
-      
+
+      - name: Labels
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.topics.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 12

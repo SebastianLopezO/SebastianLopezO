@@ -508,7 +508,7 @@
         alt="Followers Count" />
     </p>
     <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SebastianLopezO&layout=compact&theme=dark"
+      <img src="https://github-readme-stats-one-liart-24.vercel.app/api/wakatime?username=SebastianLopezO&layout=compact&theme=dark"
         alt="WakaTime Stats" />
       <img
         src="https://github-readme-stats-one-liart-24.vercel.app/api/top-langs/?username=SebastianLopezO&layout=donut-vertical&hide=HTML,Procfile,Papyrus&langs_count=20&theme=dark"

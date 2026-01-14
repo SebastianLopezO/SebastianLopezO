@@ -44,7 +44,7 @@ jobs:
 
       # Coding habits
       - name: Recent activity charts
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           filename: metrics.habits.charts.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -79,7 +79,7 @@ jobs:
 
       # Start List Languages
       - name: Featured star list languages
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           filename: metrics.starlists.languages.svg
           token: NOT_NEEDED
@@ -92,7 +92,7 @@ jobs:
 
       # Icons Languages topics
       - name: Icons
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           filename: metrics.topics.icons.svg
           token: NOT_NEEDED
@@ -102,7 +102,7 @@ jobs:
           plugin_topics_mode: icons
 
       - name: Using classic charts
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           filename: metrics.stargazers.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -111,7 +111,7 @@ jobs:
 
       # Most Lenguage used
       - name: Most used (with details)
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           filename: metrics.languages.details.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -124,7 +124,7 @@ jobs:
           plugin_languages_limit: 4
 
       - name: Labels
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           filename: metrics.topics.labels.svg
           token: NOT_NEEDED

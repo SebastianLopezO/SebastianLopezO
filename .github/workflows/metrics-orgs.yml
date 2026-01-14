@@ -1,0 +1,119 @@
+name: Organization Metrics
+
+on:
+  schedule:
+    - cron: "1 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+
+      # =============================
+      # 🏢 ADCOM-Group
+      # =============================
+      - name: ADCOM-Group metrics
+        uses: lowlighter/metrics@v3.34
+        with:
+          filename: metrics.org.adcom-group.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          template: organization
+          org: ADCOM-Group
+          base: header, activity, community, repositories
+
+      # =============================
+      # 🏢 EngineeringSebastian-s
+      # =============================
+      - name: EngineeringSebastian-s metrics
+        uses: lowlighter/metrics@v3.34
+        with:
+          filename: metrics.org.engineeringsebastians.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          template: organization
+          org: EngineeringSebastian-s
+          base: header, activity, community, repositories
+
+      # =============================
+      # 🏢 PepperTechDev
+      # =============================
+      - name: PepperTechDev metrics
+        uses: lowlighter/metrics@v3.34
+        with:
+          filename: metrics.org.peppertechdev.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          template: organization
+          org: PepperTechDev
+          base: header, activity, community, repositories
+
+      # =============================
+      # 🏢 SmartPotTech
+      # =============================
+      - name: SmartPotTech metrics
+        uses: lowlighter/metrics@v3.34
+        with:
+          filename: metrics.org.smartpottech.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          template: organization
+          org: SmartPotTech
+          base: header, activity, community, repositories
+
+      # =============================
+      # 🏢 TaurusSebastian-s
+      # =============================
+      - name: TaurusSebastian-s metrics
+        uses: lowlighter/metrics@v3.34
+        with:
+          filename: metrics.org.taurussebastians.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          template: organization
+          org: TaurusSebastian-s
+          base: header, activity, community, repositories
+
+      # =============================
+      # 🏢 TechnicalSebastians
+      # =============================
+      - name: TechnicalSebastians metrics
+        uses: lowlighter/metrics@v3.34
+        with:
+          filename: metrics.org.technicalsebastians.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          template: organization
+          org: TechnicalSebastians
+          base: header, activity, community, repositories
+
+      # =============================
+      # 🏢 TestLabData
+      # =============================
+      - name: TestLabData metrics
+        uses: lowlighter/metrics@v3.34
+        with:
+          filename: metrics.org.testlabdata.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          template: organization
+          org: TestLabData
+          base: header, activity, community, repositories
+
+      # =============================
+      # 🏢 TivenosEducation
+      # =============================
+      - name: TivenosEducation metrics
+        uses: lowlighter/metrics@v3.34
+        with:
+          filename: metrics.org.tivenoseducation.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          template: organization
+          org: TivenosEducation
+          base: header, activity, community, repositories
+
+      # =============================
+      # 🏢 VocationalSebastian-s
+      # =============================
+      - name: VocationalSebastian-s metrics
+        uses: lowlighter/metrics@v3.34
+        with:
+          filename: metrics.org.vocationalsebastians.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          template: organization
+          org: VocationalSebastian-s
+          base: header, activity, community, repositories

@@ -526,7 +526,7 @@
     <img
       src="https://github-readme-activity-graph.vercel.app/graph?username=SebastianLopezO&bg_color=151515&color=9e9e9e&line=fb8c00&point=fb8c00&area=true&hide_border=true"
       alt="GitHub Activity Graph" /> <br>
-    <img src="https://github-profile-trophy-pi-umber.vercel.app/?username=SebastianLopezO&theme=onedark&row=2&column=9" alt="GitHub Trophies" /> <br>
+    <img src="https://github-profile-trophy-hkpvrw0xd-sebastianlopezo-projects.vercel.app/?username=SebastianLopezO&theme=onedark&row=2&column=9" alt="GitHub Trophies" /> <br>
     <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/output/snake.svg" alt="Snake animation" />
     <br>
   </p>

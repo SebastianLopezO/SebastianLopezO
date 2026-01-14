@@ -482,7 +482,7 @@
     </p>
     <p align="center">
       <img
-        src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics.isometric.svg"
+        src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics.isocalendar.svg"
         alt="Isometric Commit Calendar" />
       <img
         src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics.calendar.svg"

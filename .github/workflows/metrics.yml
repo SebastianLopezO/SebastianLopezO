@@ -144,7 +144,7 @@ jobs:
       - name: Labels
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.topics.svg
+          filename: metrics.topics.labels.svg
           token: NOT_NEEDED
           base: ""
           plugin_topics: yes

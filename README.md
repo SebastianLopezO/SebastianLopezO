@@ -494,11 +494,12 @@
       <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics.starlists.languages.svg" width="48%" />
     </p>
     <p align="center">
-      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics.languages.details.svg" width="48%" />
       <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics.topics.icons.svg" width="48%" />
+      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics.topics.labels.svg" width="48%" />
     </p>
     <p align="center">
-      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics.topics.labels.svg" width="48%" />
+      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics.languages.details.svg" width="48%" />
+      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics.habits.charts.svg" width="48%" />
     </p>
     <p align="center">
       <img src="https://komarev.com/ghpvc/?username=SebastianLopezO&label=Profile%20views&color=0e75b6&style=flat"

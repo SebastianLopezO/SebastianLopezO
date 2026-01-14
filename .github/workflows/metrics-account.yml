@@ -1,4 +1,4 @@
-name: Metrics Account
+name: Account Metrics
 
 on:
   schedule:

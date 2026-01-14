@@ -1,4 +1,4 @@
-name: Account Metrics
+name: test Metrics
 
 on:
   schedule:

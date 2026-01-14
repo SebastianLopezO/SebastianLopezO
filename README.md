@@ -483,9 +483,6 @@
       <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics.calendar.svg" width="48%" />
     </p>
     <p align="center">
-      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics.habits.charts.svg" width="48%" />
-    </p>
-    <p align="center">
       <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics.followup.svg" width="48%" />
       <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics.people.svg" width="48%" />
     </p>

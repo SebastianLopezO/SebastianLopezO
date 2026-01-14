@@ -10,6 +10,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
+      # Profile header
+      - name: Profile header
+        uses: lowlighter/metrics@v3.34
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: SebastianLopezO
+          base: header
+          config_timezone: America/Bogota
+
       # Isometric calendar
       - name: Isocalendar
         uses: lowlighter/metrics@v3.34

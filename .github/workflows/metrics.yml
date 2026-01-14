@@ -67,34 +67,6 @@ jobs:
           plugin_people_types: followers, following
           plugin_people_limit: 24
 
-      # Achievements
-      - name: Achievements
-        uses: lowlighter/metrics@v3.34
-        with:
-          filename: metrics.achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: SebastianLopezO
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_only: >-
-            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
-            scripter, packager, explorer, infographile, manager
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: X
-
-      # Recent activity
-      - name: Recent activity
-        uses: lowlighter/metrics@v3.34
-        with:
-          filename: metrics.activity.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: SebastianLopezO
-          base: ""
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 14
-          plugin_activity_filter: issue, pr, release, fork, review
-
       # Start List Languages
       - name: Featured star list languages
         uses: lowlighter/metrics@latest

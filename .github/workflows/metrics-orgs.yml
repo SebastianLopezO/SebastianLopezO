@@ -9,19 +9,6 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-
-      # =============================
-      # 🏢 ADCOM-Group
-      # =============================
-      - name: ADCOM-Group
-        uses: lowlighter/metrics@v3.34
-        with:
-          filename: metrics.org.adcom-group.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          template: organization
-          user: ADCOM-Group
-          base: header, activity, community, repositories
-
       # =============================
       # 🏢 EngineeringSebastian-s
       # =============================
@@ -82,29 +69,6 @@ jobs:
           user: TechnicalSebastians
           base: header, activity, community, repositories
 
-      # =============================
-      # 🏢 TestLabData
-      # =============================
-      - name: TestLabData
-        uses: lowlighter/metrics@v3.34
-        with:
-          filename: metrics.org.testlabdata.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          template: organization
-          user: TestLabData
-          base: header, activity, community, repositories
-
-      # =============================
-      # 🏢 TivenosEducation
-      # =============================
-      - name: TivenosEducation
-        uses: lowlighter/metrics@v3.34
-        with:
-          filename: metrics.org.tivenoseducation.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          template: organization
-          user: TivenosEducation
-          base: header, activity, community, repositories
 
       # =============================
       # 🏢 VocationalSebastian-s

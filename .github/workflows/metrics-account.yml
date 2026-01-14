@@ -17,7 +17,7 @@ jobs:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: SebastianLopezO
-          base: header
+          base: header, activity, community, repositories, metadata
           config_timezone: America/Bogota
 
       # Isometric calendar

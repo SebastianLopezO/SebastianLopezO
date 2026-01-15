@@ -18,7 +18,7 @@ jobs:
           filename: metrics.org.engineeringsebastians.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: EngineeringSebastian-s
-          base: header, activity, community, repositories
+          base: header, activity, community, repositories, metadata
           config_timezone: America/Bogota
 
       # =============================
@@ -30,7 +30,7 @@ jobs:
           filename: metrics.org.peppertechdev.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: PepperTechDev
-          base: header, activity, community, repositories
+          base: header, activity, community, repositories, metadata
           config_timezone: America/Bogota
 
       # =============================
@@ -42,7 +42,7 @@ jobs:
           filename: metrics.org.smartpottech.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: SmartPotTech
-          base: header, activity, community, repositories
+          base: header, activity, community, repositories, metadata
           config_timezone: America/Bogota
 
       # =============================
@@ -54,7 +54,7 @@ jobs:
           filename: metrics.org.taurussebastians.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: TaurusSebastian-s
-          base: header, activity, community, repositories
+          base: header, activity, community, repositories, metadata
           config_timezone: America/Bogota
 
       # =============================
@@ -66,7 +66,7 @@ jobs:
           filename: metrics.org.technicalsebastians.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: TechnicalSebastians
-          base: header, activity, community, repositories
+          base: header, activity, community, repositories, metadata
           config_timezone: America/Bogota
 
 
@@ -79,5 +79,5 @@ jobs:
           filename: metrics.org.vocationalsebastians.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: VocationalSebastian-s
-          base: header, activity, community, repositories
+          base: header, activity, community, repositories, metadata
           config_timezone: America/Bogota

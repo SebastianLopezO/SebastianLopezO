@@ -9,13 +9,9 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Example
+      - name: test
         uses: lowlighter/metrics@latest
         with:
           template: repository
-          filename: metrics.repository.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: SebastianLopezO
-          repo: SebastianLopezO
-          plugin_lines: yes
-          plugin_followup: yes
+          user: SmartPotTech
+          repo: SmartPot-Web

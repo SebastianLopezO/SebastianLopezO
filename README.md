@@ -547,6 +547,10 @@
       <h2>&nbsp;&nbsp;&nbsp;&nbsp;🎓 Repositories of Computer Engineering</h2>
     </summary>
     <p>
+        <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics/orgs/metrics.engineeringsebastians.svg"
+       alt="EngineeringSebastian-s metrics" />
+    </p>
+    <p>
       Throughout my <strong>Computer Engineering</strong> degree at <strong>Politécnico Jaime Isaza Cadavid</strong>, I
       have worked on various projects that showcase my growth in key areas of computer science. These repositories
       reflect the knowledge acquired through courses in <strong>programming</strong>, <strong>databases</strong>,
@@ -652,6 +656,10 @@
       <h2>&nbsp;&nbsp;&nbsp;&nbsp;🛠️ Repositories of TechnicalSebastians</h2>
     </summary>
     <p>
+        <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics/orgs/metrics.technicalsebastians.svg"
+     alt="TechnicalSebastians metrics" />
+    </p>
+    <p>
       This space is dedicated to the projects and learning I've acquired during the <strong>Software Programming
         Technique</strong> course at <strong>IUSH</strong>. Throughout this course, I have developed projects that
       showcase my proficiency in different programming languages and technologies such as <strong>C#</strong>,
@@ -698,6 +706,10 @@
     <summary>
       <h2>&nbsp;&nbsp;&nbsp;&nbsp;🎓 Repositories of VocationalSebastian-s</h2>
     </summary>
+    <p>
+        <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics/orgs/metrics.vocationalsebastians.svg"
+     alt="VocationalSebastian-s metrics" />
+    </p>
     <p>
       This space is dedicated to my projects and learning in the <strong>Software Programming Technical High
         School</strong> at <strong>Pascual Bravo</strong>, in collaboration with <strong>INEM</strong>. Through this
@@ -759,6 +771,10 @@
     <summary>
       <h2>&nbsp;&nbsp;&nbsp;&nbsp;🌱 Repositories of SmartPotTech</h2>
     </summary>
+    <p>
+        <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics/orgs/metrics.smartpottech.svg"
+     alt="SmartPotTech metrics" />
+    </p>
     <p>
       <strong>SmartPot</strong> is a personal project that integrates IoT technologies to automate and optimize the
       management of hydroponic gardens, focusing on crops like tomatoes and lettuce. This system has been developed

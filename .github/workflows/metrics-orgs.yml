@@ -10,60 +10,60 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # =============================
-      # 🏢 EngineeringSebastian-s
+      # EngineeringSebastian-s
       # =============================
       - name: EngineeringSebastian-s
         uses: lowlighter/metrics@v3.34
         with:
-          filename: metrics.org.engineeringsebastians.svg
+          filename: metrics/orgs/metrics.engineeringsebastians.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: EngineeringSebastian-s
           base: header, activity, community, repositories, metadata
           config_timezone: America/Bogota
 
       # =============================
-      # 🏢 PepperTechDev
+      # PepperTechDev
       # =============================
       - name: PepperTechDev
         uses: lowlighter/metrics@v3.34
         with:
-          filename: metrics.org.peppertechdev.svg
+          filename: metrics/orgs/metrics.peppertechdev.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: PepperTechDev
           base: header, activity, community, repositories, metadata
           config_timezone: America/Bogota
 
       # =============================
-      # 🏢 SmartPotTech
+      # SmartPotTech
       # =============================
       - name: SmartPotTech
         uses: lowlighter/metrics@v3.34
         with:
-          filename: metrics.org.smartpottech.svg
+          filename: metrics/orgs/metrics.smartpottech.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: SmartPotTech
           base: header, activity, community, repositories, metadata
           config_timezone: America/Bogota
 
       # =============================
-      # 🏢 TaurusSebastian-s
+      # TaurusSebastian-s
       # =============================
       - name: TaurusSebastian-s
         uses: lowlighter/metrics@v3.34
         with:
-          filename: metrics.org.taurussebastians.svg
+          filename: metrics/orgs/ metrics.org.taurussebastians.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: TaurusSebastian-s
           base: header, activity, community, repositories, metadata
           config_timezone: America/Bogota
 
       # =============================
-      # 🏢 TechnicalSebastians
+      # TechnicalSebastians
       # =============================
       - name: TechnicalSebastians
         uses: lowlighter/metrics@v3.34
         with:
-          filename: metrics.org.technicalsebastians.svg
+          filename: metrics/orgs/metrics.technicalsebastians.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: TechnicalSebastians
           base: header, activity, community, repositories, metadata
@@ -71,13 +71,51 @@ jobs:
 
 
       # =============================
-      # 🏢 VocationalSebastian-s
+      # VocationalSebastian-s
       # =============================
       - name: VocationalSebastian-s
         uses: lowlighter/metrics@v3.34
         with:
-          filename: metrics.org.vocationalsebastians.svg
+          filename: metrics/orgs/metrics.vocationalsebastians.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: VocationalSebastian-s
           base: header, activity, community, repositories, metadata
           config_timezone: America/Bogota
+
+      # =============================
+      # TestLabData
+      # =============================
+      - name: TestLabData
+        uses: lowlighter/metrics@v3.34
+        with:
+          filename: metrics/orgs/testlabdata.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: TestLabData
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Bogota
+
+      # =============================
+      # TivenosEducation
+      # =============================
+      - name: TivenosEducation
+        uses: lowlighter/metrics@v3.34
+        with:
+          filename: metrics/orgs/tivenoseducation.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: TivenosEducation
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Bogota
+
+      # =============================
+      #  ADCOM-Group
+      # =============================
+      - name: ADCOM-Group
+        uses: lowlighter/metrics@v3.34
+        with:
+          filename: metrics/orgs/adcom-group.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: ADCOM-Group
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Bogota
+
+

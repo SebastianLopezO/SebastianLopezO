@@ -15,7 +15,7 @@ jobs:
           template: repository
           filename: metrics.repository.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          user: SmartPotTech
-          repo: SmartPot-Web
+          user: SebastianLopezO
+          repo: SebastianLopezO
           plugin_lines: yes
           plugin_followup: yes

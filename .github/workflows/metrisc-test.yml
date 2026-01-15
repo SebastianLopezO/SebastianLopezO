@@ -13,5 +13,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           template: repository
+          filename: metrics.repository.svg
+          token: ${{ secrets.METRICS_SMARTPOT_TOKEN }}
           user: SmartPotTech
           repo: SmartPot-Web

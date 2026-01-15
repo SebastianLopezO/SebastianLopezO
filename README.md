@@ -475,28 +475,28 @@
   </summary>
   <p align="center">
     <p align="center">
-      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/github-metrics.svg" width="48%" />
-      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics.activity.svg" width="48%" />
+      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics/account/metrics.github-metrics.svg" width="48%" />
+      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics/account/metrics.activity.svg" width="48%" />
     </p>
     <p align="center">
-      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics.isocalendar.svg" width="48%" />
-      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics.calendar.svg" width="48%" />
+      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics/account/metrics.isocalendar.svg" width="48%" />
+      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics/account/metrics.calendar.svg" width="48%" />
     </p>
     <p align="center">
-      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics.followup.svg" width="48%" />
-      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics.people.svg" width="48%" />
+      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics/account/metrics.followup.svg" width="48%" />
+      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics/account/metrics.people.svg" width="48%" />
     </p>
     <p align="center">
-      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics.stargazers.svg" width="48%" />
-      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics.starlists.languages.svg" width="48%" />
+      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics/account/metrics.stargazers.svg" width="48%" />
+      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics/account/metrics.starlists.languages.svg" width="48%" />
     </p>
     <p align="center">
-      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics.topics.icons.svg" width="48%" />
-      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics.topics.labels.svg" width="48%" />
+      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics/account/metrics.topics.icons.svg" width="48%" />
+      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics/account/metrics.topics.labels.svg" width="48%" />
     </p>
     <p align="center">
-      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics.languages.details.svg" width="48%" />
-      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics.habits.charts.svg" width="48%" />
+      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics/account/metrics.languages.details.svg" width="48%" />
+      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics/account/metrics.habits.charts.svg" width="48%" />
     </p>
     <p align="center">
       <img src="https://komarev.com/ghpvc/?username=SebastianLopezO&label=Profile%20views&color=0e75b6&style=flat"

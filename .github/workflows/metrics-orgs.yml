@@ -88,7 +88,7 @@ jobs:
       - name: TestLabData
         uses: lowlighter/metrics@v3.34
         with:
-          filename: metrics/orgs/testlabdata.svg
+          filename: metrics/orgs/metrics.testlabdata.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: TestLabData
           base: header, activity, community, repositories, metadata
@@ -100,7 +100,7 @@ jobs:
       - name: TivenosEducation
         uses: lowlighter/metrics@v3.34
         with:
-          filename: metrics/orgs/tivenoseducation.svg
+          filename: metrics/orgs/metrics.tivenoseducation.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: TivenosEducation
           base: header, activity, community, repositories, metadata
@@ -112,7 +112,7 @@ jobs:
       - name: ADCOM-Group
         uses: lowlighter/metrics@v3.34
         with:
-          filename: metrics/orgs/adcom-group.svg
+          filename: metrics/orgs/metrics.adcom-group.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: ADCOM-Group
           base: header, activity, community, repositories, metadata

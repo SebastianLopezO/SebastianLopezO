@@ -14,7 +14,7 @@ jobs:
       - name: Profile header
         uses: lowlighter/metrics@v3.34
         with:
-          filename: github-metrics.svg
+          filename: metrics/account/github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: SebastianLopezO
           base: header, activity, community, repositories, metadata
@@ -24,7 +24,7 @@ jobs:
       - name: Isocalendar
         uses: lowlighter/metrics@v3.34
         with:
-          filename: metrics.isocalendar.svg
+          filename: metrics/account/metrics.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: SebastianLopezO
           base: ""
@@ -35,7 +35,7 @@ jobs:
       - name: Commit calendar
         uses: lowlighter/metrics@v3.34
         with:
-          filename: metrics.calendar.svg
+          filename: metrics/account/metrics.calendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: SebastianLopezO
           base: ""
@@ -46,7 +46,7 @@ jobs:
       - name: Recent activity charts
         uses: lowlighter/metrics@v3.34
         with:
-          filename: metrics.habits.charts.svg
+          filename: metrics/account/metrics.habits.charts.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_habits: yes
@@ -58,7 +58,7 @@ jobs:
       - name: Follow-up
         uses: lowlighter/metrics@v3.34
         with:
-          filename: metrics.followup.svg
+          filename: metrics/account/metrics.followup.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: SebastianLopezO
           base: ""
@@ -69,7 +69,7 @@ jobs:
       - name: People
         uses: lowlighter/metrics@v3.34
         with:
-          filename: metrics.people.svg
+          filename: metrics/account/metrics.people.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: SebastianLopezO
           base: ""
@@ -81,7 +81,7 @@ jobs:
       - name: Featured star list languages
         uses: lowlighter/metrics@v3.34
         with:
-          filename: metrics.starlists.languages.svg
+          filename: metrics/account/metrics.starlists.languages.svg
           token: NOT_NEEDED
           base: ""
           plugin_starlists: yes
@@ -94,7 +94,7 @@ jobs:
       - name: Icons
         uses: lowlighter/metrics@v3.34
         with:
-          filename: metrics.topics.icons.svg
+          filename: metrics/account/metrics.topics.icons.svg
           token: NOT_NEEDED
           base: ""
           plugin_topics: yes
@@ -104,7 +104,7 @@ jobs:
       - name: Using classic charts
         uses: lowlighter/metrics@v3.34
         with:
-          filename: metrics.stargazers.svg
+          filename: metrics/account/metrics.stargazers.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_stargazers: yes
@@ -113,7 +113,7 @@ jobs:
       - name: Most used (with details)
         uses: lowlighter/metrics@v3.34
         with:
-          filename: metrics.languages.details.svg
+          filename: metrics/account/metrics.languages.details.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
@@ -126,7 +126,7 @@ jobs:
       - name: Labels
         uses: lowlighter/metrics@v3.34
         with:
-          filename: metrics.topics.labels.svg
+          filename: metrics/account/metrics.topics.labels.svg
           token: NOT_NEEDED
           base: ""
           plugin_topics: yes

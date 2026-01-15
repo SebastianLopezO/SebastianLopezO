@@ -1,0 +1,137 @@
+name: Repository Metrics
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+
+      # =============================
+      # 🌱 SmartPot-Web
+      # =============================
+      - name: SmartPot-Web
+        uses: lowlighter/metrics@latest
+        with:
+          template: repository
+          filename: metrics/repos/smartpot-web.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: SmartPotTech
+          repo: SmartPot-Web
+          plugin_lines: yes
+          plugin_followup: yes
+
+      # =============================
+      # 🔌 SmartPot-API
+      # =============================
+      - name: SmartPot-API
+        uses: lowlighter/metrics@latest
+        with:
+          template: repository
+          filename: metrics/repos/smartpot-api.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: SmartPotTech
+          repo: SmartPot-API
+          plugin_lines: yes
+          plugin_followup: yes
+
+      # =============================
+      # 🗄️ SmartPot-DB
+      # =============================
+      - name: SmartPot-DB
+        uses: lowlighter/metrics@latest
+        with:
+          template: repository
+          filename: metrics/repos/smartpot-db.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: SmartPotTech
+          repo: SmartPot-DB
+          plugin_lines: yes
+          plugin_followup: yes
+
+      # =============================
+      # 🤖 SmartPot-IoT
+      # =============================
+      - name: SmartPot-IoT
+        uses: lowlighter/metrics@latest
+        with:
+          template: repository
+          filename: metrics/repos/smartpot-iot.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: SmartPotTech
+          repo: SmartPot-IoT
+          plugin_lines: yes
+          plugin_followup: yes
+
+      # =============================
+      # 🔁 SmartPot-Proxy
+      # =============================
+      - name: SmartPot-Proxy
+        uses: lowlighter/metrics@latest
+        with:
+          template: repository
+          filename: metrics/repos/smartpot-proxy.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: SmartPotTech
+          repo: SmartPot-Proxy
+          plugin_lines: yes
+          plugin_followup: yes
+
+      # =============================
+      # 📦 SmartPot-Mail
+      # =============================
+      - name: SmartPot-Mail
+        uses: lowlighter/metrics@latest
+        with:
+          template: repository
+          filename: metrics/repos/smartpot-mail.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: SmartPotTech
+          repo: SmartPot-Mail
+          plugin_lines: yes
+          plugin_followup: yes
+
+      # =============================
+      # ⚡ SmartPot-Cache
+      # =============================
+      - name: SmartPot-Cache
+        uses: lowlighter/metrics@latest
+        with:
+          template: repository
+          filename: metrics/repos/smartpot-cache.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: SmartPotTech
+          repo: SmartPot-Cache
+          plugin_lines: yes
+          plugin_followup: yes
+
+      # =============================
+      # 📊 SmartPot-DataAnalytics
+      # =============================
+      - name: SmartPot-DataAnalytics
+        uses: lowlighter/metrics@latest
+        with:
+          template: repository
+          filename: metrics/repos/smartpot-dataanalytics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: SmartPotTech
+          repo: SmartPot-DataAnalytics
+          plugin_lines: yes
+          plugin_followup: yes
+
+      # =============================
+      # 🧪 SmartPot-DataGenerator
+      # =============================
+      - name: SmartPot-DataGenerator
+        uses: lowlighter/metrics@latest
+        with:
+          template: repository
+          filename: metrics/repos/smartpot-datagenerator.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: SmartPotTech
+          repo: SmartPot-DataGenerator
+          plugin_lines: yes
+          plugin_followup: yes

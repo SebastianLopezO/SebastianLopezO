@@ -1,0 +1,21 @@
+name: Test Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Example
+        uses: lowlighter/metrics@latest
+        with:
+          template: repository
+          filename: metrics.repository.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: SmartPotTech
+          repo: SmartPot-Web
+          plugin_lines: yes
+          plugin_followup: yes

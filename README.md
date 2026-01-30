@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Backend developer and Data Analyst from Medellín, Colombia</h3>
 
 <p align="center">
-  <a href="https://sebastian-s-portafolio.vercel.app/" target="_blank">
+  <a href="https://sebastianlopezo.page/" target="_blank">
     <img src="https://github.com/SebastianLopezO/SebastianLopezO/blob/main/Sebastian-s-banner.png" alt="Banner" />
   </a>
 </p>

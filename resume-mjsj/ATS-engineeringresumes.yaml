@@ -1,0 +1,177 @@
+cv:
+  name: Mariangel Johanna Sierra Jaller
+  location: Medellín, Antioquia, Colombia
+  email: marijohansierra@gmail.com
+  phone: +57 324 2924705
+  social_networks:
+    - network: LinkedIn
+      username: maringelsierrajaller
+
+  sections:
+    resumen_profesional:
+      - Soy una estudiante de Ingeniería Biomédica con formación técnica en programación de software y contabilidad, interesada en la optimización de procesos, la digitalización y el uso estratégico de la tecnología en entornos administrativos y del sector salud. Me caracterizo por mi pensamiento analítico, aprendizaje continuo y capacidad para aportar soluciones eficientes con responsabilidad, iniciativa y compromiso.
+
+    experiencia:
+      - company: Asociación para la Enseñanza – ASPAEN
+        position: Auxiliar de Compras
+        location: Sabaneta, Antioquia, Colombia
+        start_date: 2023-01
+        end_date: present
+        highlights:
+          - Gestión de facturación electrónica, órdenes de compra y requisiciones del servicio de alimentación.
+          - Recepción y verificación de artículos, control de entregas y apoyo logístico.
+          - Manejo de egresos de tesorería, caja menor y conciliaciones bancarias.
+          - Identificación de oportunidades de mejora mediante digitalización y estandarización de procesos administrativos.
+          - Uso estratégico de la tecnología para optimizar flujos internos y apoyar la toma de decisiones.
+
+      - company: Asociación para la Enseñanza – ASPAEN
+        position: Practicante Asistente Contable y Apoyo Tecnológico Administrativo
+        location: Sabaneta, Antioquia, Colombia
+        start_date: 2022-01
+        end_date: 2023-01
+        highlights:
+          - Gestión de facturación electrónica, órdenes de compra y control documental contable.
+          - Administración de egresos, caja menor y arqueos de caja.
+          - Apoyo a áreas administrativas como recepción y tienda escolar.
+          - Fortalecimiento de la trazabilidad, organización y confiabilidad de la información financiera.
+
+    educación:
+      - institution: Institución Universitaria ITM
+        area: Ingeniería Biomédica
+        degree: Pregrado
+        location: Medellín, Colombia
+        start_date: 2023-01
+        end_date: 2028-12
+        highlights:
+          - Formación en sistemas biomédicos, tecnología aplicada a la salud y análisis funcional de procesos.
+          - Enfoque en soluciones tecnológicas para el sector salud.
+
+      - institution: Universidad San José
+        area: Ingeniería de Sistemas
+        degree: Pregrado
+        location: Colombia
+        start_date: 2023-01
+        end_date: 2026-12
+        highlights:
+          - Fundamentos de ingeniería de software, análisis de requerimientos y diseño lógico de soluciones.
+
+      - institution: Instituto Metropolitano de Educación
+        area: Técnico Contable y Financiero orientado a Sistemas
+        degree: Técnico
+        location: Medellín, Colombia
+        start_date: 2022-01
+        end_date: 2023-12
+        highlights:
+          - Formación en procesos contables, financieros y apoyo tecnológico administrativo.
+
+      - institution: Servicio Nacional de Aprendizaje (SENA)
+        area: Programación de Software
+        degree: Técnico
+        location: Medellín, Colombia
+        start_date: 2020-01
+        end_date: 2021-12
+        highlights:
+          - Desarrollo de lógica de programación, fundamentos de software y herramientas tecnológicas.
+
+      - institution: I.E. INEM José Félix de Restrepo
+        area: Informática
+        degree: Bachiller
+        location: Medellín, Colombia
+        start_date: 2019-01
+        end_date: 2021-12
+        highlights:
+          - Formación académica con énfasis en informática y tecnologías de la información.
+
+    habilidades:
+      - label: Habilidades Técnicas
+        details: >
+          Optimización y automatización de procesos, ERP (Oracle NetSuite – experiencia práctica),
+          integraciones y flujos (Zapier), análisis de datos (Excel avanzado, Power BI, Power Query, Tableau),
+          procesamiento de datos con Python (básico), diseño lógico de soluciones, gestión documental.
+
+      - label: Competencias Personales
+        details: Comunicación, pensamiento crítico, trabajo en equipo, gestión del cambio, autoaprendizaje,
+                 atención al detalle, confidencialidad, adaptabilidad.
+
+      - label: Idiomas
+        details: Español (Nativo), Inglés (C1), Francés (A2)
+
+    certificaciones:
+      - bullet: "Técnico en Programación de Software | SENA"
+      - bullet: "Técnico Contable y Financiero orientado a Sistemas | Instituto Metropolitano de Educación"
+      - bullet: "Formación en ERP Oracle NetSuite (experiencia práctica)"
+      - bullet: "Formación en análisis de datos con Excel, Power BI y Tableau"
+
+    proyectos:
+      - name: Digitalización de Procesos Administrativos
+        date: 2023
+        summary: Optimización de flujos administrativos y contables mediante herramientas digitales.
+        highlights:
+          - Estandarización de procesos internos para reducción de reprocesos.
+          - Mejora en la trazabilidad documental y control financiero.
+          - Aplicación de criterios de análisis de datos para soporte a la toma de decisiones.
+
+      - name: Aplicación de Tecnología en Entornos Administrativos y Educativos
+        date: 2022
+        summary: Uso estratégico de herramientas tecnológicas para apoyo operativo y administrativo.
+        highlights:
+          - Integración de herramientas digitales para soporte administrativo.
+          - Aplicación de pensamiento analítico y diseño lógico de soluciones.
+
+  sort_entries: none
+
+
+design:
+  theme: engineeringresumes
+  page:
+    top_margin: 2cm
+    bottom_margin: 2cm
+    left_margin: 2cm
+    right_margin: 2cm
+    show_page_numbering: true
+    show_last_updated_date: false
+  text:
+    font_family: XCharter
+    font_size: 10pt
+    alignment: justified
+  header:
+    name_font_size: 25pt
+    alignment: center
+
+locale:
+  language: es
+  phone_number_format: national
+  date_template: MONTH_ABBREVIATION YEAR
+  month: mes
+  months: meses
+  year: año
+  years: años
+  present: actualidad
+  to: –
+  abbreviations_for_months:
+    - ene.
+    - feb.
+    - mar.
+    - abr.
+    - may.
+    - jun.
+    - jul.
+    - ago.
+    - sep.
+    - oct.
+    - nov.
+    - dic.
+  full_names_of_months:
+    - Enero
+    - Febrero
+    - Marzo
+    - Abril
+    - Mayo
+    - Junio
+    - Julio
+    - Agosto
+    - Septiembre
+    - Octubre
+    - Noviembre
+    - Diciembre
+

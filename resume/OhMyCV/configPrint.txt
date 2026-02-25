@@ -8,5 +8,3 @@ MarginLeft: 12mm
 MarginTop: 0mm
 MarginRigth: 0mm
 MarginDown: 0mm
-
-  

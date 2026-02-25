@@ -1,0 +1,96 @@
+/* Custom CSS para clonar el diseño de la imagen */
+
+/* Estilos base de la página */
+#resume-preview [data-scope="vue-smart-pages"][data-part="page"] {
+  background-color: white;
+  color: black;
+  font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.4;
+  text-align: left;
+}
+
+/* Enlaces limpios sin subrayado azul */
+#resume-preview a {
+  color: inherit;
+  text-decoration: none;
+}
+
+#resume-preview p {
+  margin: 0 0 6px 0;
+}
+
+/* Título principal (Tu Nombre) */
+#resume-preview h1 {
+  font-size: 2.8em;
+  font-weight: bold;
+  text-align: center;
+  border-bottom: 1px solid black;
+  margin: 10px 0 15px 0;
+  letter-spacing: 1px;
+}
+
+/* Títulos de sección (Experience, Education, etc.) */
+#resume-preview h2 {
+  font-size: 1.3em;
+  font-weight: bold;
+  border-bottom: 2px solid black;
+  margin: 15px 0 10px 0;
+  padding-bottom: 3px;
+}
+
+/* Listas de viñetas (bullets) */
+#resume-preview ul {
+  padding-left: 1.5em;
+  margin: 0 0 12px 0;
+  list-style-type: disc;
+}
+
+#resume-preview li {
+  margin-bottom: 3px;
+}
+
+/* El truco de las columnas (Definition Lists) */
+#resume-preview dl {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 0 4px 0;
+  width: 100%;
+}
+
+/* Columna 1: Alineada a la izquierda (Ej. Cargo / Portfolio) */
+#resume-preview dl dt {
+  flex: 1;
+  text-align: left;
+}
+
+/* Columna 2: Alineada al centro (Ej. Empresa / Github) */
+#resume-preview dl dd:not(:last-child) {
+  flex: 1;
+  text-align: center;
+}
+
+/* Columna 3: Alineada a la derecha (Ej. Fechas / Teléfono) */
+#resume-preview dl dd:last-child {
+  flex: 1;
+  text-align: right;
+  /* Si solo hay 2 elementos en la lista, el 2do se irá a la derecha */
+}
+
+/* Ajuste fino para los íconos SVG */
+#resume-preview svg.iconify {
+  vertical-align: -0.2em;
+}
+
+/* Modo oscuro y modo de impresión por defecto de la app */
+.dark #resume-preview [data-scope="vue-smart-pages"][data-part="page"] {
+  background-color: hsl(213, 12%, 15%);
+  color: hsl(216, 12%, 84%);
+}
+
+@media print {
+  .dark #resume-preview [data-scope="vue-smart-pages"][data-part="page"] {
+    background-color: white;
+    color: black;
+  }
+}

@@ -1,0 +1,204 @@
+cv:
+  name: Sebastián López Osorno
+  location: Medellín, Antioquia, Colombia
+  email: sebastianlopezosorno2005@gmail.com
+  phone: +57 321 8774053
+  social_networks:
+    - network: LinkedIn
+      username: sebastianlopezosorno
+    - network: GitHub
+      username: sebastianlopezosorno
+  
+  sections:
+    resumen_profesional:
+      - Soy un Ingeniero en formación y desarrollador con iniciativa y una curiosidad insaciable. Mis habilidades investigativas y analíticas han sido cruciales en mi proceso autodidacta. Cuento con sólida experiencia en desarrollo Backend, automatización de CRM (Zoho), análisis de datos y gestión de infraestructura TI. Me apasiona la tecnología como motor para la transformación educativa y empresarial.
+
+    experiencia:
+      - company: TIVENOS - Solutions for Education
+        position: IT Manager | Desarrollador Backend CRM
+        location: Remoto
+        start_date: 2025-06
+        end_date: present
+        highlights:
+          - Responsable del desarrollo, automatización e integración de sistemas de gestión educativa, optimizando el ecosistema **Zoho**.
+          - Desarrollo de **APIs REST con FastAPI** para integrar operaciones avanzadas (gestión de jerarquías académicas, admisiones, sincronización con Zoho WorkDrive/CRM).
+          - Implementación de integraciones con sistemas externos (SIS, GA4, SOAP/WSDL) y despliegue en servidores Linux con **Docker, Nginx y GitHub Actions**.
+          - Diseño de paneles analíticos en **Zoho Analytics** usando SQL avanzado para la toma de decisiones estratégicas.
+      
+      - company: ADCOM GROUP
+        position: Desarrollador CRM | MarTech Developer
+        location: Remoto
+        start_date: 2025-06
+        end_date: present
+        highlights:
+          - Diseño e implementación de soluciones tecnológicas para optimizar procesos comerciales y automatizar flujos de marketing (MarTech).
+          - Desarrollo en **Zoho One (Deluge)** e integraciones vía API REST con WhatsApp, Meta Ads, Google Ads y Shopify.
+          - Creación de un generador dinámico de plantillas HTML con **Java Spring Boot y Thymeleaf**.
+          - Administración de VPS (Hostinger) implementando seguridad (SSH, SSL) y despliegues automatizados.
+
+      - company: ADCOM GROUP
+        position: Desarrollador CRM | Desarrollador Web
+        location: Medellín, Colombia
+        start_date: 2025-02
+        end_date: 2025-06
+        highlights:
+          - Configuración y personalización de Zoho CRM, módulos y flujos de trabajo.
+          - Desarrollo de funciones personalizadas en **Deluge** y aplicaciones internas en **Zoho Creator**.
+          - Implementación de modelos de automatización con IA en **Dapta**.
+
+      - company: MUV-U S.A.S
+        position: Desarrollador Backend | Analista de Datos
+        location: Sabaneta, Colombia
+        start_date: 2023-07
+        end_date: 2025-01
+        highlights:
+          - Desarrollo de informes ejecutivos en **Power BI** para áreas financieras y comerciales.
+          - Diseño de arquitectura de datos para CRM y automatización de procesos operativos.
+          - Administración de la infraestructura de servidores y soporte TI.
+
+      - company: Quipux S.A.S
+        position: Analista de Datos (Prácticas)
+        location: Medellín, Colombia
+        start_date: 2022-08
+        end_date: 2023-05
+        highlights:
+          - ETL y preprocesamiento de grandes volúmenes de datos para automatización del recaudo.
+          - Desarrollo de informes de visualización interactivos para la toma de decisiones.
+
+    educación:
+      - institution: Politécnico Colombiano Jaime Isaza Cadavid
+        area: Ingeniería Informática
+        degree: Pregrado
+        location: Medellín, Colombia
+        start_date: 2022-01
+        end_date: 2027-12
+        highlights:
+          - Formación integral en ciencias de la computación, ingeniería de software, arquitectura de hardware e IA.
+          - Proyectos destacados en Java, Python, MongoDB, Spring Boot y Docker.
+      
+      - institution: IUSH - SENA
+        area: Programación de Software
+        degree: Técnico
+        location: Medellín, Colombia
+        start_date: 2022-01
+        end_date: 2023-06
+        highlights:
+          - Enfoque práctico en desarrollo web, bases de datos, control de versiones (Git) y programación funcional.
+
+    proyectos:
+      - name: SmartPotTech (IoT & Agricultura)
+        date: 2024
+        summary: Sistema de automatización de cultivos hidropónicos.
+        highlights:
+          - Backend en **Spring Boot**, Frontend en **React**, orquestación con Node.js y gestión de sensores con ESP32 (MicroPython).
+      
+      - name: Repositorios Académicos (EngineeringSebastian-s)
+        date: 2023
+        summary: Colección de proyectos de ingeniería.
+        highlights:
+          - Implementaciones de estructuras de datos (árboles, grafos), programación funcional y sistemas operativos usando Java y Python.
+
+    habilidades:
+      - label: Lenguajes de Programación
+        details: Python, Java, C++, PHP, JavaScript, TypeScript, Zoho Deluge, SQL.
+      - label: Backend & Frameworks
+        details: Django, FastAPI, Spring Boot, Laravel, Node.js.
+      - label: Data & Analytics
+        details: Power BI (DAX), Pandas, NumPy, Tableau, Zoho Analytics.
+      - label: DevOps & Herramientas
+        details: Docker, Git/GitHub, Nginx, Linux, GitHub Actions, AWS.
+      - label: Idiomas
+        details: Español (Nativo), Inglés (Competencia profesional completa).
+
+    certificaciones:
+      - bullet: "**IT Specialist - Python** | Certiport - Pearson VUE (2023)"
+      - bullet: "**Green Digital Skills Certificate** | INCO Academy (2024)"
+      - bullet: "**Ciencia de Datos e Inteligencia Artificial** | Universidad de Antioquia (2023)"
+      - bullet: "**Ruta de Data Analyst (Power BI, Excel Avanzado, SQL)** | Platzi"
+      - bullet: "**Certificaciones HackerRank:** Problem Solving (Basic), Java, SQL, Python."
+
+design:
+  theme: engineeringresumes
+  page:
+    top_margin: 2cm
+    bottom_margin: 2cm
+    left_margin: 2cm
+    right_margin: 2cm
+    show_page_numbering: true
+    show_last_updated_date: false
+  colors:
+    text: rgb(0, 0, 0)
+    name: rgb(0, 0, 0)
+    connections: rgb(0, 0, 0)
+    section_titles: rgb(0, 0, 0)
+    links: rgb(0, 0, 0)
+    last_updated_date_and_page_numbering: rgb(128, 128, 128)
+  text:
+    font_family: XCharter
+    font_size: 10pt
+    leading: 0.6em
+    alignment: justified
+    date_and_location_column_alignment: right
+  header:
+    name_font_family: XCharter
+    name_font_size: 25pt
+    name_bold: false
+    small_caps_for_name: false
+    vertical_space_between_name_and_connections: 0.5cm
+    vertical_space_between_connections_and_first_section: 0.5cm
+    horizontal_space_between_connections: 0.5cm
+    alignment: center
+  section_titles:
+    type: with-full-line
+    font_family: XCharter
+    font_size: 1.2em
+    bold: true
+    line_thickness: 0.5pt
+    vertical_space_above: 0.5cm
+    vertical_space_below: 0.3cm
+  entries:
+    date_and_location_width: 4.5cm
+    vertical_space_between_entries: 0.4cm
+    allow_page_break_in_entries: true
+  highlights:
+    bullet: •
+    top_margin: 0.2cm
+    left_margin: 0.4cm
+    vertical_space_between_highlights: 0.1cm
+
+locale:
+  language: es
+  phone_number_format: national
+  date_template: MONTH_ABBREVIATION YEAR
+  month: mes
+  months: meses
+  year: año
+  years: años
+  present: actualidad
+  to: –
+  abbreviations_for_months:
+    - ene.
+    - feb.
+    - mar.
+    - abr.
+    - may.
+    - jun.
+    - jul.
+    - ago.
+    - sep.
+    - oct.
+    - nov.
+    - dic.
+  full_names_of_months:
+    - Enero
+    - Febrero
+    - Marzo
+    - Abril
+    - Mayo
+    - Junio
+    - Julio
+    - Agosto
+    - Septiembre
+    - Octubre
+    - Noviembre
+    - Diciembre

@@ -1,0 +1,10 @@
+Paper size: Letter
+Pages per sheet: 1
+Margins: Custom
+Scale Mode: Custom
+Scale:  90
+Options: [ ] Background graphics
+MarginLeft: 12mm
+MarginTop: 0mm
+MarginRigth: 0mm
+MarginDown: 0mm

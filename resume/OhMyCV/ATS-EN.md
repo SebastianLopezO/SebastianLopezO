@@ -8,102 +8,99 @@
   : <span class="iconify" data-icon="tabler:phone"></span> [+573218774053](https://wa.me/573218774053)
   : <span class="iconify" data-icon="ic:outline-location-on"></span> Medellín, Colombia
 
-## Perfil Profesional
+## Professional Profile
 
-Ingeniero Informático enfocado en Desarrollo Full Cycle con más de 4 años de experiencia, especializado en arquitectura backend, analítica de datos y automatización MarTech. Mi valor diferencial radica en liderar la integración de sistemas complejos y la centralización de operaciones empresariales, transformando grandes volúmenes de datos en inteligencia de negocios para optimizar la toma de decisiones. Busco aportar mi visión estratégica y capacidad resolutiva para diseñar infraestructuras escalables que potencien la eficiencia operativa e impulsen la transformación digital corporativa.
+Computer Engineer and Full Cycle Developer with over 4 years of experience bridging the gap between complex technical architectures and strategic business objectives. I specialize in designing robust backend infrastructures, advanced data analytics pipelines, and intelligent MarTech automations. My core value lies in leading complex system integrations and centralizing scattered business operations into unified, highly efficient ecosystems. I excel at transforming large volumes of raw data into actionable business intelligence, empowering executive teams to make precise, data-driven decisions. Driven by an insatiable curiosity and a high degree of autonomy, I aim to leverage my strategic vision and problem-solving skills to design scalable, cloud-native infrastructures. Ultimately, my goal is to build sustainable, human-centered technological solutions that reduce operational costs, enhance overall efficiency, and drive continuous corporate digital transformation.
 
-## Experiencia Laboral
+## Work Experience
 
-**IT Manager & Desarrollador Backend CRM** 
+**IT Manager & Backend CRM Developer** 
 : **TIVENOS** 
-: **Jun 2025 – Actualidad | Remoto**
-- Desarrollo de APIs REST con FastAPI para potenciar la gestión educativa y sincronizar servicios cloud.
-- Integración ágil de plataformas y sistemas heredados mediante protocolos SOAP, WSDL y Webhooks REST.
-- Administración de servidores Linux y despliegues seguros con Docker, Nginx y CI/CD (GitHub Actions).
-- Automatizaciones avanzadas con Deluge y diseño de paneles ejecutivos en Zoho Analytics mediante SQL.
-- Gestión operativa de TI y soporte técnico, aplicando estándares de calidad y patrones de diseño ágil.
+: **Jun 2025 – Present | Remote**
+- Development of REST APIs with FastAPI to enhance educational management and synchronize cloud services.
+- Agile integration of legacy platforms and systems using SOAP, WSDL protocols, and RESTful Webhooks.
+- Linux server administration and secure deployments using Docker, Nginx, and CI/CD (GitHub Actions).
+- Advanced automations with Deluge and design of executive dashboards in Zoho Analytics using SQL.
+- Operational IT management and technical support, applying quality standards and agile design patterns.
 
-**Desarrollador CRM & Ingeniero MarTech** 
+**CRM Developer & MarTech Engineer** 
 : **ADCOM GROUP** 
-: **Feb 2025 – Actualidad | Remoto**
-- Configuración avanzada de módulos, flujos de trabajo y optimización de datos corporativos en Zoho CRM.
-- Creación de funciones personalizadas y automatización de procesos operativos complejos con Deluge.
-- Conexión del CRM con plataformas externas (WhatsApp, Meta Ads, Google Ads) mediante APIs RESTful.
-- Desarrollo estratégico de aplicaciones internas con Zoho Creator para optimizar procesos de negocio.
-- Automatización inteligente de contactabilidad integrando modelos de inteligencia artificial en Dapta.
+: **Feb 2025 – Present | Remote**
+- Advanced configuration of modules, workflows, and optimization of corporate data within Zoho CRM.
+- Creation of custom functions and automation of complex operational business processes with Deluge.
+- CRM connection with external platforms (WhatsApp, Meta Ads, Google Ads) through RESTful APIs.
+- Strategic development of internal applications using Zoho Creator to optimize business processes.
+- Intelligent automation of contactability by integrating artificial intelligence models in Dapta.
 
-**Desarrollador Backend & Analista de Datos** 
+**Backend Developer & Data Analyst** 
 : **MUV-U S.A.S** 
-: **Jul 2023 – Ene 2025 | Híbrido**
-- Preprocesamiento y limpieza de datos en el CRM para su posterior análisis estratégico y de negocio.
-- Desarrollo de informes interactivos en Power BI para áreas financieras, comerciales y de mercadeo.
-- Implementación de automatizaciones operativas ágiles en el CRM para reducir tareas manuales del equipo.
-- Desarrollo e integración de componentes web funcionales para mejorar la experiencia del usuario final.
-- Diseño estructurado de la arquitectura de datos entrante para optimizar todo el ecosistema del CRM.
+: **Jul 2023 – Jan 2025 | Hybrid**
+- Pre-processing and data cleaning in the CRM for its subsequent strategic and business analysis.
+- Development of interactive reports in Power BI for financial, commercial, and marketing areas.
+- Implementation of agile operational automations within the CRM to reduce the team's manual tasks.
+- Development and integration of functional web components to improve the end-user web experience.
+- Structured design of the incoming data architecture to optimize the entire CRM software ecosystem.
 
-**Analista de Datos** 
+**Data Analyst** 
 : **Quipux S.A.S** 
-: **Ago 2022 – May 2023 | Híbrido**
-- Preprocesamiento de datos con el objetivo de transformarlos y prepararlos para su posterior análisis.
-- Desarrollo de reportes de visualización para comunicar información compleja de forma clara y concisa.
-- Automatización de procesos para mejorar significativamente la eficiencia en manejo de datos y reportes.
-- Análisis estratégico de datos para respaldar la toma de decisiones en procesos de recaudo y movilidad.
-- Implementación de rutinas de extracción y limpieza de datos mediante scripts en Python y consultas SQL.
+: **Aug 2022 – May 2023 | Hybrid**
+- Data pre-processing with the objective of transforming and preparing it for further strategic analysis.
+- Development of data visualization reports to communicate complex information clearly and concisely.
+- Process automation to significantly improve operational efficiency in data management and reporting.
+- Strategic data analysis to support executive decision-making in revenue collection and mobility processes.
+- Implementation of data extraction and cleaning routines using Python scripts and complex SQL queries.
 
+## Technical Skills 
 
+- **Backend & Core:** Scalable architecture with **Python** (FastAPI), **Java** (Spring Boot), and **Node.js**.
+- **Frontend Web:** Development of interactive and responsive user interfaces with **React**, **TypeScript**, and **Tailwind**.
+- **APIs & Integration:** Connection of complex corporate systems via **REST**, **Webhooks**, **SOAP**, and **Zeep**.
+- **Zoho Ecosystem:** Advanced CRM customization and development using native scripts in **Zoho Deluge**.
+- **MarTech & AI:** Intelligent automation of commercial flows using **n8n**, **Zapier**, and **Dapta** models.
+- **Databases:** Relational and NoSQL structured modeling in **PostgreSQL**, **MySQL**, **MongoDB**, and **Redis**.
+- **Data Analytics:** Pre-processing and visual modeling for decision-making with **Power BI** and **Pandas**.
+- **DevOps & Cloud:** Administration and secure deployment with **Docker**, **Linux**, **Nginx**, and **GitHub Actions**.
+- **Testing & QA:** Software quality assurance through **PyTest**, **JUnit**, and API validation in **Postman**.
+- **IoT Engineering:** Hardware and embedded systems automation utilizing **ESP32**, **C++**, and **MicroPython**.
+- **SEO & Performance:** Technical website optimization, advanced digital analytics (**GA4**), and positioning.
+- **IT Fundamentals:** Software design, applied statistics, algorithms, networking, and coding in **PHP** and **C++**.
 
-## Habilidades Técnicas 
+## Education
 
-- **Backend & Core:** Arquitectura escalable con **Python** (FastAPI), **Java** (Spring Boot) y **Node.js**.
-- **Frontend Web:** Desarrollo de interfaces interactivas y responsivas con **React**, **TypeScript** y **Tailwind**.
-- **APIs & Integración:** Conexión de sistemas corporativos complejos vía **REST**, **Webhooks**, **SOAP** y **Zeep**.
-- **Ecosistema Zoho:** Personalización y desarrollo avanzado de CRM utilizando scripts nativos en **Zoho Deluge**.
-- **MarTech & IA:** Automatización inteligente de flujos comerciales usando **n8n**, **Zapier** y modelos de **Dapta**.
-- **Bases de Datos:** Modelado relacional y NoSQL estructurado en **PostgreSQL**, **MySQL**, **MongoDB** y **Redis**.
-- **Analítica de Datos:** Preprocesamiento y modelado visual para toma de decisiones con **Power BI** y **Pandas**.
-- **DevOps & Cloud:** Administración y despliegue seguro con **Docker**, **Linux**, **Nginx** y **GitHub Actions**.
-- **Testing & QA:** Aseguramiento de la calidad del software mediante **PyTest**, **JUnit** y validación en **Postman**.
-- **Ingeniería IoT:** Automatización de hardware y sistemas embebidos utilizando **ESP32**, **C++** y **MicroPython**.
-- **SEO & Rendimiento:** Optimización técnica de sitios web, analítica digital avanzada (**GA4**) y posicionamiento.
-- **Fundamentos TI:** Diseño de software, estadística aplicada, algoritmia, redes y programación en **PHP** y **C++**.
-
-
-## Educación
-
-**Ingeniería Informática** 
+**Computer Engineering** 
 : **Politécnico Jaime Isaza Cadavid** 
-: **Ene 2022 – Dic 2027 (En curso)**
-- Formación integral en ciencias de la computación, ingeniería de software, inteligencia artificial y redes.
-- Diseño y arquitectura de proyectos informáticos aplicando estándares de calidad y metodologías ágiles.
-- Gestión de infraestructura TI, sistemas de información y liderazgo de soluciones tecnológicas eficientes.
+: **Jan 2022 – Dec 2027 (In Progress)**
+- Comprehensive training in computer science, software engineering, artificial intelligence, and networks.
+- Design and architecture of IT projects applying high quality standards and agile software methodologies.
+- IT infrastructure management, information systems, and technical leadership of efficient tech solutions.
 
-**Técnico en Programación de Software** 
+**Software Programming Technician** 
 : **SENA – IUSH** 
-: **Ene 2022 – May 2023**
-- Ciclo de vida del software: análisis de requisitos, diseño, desarrollo e implementación de soluciones.
-- Construcción de aplicaciones web y backend integradas con bases de datos para el sector productivo.
-- Soporte a infraestructura, configuración de redes e introducción a la inteligencia de negocios empresarial.
+: **Jan 2022 – May 2023**
+- Software lifecycle: requirement analysis, architecture design, development, and solutions implementation.
+- Construction of web and backend applications integrated with robust databases for the productive sector.
+- Infrastructure support, network configuration, and introduction to corporate business intelligence data.
 
-**Técnico Auxiliar en Desarrollo de Software** 
+**Assistant Software Development Tech** 
 : **I.E. Pascual Bravo** 
 : **2020 – 2021**
-- Fundamentación sólida en lógica de programación, estructura de datos y programación orientada a objetos.
-- Análisis de requerimientos, diseño de interfaces visuales y administración de bases de datos relacionales.
-- Introducción al testing de software, aseguramiento de calidad y metodologías de trabajo colaborativo.
+- Solid foundation in programming logic, algorithms, data structures, and object-oriented programming.
+- Requirements analysis, visual interface design, and administration of structured relational databases.
+- Introduction to software testing, quality assurance (QA), and agile collaborative work methodologies.
 
-**Bachiller Especializado en Informática** 
+**High School with IT Specialization** 
 : **I.E. Inem José Félix de Restrepo** 
 : **2019 – 2021**
-- Formación técnica inicial con un fuerte énfasis en lógica algorítmica y matemáticas para la computación.
-- Desarrollo temprano de proyectos académicos de innovación tecnológica usando herramientas web y ofimática.
+- Initial technical training with a strong emphasis on algorithmic logic and mathematics for computing.
+- Early development of academic technological innovation projects using web tools and office automation.
 
-## Certificaciones Destacadas
+## Key Certifications
 
 **IT Specialist Python** 
 : **Certiport** 
 : **Nov. 2023**
 
-**Análisis de Datos y DAX** 
+**Data Analysis & DAX** 
 : **Platzi** 
 : **Sep. 2024**
 
@@ -111,18 +108,19 @@ Ingeniero Informático enfocado en Desarrollo Full Cycle con más de 4 años de 
 : **INCO Academy** 
 : **Mar. 2024**
 
-**Data Science e IA** 
+**Data Science & AI** 
 : **UDEA** 
-: **Dic. 2023**
+: **Dec. 2023**
 
-**Ciberseguridad** 
+**Cybersecurity** 
 : **UDEA** 
-: **Dic. 2023**
+: **Dec. 2023**
 
 **Python Django 2** 
 : **Comfenalco** 
 : **Nov. 2023**
 
-**IoT y Protocolos** 
+**IoT & Protocols** 
 : **Platzi** 
-: **Dic. 2023**
+: **Dec. 2023**
+

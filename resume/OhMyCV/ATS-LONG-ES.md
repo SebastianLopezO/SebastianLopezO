@@ -1,228 +1,238 @@
----
----
-
 # Sebastián López Osorno
 
-<span class="iconify" data-icon="charm:person"></span> [sebastian-s-portafolio](sebastian-s-portafolio.vercel.app)
-  : <span class="iconify" data-icon="tabler:brand-github"></span> [github/sebastianlopezosorno](https://github.com/sebastianlopezosorno)
+<span class="iconify" data-icon="tabler:world"></span> [sebastianlopezo.page](https://sebastianlopezo.page/)
+  : <span class="iconify" data-icon="tabler:brand-linkedin"></span> [linkedin/sebastianlopezosorno](https://linkedin.com/in/sebastianlopezosorno/)
+  : <span class="iconify" data-icon="tabler:brand-github"></span> [github/SebastianLopezO](https://github.com/SebastianLopezO)
+
+<span class="iconify" data-icon="tabler:mail"></span> [sebastianlopezosorno2005@gmail](mailto:sebastianlopezosorno2005@gmail.com)
   : <span class="iconify" data-icon="tabler:phone"></span> [+57 321 8774053](https://wa.me/573218774053)
+  : <span class="iconify" data-icon="ic:outline-location-on"></span> Medellín, Colombia
 
-<span class="iconify" data-icon="ic:outline-location-on"></span> Medellín, Colombia
-  : <span class="iconify" data-icon="tabler:brand-linkedin"></span> [linkedin/sebastianlopezosorno](https://linkedin.com/in/sebastianlopezosorno)
-  : <span class="iconify" data-icon="tabler:mail"></span> [sebastianlopezosorno2005@gmail.com](mailto:sebastianlopezosorno2005@gmail.com)
+## Perfil Profesional
 
-## Experiencia
+Ingeniero Informático enfocado en Desarrollo Full Cycle con más de 4 años de experiencia, especializado en arquitectura backend, analítica de datos y automatización MarTech. Mi valor diferencial radica en liderar la integración de sistemas complejos y la centralización de operaciones empresariales, transformando grandes volúmenes de datos en inteligencia de negocios para optimizar la toma de decisiones corporativas. 
 
-**Gerente de TI y Desarrollador Backend CRM**  
-: **TIVENOS - Soluciones para la Educación**  
+Impulsado por una curiosidad insaciable y un fuerte compromiso con el aprendizaje continuo, mi trayectoria se define por una mentalidad práctica y una constante búsqueda de soluciones que generen un impacto real. Mis experiencias académicas y profesionales me han formado como un individuo versátil, capaz de abordar desafíos complejos a través del pensamiento analítico, la creatividad y el trabajo en equipo. Concibo la ingeniería no solo como el dominio de herramientas técnicas, sino como el arte de entender sistemas complejos, hacer las preguntas correctas y construir soluciones sostenibles centradas en el usuario. Busco aportar mi visión estratégica y capacidad resolutiva para diseñar infraestructuras cloud nativas escalables que potencien la eficiencia operativa e impulsen la transformación digital.
+
+## Experiencia Laboral
+
+**IT Manager & Desarrollador Backend CRM** 
+: **TIVENOS - Soluciones para la Educación** 
 : **Jun 2025 – Actualidad | Remoto**
-* Lidero el desarrollo backend de plataformas educativas, integrando APIs REST y gestionando estructuras de datos escalables.
-* Automatizo flujos administrativos y académicos, mejorando la eficiencia operativa de los sistemas internos.
-* Diseño e implemento soluciones personalizadas adaptadas al entorno educativo, manteniendo la escalabilidad y seguridad.
+- Lidero el desarrollo backend de plataformas educativas, integrando APIs REST y gestionando estructuras de datos altamente escalables.
+- Automatizo flujos administrativos y académicos complejos, mejorando significativamente la eficiencia operativa de los sistemas internos de la organización.
+- Diseño e implemento soluciones personalizadas adaptadas al entorno educativo, manteniendo rigurosos estándares de escalabilidad, arquitectura de software y seguridad informática.
+- Integración ágil de plataformas y sistemas heredados mediante protocolos SOAP, WSDL y Webhooks REST.
+- Administración de servidores Linux y despliegues seguros con herramientas DevOps como Docker, Docker Swarm, Nginx y pipelines CI/CD mediante GitHub Actions.
+- Automatizaciones avanzadas con código Deluge y diseño de paneles ejecutivos y tableros de control en Zoho Analytics mediante el uso avanzado de SQL.
+- Gestión operativa de TI y soporte técnico de nivel superior, aplicando estándares de calidad y patrones de diseño ágil.
 
-**Desarrollador CRM y Desarrollador Web**  
-: **ADCOM GROUP**  
-: **Feb 2025 – Actualidad | Medellín (Híbrido)**  
-* Configuración avanzada y personalización de Zoho CRM: módulos, flujos, funciones y scripts con Deluge.
-* Integración de servicios externos (WhatsApp, Meta Ads, Google Ads) mediante APIs RESTful.
-* Desarrollo de herramientas internas con Zoho Creator y automatización de procesos con inteligencia artificial (Dapta).
-* Mejora de la eficiencia comercial a través de soluciones a medida para equipos de marketing y ventas.
+**Desarrollador CRM & Ingeniero MarTech** 
+: **ADCOM GROUP** 
+: **Feb 2025 – Actualidad | Medellín (Híbrido)**
+- Configuración avanzada y personalización de la plataforma Zoho CRM, abarcando módulos, flujos de trabajo, funciones personalizadas y programación de scripts nativos con Deluge.
+- Integración robusta de servicios y plataformas externas (WhatsApp API, Meta Ads, Google Ads) mediante el consumo y desarrollo de APIs RESTful.
+- Desarrollo estratégico de herramientas y aplicaciones empresariales internas con Zoho Creator para digitalizar y optimizar procesos de negocio.
+- Automatización inteligente de procesos de contactabilidad comercial integrando modelos de inteligencia artificial y aprendizaje automático a través de Dapta.
+- Mejora de la eficiencia comercial y de retención a través de soluciones tecnológicas desarrolladas a medida para equipos de marketing, servicio al cliente y ventas.
 
-**Desarrollador Backend | Analista de Datos | Analista CRM**  
-: **MUV-U S.A.S**  
-: **Jul 2023 – Ene 2025 | Sabaneta (Híbrido)**  
-* Desarrollo de reportes ejecutivos en **Power BI** para áreas financieras y comerciales, usando modelado de datos avanzado.
-* Automatización de tareas en CRM para mejorar la productividad del equipo comercial.
-* Diseño de arquitectura de datos para entrada y transformación de información en CRM.
-* Desarrollo backend de componentes para la plataforma web de la empresa.
-* Administración de servidores e infraestructura TI, y soporte a usuarios internos.
+**Desarrollador Backend & Analista de Datos** 
+: **MUV-U S.A.S** 
+: **Jul 2023 – Ene 2025 | Sabaneta (Híbrido)**
+- Desarrollo de reportes ejecutivos e interactivos en Power BI para las áreas financieras, comerciales y de mercadeo, empleando técnicas de modelado de datos avanzado y lenguaje DAX.
+- Preprocesamiento, auditoría, limpieza y validación de grandes volúmenes de datos en el CRM para su posterior análisis estratégico y de inteligencia de negocios.
+- Automatización de tareas repetitivas y operativas en CRM para aumentar la eficiencia y mejorar la productividad general del equipo comercial.
+- Diseño estructurado de la arquitectura de datos entrante para la correcta captura, normalización y transformación de información en el ecosistema del CRM.
+- Desarrollo backend ágil de componentes funcionales e integración de servicios para la plataforma web principal de la empresa.
+- Administración de servidores cloud, mantenimiento de infraestructura TI y provisión de soporte técnico para usuarios internos.
 
-**Analista de Datos (Pasantía)**  
-: **Quipux S.A.S**  
-: **Ago 2022 – May 2023 | Medellín (Híbrido)**  
-* Limpieza, transformación y carga de grandes volúmenes de datos para informes de alto impacto.
-* Automatización de procesos y generación de reportes utilizando herramientas de BI y scripts en Python.
-* Diseño de visualizaciones interactivas que facilitaron la toma de decisiones en procesos de recaudo y movilidad.
+**Analista de Datos (Pasantía)** 
+: **Quipux S.A.S** 
+: **Ago 2022 – May 2023 | Medellín (Híbrido)**
+- Procesos avanzados de limpieza, transformación y carga (ETL) de grandes volúmenes de datos para la construcción de informes gerenciales de alto impacto.
+- Automatización de procesos de datos y generación periódica de reportes utilizando modernas herramientas de Business Intelligence (BI) y el desarrollo de scripts analíticos en Python.
+- Diseño de visualizaciones interactivas de datos y cuadros de mando que facilitaron el seguimiento de KPIs y la toma de decisiones en procesos clave de recaudo y movilidad.
+- Implementación de rutinas robustas de extracción y limpieza de datos mediante consultas SQL complejas orientadas a bases de datos relacionales.
 
-## Educación
+## Educación Académica
 
-**Ingeniería Informática**  
-: **Politécnico Jaime Isaza Cadavid**  
+**Ingeniería Informática** 
+: **Politécnico Jaime Isaza Cadavid** 
 : **Ene 2022 – Dic 2027 (En curso)**
+- Formación integral y de alto nivel en ciencias de la computación, ingeniería de software, arquitectura de hardware, redes de comunicación, sistemas operativos e inteligencia artificial.
+- Desarrollo práctico de proyectos complejos involucrando tecnologías corporativas como Java, Python, MongoDB, Spring Boot, contenedores Docker, interfaces en React y programación IoT en ESP32.
+- Enfoque metodológico en el pensamiento crítico, la resolución analítica de problemas algorítmicos y el liderazgo en la gestión de proyectos tecnológicos sostenibles.
+- Aplicación avanzada de matemáticas discretas, estadística y análisis numérico para la optimización de sistemas informáticos complejos.
+- Diseño de arquitecturas de programación distribuida, administración de redes de servicios de comunicación y seguridad de la información.
 
-Politécnico Jaime Isaza Cadavid  
-: Medellín, Colombia
-
-* Formación integral en ciencias de la computación, ingeniería de software, arquitectura de hardware, redes, sistemas operativos e inteligencia artificial.
-* Desarrollo de proyectos con tecnologías como Java, Python, MongoDB, Spring Boot, Docker, React y ESP32.
-* Enfoque en el pensamiento crítico, la resolución de problemas y el liderazgo de proyectos tecnológicos.
-
-**Técnico Profesional en Programación de Software**  
+**Técnico Profesional en Programación de Software** 
+: **SENA – IUSH** 
 : **Ene 2022 – May 2023**
+- Formación práctica intensiva centrada en el desarrollo web moderno, la gestión estructurada de bases de datos, control de versiones distribuido y la planificación de proyectos de software.
+- Implementación de entornos de desarrollo y uso avanzado de herramientas como Git, motores MySQL, maquetación HTML/CSS, interactividad en JavaScript, PHP y manejo de dependencias con Composer.
+- Construcción y despliegue de soluciones de inteligencia de negocios (BI) y aplicación de principios robustos de seguridad informática.
+- Levantamiento analítico de requerimientos para el desarrollo preciso de software genérico y aplicaciones empresariales a la medida.
 
-SENA – Instituto Universitario Salazar y Herrera (IUSH)  
-: Medellín, Colombia
-
-* Formación práctica en desarrollo web, bases de datos, control de versiones, y gestión de proyectos.
-* Uso de herramientas como Git, MySQL, HTML/CSS, JavaScript, PHP y Composer.
-* Enfoque en programación funcional, analítica de datos y modelado de datos.
-
-**Técnico Auxiliar en Desarrollo de Software (Media Técnica)**  
+**Técnico Auxiliar en Desarrollo de Software** 
+: **Institución Educativa Pascual Bravo** 
 : **2020 – 2021**
+- Fundamentación académica temprana enfocada en el desarrollo de la lógica de programación, algoritmia, comprensión de estructuras de datos y administración de bases de datos relacionales.
+- Desarrollo ágil de aplicaciones web funcionales simples y manejo de entornos integrados de desarrollo (IDE) como Visual Studio, acoplados a bases de datos MySQL.
+- Introducción estructurada al trabajo colaborativo, la gestión de control de versiones y los principios fundamentales del desarrollo ágil de software.
+- Introducción práctica a metodologías de testing de software y aseguramiento de la calidad (QA) en despliegues de proyectos tecnológicos.
+- Fundamentación técnica en almacenamiento, procesamiento y estructuración de información mediante consultas en bases de datos relacionales.
+- Diseño inicial de interfaces gráficas de usuario (GUI) enfocadas en mejorar la usabilidad interactiva y la experiencia final del cliente.
 
-Institución Educativa Pascual Bravo  
-: Medellín, Colombia
-
-* Formación enfocada en la lógica de programación, estructuras de datos y bases de datos relacionales.
-* Desarrollo de aplicaciones web simples y manejo de herramientas como Visual Studio y MySQL.
-* Introducción al trabajo colaborativo, control de versiones y principios básicos del desarrollo ágil.
-
-**Bachiller Especializado en Informática**  
+**Bachiller Especializado en Informática** 
+: **I.E. Inem José Félix de Restrepo** 
 : **2019 – 2021**
+- Bachillerato de orientación técnica con énfasis específico en los fundamentos de la informática, electrónica básica y lenguajes de programación.
+- Formación práctica de base en el diseño con HTML, desarrollo de escritorio con Visual Basic .NET, algoritmia lógica y gestión de herramientas ofimáticas avanzadas.
+- Participación activa en proyectos académicos de innovación con enfoque en las Tecnologías de la Información y las Comunicaciones (TIC).
 
-I.E. Inem José Félix de Restrepo  
-: Medellín, Colombia
+## Certificaciones y Licencias Completas
 
-* Bachillerato técnico con énfasis en informática y fundamentos de programación.
-* Formación básica en HTML, Visual Basic .NET, lógica algorítmica y ofimática avanzada.
-* Participación en proyectos académicos de innovación con enfoque en TIC.
+**IT Specialist - Python** 
+: **Certiport - A Pearson VUE Business** 
+: **Nov. 2023**
 
-## Habilidades
+**DAX para Power BI** 
+: **Platzi** 
+: **Sep. 2024**
 
-**Lenguajes de Programación:**  
-<span class="iconify" data-icon="vscode-icons:file-type-python"></span> Python,  <span class="iconify" data-icon="logos:java"></span> Java,  <span class="iconify" data-icon="vscode-icons:file-type-cpp"></span> C++,  <span class="iconify" data-icon="vscode-icons:file-type-c"></span> C,  <span class="iconify" data-icon="logos:php"></span> PHP,  <span class="iconify" data-icon="logos:javascript"></span> JavaScript,  <span class="iconify" data-icon="logos:typescript-icon"></span> TypeScript,  <span class="iconify" data-icon="logos:visual-basic"></span> VBA,  <span class="iconify" data-icon="logos:google-apps-script"></span> Google Apps Script,  
-<span class="iconify" data-icon="logos:zoho"></span> Zoho Deluge
+**Análisis de Datos con Power BI** 
+: **Platzi** 
+: **Ago. 2024**
 
-**Desarrollo Frontend:**  
-<span class="iconify" data-icon="vscode-icons:file-type-html"></span> HTML,  <span class="iconify" data-icon="vscode-icons:file-type-css"></span> CSS,  <span class="iconify" data-icon="logos:tailwindcss-icon"></span> TailwindCSS,  <span class="iconify" data-icon="logos:react"></span> React,  <span class="iconify" data-icon="logos:bootstrap"></span> Bootstrap,  <span class="iconify" data-icon="logos:qt"></span> Qt,  <span class="iconify" data-icon="mdi:web"></span> Bricks Builder
+**Domina Excel Avanzado** 
+: **Platzi** 
+: **Jul. 2024**
 
-**Desarrollo Backend:**  
-<span class="iconify" data-icon="logos:django-icon"></span> Django,  <span class="iconify" data-icon="logos:nodejs-icon"></span> Node.js,  <span class="iconify" data-icon="logos:spring-icon"></span> Spring Boot,  <span class="iconify" data-icon="logos:fastapi"></span> FastAPI,  <span class="iconify" data-icon="logos:laravel"></span> Laravel
+**Excel Avanzado & Análisis de Datos** 
+: **Platzi** 
+: **Jun. 2024**
 
-**Bases de Datos:**  
-<span class="iconify" data-icon="logos:mysql-icon"></span> MySQL,  <span class="iconify" data-icon="logos:postgresql"></span> PostgreSQL,  <span class="iconify" data-icon="logos:mongodb-icon"></span> MongoDB,  <span class="iconify" data-icon="logos:redis"></span> Redis,  <span class="iconify" data-icon="vscode-icons:file-type-sqlite"></span> SQLite,  <span class="iconify" data-icon="mdi:database"></span> H2
 
-**Análisis de Datos:**  
-<span class="iconify" data-icon="logos:powerbi"></span> Power BI,  <span class="iconify" data-icon="logos:pandas"></span> Pandas,  <span class="iconify" data-icon="logos:numpy"></span> NumPy,  <span class="iconify" data-icon="logos:microsoft-excel"></span> Excel Avanzado,  <span class="iconify" data-icon="logos:matplotlib"></span> Matplotlib,  <span class="iconify" data-icon="logos:r-lang"></span> R,  <span class="iconify" data-icon="logos:tensorflow"></span> TensorFlow,  <span class="iconify" data-icon="logos:tableau-icon"></span> Tableau
+**Google Search Console para SEO** 
+: **Platzi** 
+: **Jun. 2024**
 
-**DevOps y Herramientas:**  
-<span class="iconify" data-icon="logos:docker-icon"></span> Docker,  <span class="iconify" data-icon="logos:git-icon"></span> Git/GitHub,  <span class="iconify" data-icon="logos:gitlab"></span> GitLab CI/CD,  <span class="iconify" data-icon="logos:nginx"></span> NGINX,  <span class="iconify" data-icon="logos:github-actions"></span> GitHub Actions,  <span class="iconify" data-icon="logos:bash-icon"></span> Bash,  <span class="iconify" data-icon="logos:linux-tux"></span> Linux,  <span class="iconify" data-icon="simple-icons:owasp"></span> OWASP,  <span class="iconify" data-icon="logos:kali-linux"></span> Kali Linux
+**Green Digital Skills Certificate** 
+: **INCO Academy** 
+: **Mar. 2024**
 
-**Pruebas y QA:**  
-<span class="iconify" data-icon="logos:junit5"></span> JUnit,  <span class="iconify" data-icon="logos:pytest"></span> PyTest,  <span class="iconify" data-icon="logos:postman-icon"></span> Postman,  <span class="iconify" data-icon="logos:uipath"></span> UiPath,  <span class="iconify" data-icon="logos:microsoft-power-automate"></span> Power Automate
+**Data Science & AI - Engancha TIC** 
+: **Universidad de Antioquia** 
+: **Dic. 2023**
 
-**APIs y Automatización:**  
-<span class="iconify" data-icon="mdi:api"></span> APIs REST,  <span class="iconify" data-icon="mdi:webhook"></span> Webhooks,  <span class="iconify" data-icon="logos:zapier"></span> Zapier,  <span class="iconify" data-icon="logos:zoho"></span> Zoho Creator,  <span class="iconify" data-icon="mdi:robot"></span> Dapta (IA),  <span class="iconify" data-icon="logos:google-workspace"></span> Google Workspace,  <span class="iconify" data-icon="logos:microsoft-365"></span> Microsoft 365
+**Ciberseguridad - Engancha TIC** 
+: **Universidad de Antioquia** 
+: **Dic. 2023**
 
-**Otras Habilidades:**  
-<span class="iconify" data-icon="mdi:robot-industrial"></span> Automatización RPA,  <span class="iconify" data-icon="mdi:clipboard-check-outline"></span> Metodologías Ágiles (Scrum),  <span class="iconify" data-icon="mdi:function-variant"></span> Matemáticas Aplicadas,  <span class="iconify" data-icon="mdi:chart-areaspline"></span> Diseño de Arquitecturas,  <span class="iconify" data-icon="mdi:account-group-outline"></span> Herramientas Colaborativas,  <span class="iconify" data-icon="mdi:database-cog-outline"></span> Administración de CRM,  <span class="iconify" data-icon="mdi:server-network-outline"></span> Infraestructura TI
+**Analisis de Datos - Engancha TIC** 
+: **Universidad de Antioquia** 
+: **Dic. 2023**
 
-## Certificaciones y Premios
+**Programación Web - Engancha TIC** 
+: **Universidad de Antioquia** 
+: **Dic. 2023**
 
-Curso de DAX para Power BI, **Platzi**
-: sep. 2024
+**Protocolos de IoT** 
+: **Platzi** 
+: **Dic. 2023**
 
-Curso de Análisis de Datos con Power BI, **Platzi**
-: ago. 2024
+**Curso Profesional de Git y GitHub** 
+: **Platzi** 
+: **Nov. 2023**
 
-Domina Excel, **Platzi**
-: jul. 2024
+**Fundamentos Ingeniería Software** 
+: **Platzi** 
+: **Nov. 2023**
 
-Curso de Excel Avanzado para Análisis de Datos, **Platzi**
-: jun. 2024
+**Python Django 2** 
+: **Comfenalco Antioquia** 
+: **Nov. 2023**
 
-Fundamentos de Google Search Console para SEO, **Platzi**
-: jun. 2024
+**Curso Práctico de JavaScript** 
+: **Platzi** 
+: **Nov. 2023**
 
-Green Digital Skills Certificate, **INCO Academy**
-: mar. 2024
+**Curso de Programación Básica** 
+: **Platzi** 
+: **Nov. 2023**
 
-Ciberseguridad Engancha TIC 2.0, **Universidad de Antioquia**
-: dic. 2023
+**Curso de Fundamentos de Python** 
+: **Platzi** 
+: **Nov. 2023**
 
-Curso de IoT: Protocolos de Comunicación, **Platzi**
-: dic. 2023
+**Hacking Ético Gamificado HACKLAB** 
+: **HackerMentor** 
+: **Ago. 2023**
 
-Data Science e Inteligencia Artificial, **Universidad de Antioquia**
-: dic. 2023
+**Problem Solving (Basic)** 
+: **HackerRank** 
+: **Mar. 2023**
 
-Programación Web Engancha TIC 2.0, **Universidad de Antioquia**
-: dic. 2023
+**Java (Basic) Certificate** 
+: **HackerRank** 
+: **Feb. 2023**
 
-Visualización de Datos Engancha TIC 2.0, **Universidad de Antioquia**
-: dic. 2023
+**CSS Certificate** 
+: **HackerRank** 
+: **Feb. 2023**
 
-Curso Profesional de Git y GitHub, **Platzi**
-: nov. 2023
+**Python-Django** 
+: **Comfenalco Antioquia** 
+: **Dic. 2022**
 
-Curso Práctico de JavaScript, **Platzi**
-: nov. 2023
+**Python (Basic) Certificate** 
+: **HackerRank**
+: **Ago. 2022**
 
-Curso de Fundamentos de Python, **Platzi**
-: nov. 2023
+**Introducción al Excel Profesional** 
+: **Cámara de Comercio** 
+: **Jun. 2022**
 
-Curso de Programación Básica, **Platzi**
-: nov. 2023
+**SQL (Basic) Certificate** 
+: **HackerRank** 
+: **May. 2022**
 
-Fundamentos de Ingeniería de Software, **Platzi**
-: nov. 2023
+**Fundamentos de Programación** 
+: **Universidad Tecnológica de Pereira** 
+: **Dic. 2021**
 
-Python Django 2, **Comfenalco Antioquia**
-: nov. 2023
+**Programación Python** 
+: **Universidad EIA** 
+: **May. 2021**
 
-Hacking Ético Gamificado HACKLAB, **HackerMentor**
-: ago. 2023
+**Introduction to HTML** 
+: **Coursera** 
+: **Dic. 2020**
 
-Problem Solving (Basic), **HackerRank**
-: mar. 2023
+## Proyectos Destacados y Repositorios
 
-Java (Basic), **HackerRank**
-: feb. 2023
+**SmartPotTech (Organización IoT & Agricultura de Precisión)**
+- Sistema integral IoT enfocado en transformar la gestión y automatización de cultivos hidropónicos mediante la recolección de datos ambientales.
+- Orquestación completa de la infraestructura: Hardware con sensores ESP32 (MicroPython), Backend escalable estructurado en Spring Boot (Java 17), y visualización Frontend interactiva empleando React, Vite, TypeScript y Tailwind CSS.
+- Despliegue de una organización dedicada en GitHub que consolida múltiples repositorios interconectados.
 
-CSS, **HackerRank**
-: feb. 2023
+**MyPortfolio (Desarrollo Frontend & Marca Personal)**
+- Plataforma web interactiva desarrollada con React, Vite, TypeScript y Tailwind CSS, diseñada estratégicamente para exhibir proyectos de ingeniería, métricas de GitHub y trayectoria corporativa.
+- Implementación de una arquitectura frontend modular, escalable y orientada a componentes, priorizando el alto rendimiento, la optimización de tiempos de carga y las buenas prácticas de diseño responsivo (Responsive Design).
+- Aplicación de principios avanzados de UI/UX, SEO técnico y analítica digital para garantizar una experiencia de usuario fluida, operando como una vitrina profesional efectiva para la captación de oportunidades tecnológicas.
 
-Python Django 1, **Comfenalco Antioquia**
-: dic. 2022
 
-Python (Basic), **HackerRank**
-: ago. 2022
+**EngineeringSebastian-s (Prácticas de Ciencias de la Computación)**
+- Repositorio académico avanzado estrechamente vinculado a las materias cursadas en la carrera de Ingeniería Informática.
+- Colección de proyectos complejos en lenguajes core como Java, Python y C++, utilizando MongoDB y despliegues con Docker.
+- Evidencia práctica del dominio de conceptos fundamentales de la ciencia computacional: manejo avanzado de árboles, algoritmos de grafos, semiótica informática, matrices dispersas, cálculo de polinomios, programación funcional distribuida, y diseño de sistemas operativos.
 
-Introducción a Excel Profesional, **Cámara de Comercio**
-: jun. 2022
+**TechnicalSebastians (Herramientas Técnicas y Software)**
+- Consolidado de proyectos desarrollados durante el ciclo técnico profesional, evidenciando versatilidad tecnológica.
+- Construcción y despliegue de aplicaciones web funcionales y herramientas de sistema (VideoToAscii, calculadoras) haciendo uso de arquitecturas en PHP, C#, MySQL, Vanilla JavaScript, HTML/CSS y tecnologías de soporte como servidores Apache, Composer y contenedores Docker.
+- Demostración del entendimiento en el ciclo de desarrollo backend/frontend y la adopción de buenas prácticas en el ciclo de vida de la ingeniería de software.
 
-SQL (Basic), **HackerRank**
-: may. 2022
-
-Fundamentos de Programación 1 y 2, **Universidad Tecnológica de Pereira**
-: dic. 2021
-
-Introducción a Python, **Universidad EIA**
-: may. 2021
-
-## Proyectos
-
-**SmartPotTech (IoT & Agricultura)**
-Proyecto personal de automatización de cultivo hidropónico con enfoque académico y profesional.
-
-* Sistema completo de gestión de cultivos usando ESP32, sensores ambientales y MicroPython.
-* Desarrollo backend en Spring Boot, frontend en React y orquestación con Node.js y bases de datos.
-* Organización dedicada en GitHub con múltiples repositorios que incluyen API, IoT, Web, Cache, Middleware, Análisis de Datos y Generador de Datos.
-
-**EngineeringSebastian-s (Computer Engineering)**
-Repositorio académico vinculado a la carrera de Ingeniería Informática en el Politécnico Jaime Isaza Cadavid.
-
-* Proyectos en Java, Python, MongoDB y Docker que reflejan conocimientos adquiridos en programación, redes, IA, estructuras de datos y sistemas operativos.
-* Ejemplos clave: manejo de árboles, grafos, semiótica informática, programación funcional, sistemas operativos y más.
-
-**TechnicalSebastians (Técnico Profesional en Programación de Software - IUSH)**
-Proyectos desarrollados durante el ciclo técnico profesional.
-
-* Aplicaciones web con PHP, C#, MySQL, JavaScript, HTML y herramientas como Apache, Docker y Composer.
-* Enfoque en desarrollo backend y frontend, automatización de procesos y buenas prácticas en ingeniería de software.
-
-**VocationalSebastian-s (Técnico en Programación - Bachillerato)**
-Repositorios realizados durante el bachillerato especializado en informática en Pascual Bravo e INEM.
-
-* Aplicaciones didácticas usando Visual Basic .NET, Java, HTML, PHP y Python.
-* Fortalecimiento de habilidades de lógica, diseño y desarrollo de software desde la educación media técnica.
+**VocationalSebastian-s (Lógica de Programación Temprana)**
+- Repositorios que documentan el desarrollo formativo inicial en informática desde la educación técnica secundaria.
+- Portafolio de aplicaciones didácticas y algoritmos fundacionales desarrollados en lenguajes como Visual Basic .NET, Java, HTML, PHP y Python.
+- Prueba tangible del fortalecimiento temprano de habilidades analíticas, lógica de programación dura, diseño y creación de soluciones creativas de software.

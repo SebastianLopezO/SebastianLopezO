@@ -29,7 +29,7 @@ Impulsado por una curiosidad insaciable y un fuerte compromiso con el aprendizaj
 
 **Desarrollador CRM & Ingeniero MarTech** 
 : **ADCOM GROUP** 
-: **Feb 2025 – Actualidad | Medellín (Híbrido)**
+: **Feb 2025 – Actualidad | Remoto**
 - Configuración avanzada y personalización de la plataforma Zoho CRM, abarcando módulos, flujos de trabajo, funciones personalizadas y programación de scripts nativos con Deluge.
 - Integración robusta de servicios y plataformas externas (WhatsApp API, Meta Ads, Google Ads) mediante el consumo y desarrollo de APIs RESTful.
 - Desarrollo estratégico de herramientas y aplicaciones empresariales internas con Zoho Creator para digitalizar y optimizar procesos de negocio.
@@ -38,7 +38,7 @@ Impulsado por una curiosidad insaciable y un fuerte compromiso con el aprendizaj
 
 **Desarrollador Backend & Analista de Datos** 
 : **MUV-U S.A.S** 
-: **Jul 2023 – Ene 2025 | Sabaneta (Híbrido)**
+: **Jul 2023 – Ene 2025 | Híbrido**
 - Desarrollo de reportes ejecutivos e interactivos en Power BI para las áreas financieras, comerciales y de mercadeo, empleando técnicas de modelado de datos avanzado y lenguaje DAX.
 - Preprocesamiento, auditoría, limpieza y validación de grandes volúmenes de datos en el CRM para su posterior análisis estratégico y de inteligencia de negocios.
 - Automatización de tareas repetitivas y operativas en CRM para aumentar la eficiencia y mejorar la productividad general del equipo comercial.
@@ -46,9 +46,9 @@ Impulsado por una curiosidad insaciable y un fuerte compromiso con el aprendizaj
 - Desarrollo backend ágil de componentes funcionales e integración de servicios para la plataforma web principal de la empresa.
 - Administración de servidores cloud, mantenimiento de infraestructura TI y provisión de soporte técnico para usuarios internos.
 
-**Analista de Datos (Pasantía)** 
+**Analista de Datos** 
 : **Quipux S.A.S** 
-: **Ago 2022 – May 2023 | Medellín (Híbrido)**
+: **Ago 2022 – May 2023 | Híbrido**
 - Procesos avanzados de limpieza, transformación y carga (ETL) de grandes volúmenes de datos para la construcción de informes gerenciales de alto impacto.
 - Automatización de procesos de datos y generación periódica de reportes utilizando modernas herramientas de Business Intelligence (BI) y el desarrollo de scripts analíticos en Python.
 - Diseño de visualizaciones interactivas de datos y cuadros de mando que facilitaron el seguimiento de KPIs y la toma de decisiones en procesos clave de recaudo y movilidad.
@@ -58,7 +58,7 @@ Impulsado por una curiosidad insaciable y un fuerte compromiso con el aprendizaj
 
 **Ingeniería Informática** 
 : **Politécnico Jaime Isaza Cadavid** 
-: **Ene 2022 – Dic 2027 (En curso)**
+: **2022 – 2026 (En curso)**
 - Formación integral y de alto nivel en ciencias de la computación, ingeniería de software, arquitectura de hardware, redes de comunicación, sistemas operativos e inteligencia artificial.
 - Desarrollo práctico de proyectos complejos involucrando tecnologías corporativas como Java, Python, MongoDB, Spring Boot, contenedores Docker, interfaces en React y programación IoT en ESP32.
 - Enfoque metodológico en el pensamiento crítico, la resolución analítica de problemas algorítmicos y el liderazgo en la gestión de proyectos tecnológicos sostenibles.
@@ -67,7 +67,7 @@ Impulsado por una curiosidad insaciable y un fuerte compromiso con el aprendizaj
 
 **Técnico Profesional en Programación de Software** 
 : **SENA – IUSH** 
-: **Ene 2022 – May 2023**
+: **2022 – 2023**
 - Formación práctica intensiva centrada en el desarrollo web moderno, la gestión estructurada de bases de datos, control de versiones distribuido y la planificación de proyectos de software.
 - Implementación de entornos de desarrollo y uso avanzado de herramientas como Git, motores MySQL, maquetación HTML/CSS, interactividad en JavaScript, PHP y manejo de dependencias con Composer.
 - Construcción y despliegue de soluciones de inteligencia de negocios (BI) y aplicación de principios robustos de seguridad informática.

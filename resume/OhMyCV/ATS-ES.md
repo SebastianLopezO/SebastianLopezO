@@ -72,14 +72,14 @@ Ingeniero Informático enfocado en Desarrollo Full Cycle con más de 4 años de 
 
 **Ingeniería Informática** 
 : **Politécnico Jaime Isaza Cadavid** 
-: **Ene 2022 – Dic 2027 (En curso)**
+: **2022 – 2026 (En curso)**
 - Formación integral en ciencias de la computación, ingeniería de software, inteligencia artificial y redes.
 - Diseño y arquitectura de proyectos informáticos aplicando estándares de calidad y metodologías ágiles.
 - Gestión de infraestructura TI, sistemas de información y liderazgo de soluciones tecnológicas eficientes.
 
 **Técnico en Programación de Software** 
 : **SENA – IUSH** 
-: **Ene 2022 – May 2023**
+: **2022 – 2023**
 - Ciclo de vida del software: análisis de requisitos, diseño, desarrollo e implementación de soluciones.
 - Construcción de aplicaciones web y backend integradas con bases de datos para el sector productivo.
 - Soporte a infraestructura, configuración de redes e introducción a la inteligencia de negocios empresarial.

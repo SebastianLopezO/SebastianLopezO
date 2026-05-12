@@ -69,14 +69,14 @@ Computer Engineer and Full Cycle Developer with over 4 years of experience bridg
 
 **Computer Engineering** 
 : **Politécnico Jaime Isaza Cadavid** 
-: **Jan 2022 – Dec 2027 (In Progress)**
+: **2022 – 2026 (In Progress)**
 - Comprehensive training in computer science, software engineering, artificial intelligence, and networks.
 - Design and architecture of IT projects applying high quality standards and agile software methodologies.
 - IT infrastructure management, information systems, and technical leadership of efficient tech solutions.
 
 **Software Programming Technician** 
 : **SENA – IUSH** 
-: **Jan 2022 – May 2023**
+: **2022 – 2023**
 - Software lifecycle: requirement analysis, architecture design, development, and solutions implementation.
 - Construction of web and backend applications integrated with robust databases for the productive sector.
 - Infrastructure support, network configuration, and introduction to corporate business intelligence data.

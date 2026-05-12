@@ -29,7 +29,7 @@ Driven by an insatiable curiosity and a strong commitment to continuous learning
 
 **CRM Developer & MarTech Engineer** 
 : **ADCOM GROUP** 
-: **Feb 2025 – Present | Medellín (Hybrid)**
+: **Feb 2025 – Present | Remote**
 - Advanced configuration and customization of the Zoho CRM platform, covering modules, workflows, custom functions, and programming of native scripts with Deluge.
 - Robust integration of external services and platforms (WhatsApp API, Meta Ads, Google Ads) through the consumption and custom development of RESTful APIs.
 - Strategic development of internal business tools and enterprise applications using Zoho Creator to fully digitize and optimize critical business processes.
@@ -38,7 +38,7 @@ Driven by an insatiable curiosity and a strong commitment to continuous learning
 
 **Backend Developer & Data Analyst** 
 : **MUV-U S.A.S** 
-: **Jul 2023 – Jan 2025 | Sabaneta (Hybrid)**
+: **Jul 2023 – Jan 2025 | Hybrid**
 - Development of interactive executive reports in Power BI for financial, commercial, and marketing areas, employing advanced data modeling techniques and DAX language.
 - Preprocessing, auditing, cleaning, and validation of massive data volumes within the CRM for subsequent strategic analysis and corporate business intelligence.
 - Automation of repetitive and operational tasks within the CRM platform to significantly increase efficiency and improve the overall productivity of the sales team.
@@ -46,9 +46,9 @@ Driven by an insatiable curiosity and a strong commitment to continuous learning
 - Agile backend development of functional web components and robust service integration to continuously enhance the company's main digital web platform.
 - Administration of cloud servers, meticulous maintenance of IT infrastructure, and provision of comprehensive technical support for internal corporate users.
 
-**Data Analyst (Internship)** 
+**Data Analyst** 
 : **Quipux S.A.S** 
-: **Aug 2022 – May 2023 | Medellín (Hybrid)**
+: **Aug 2022 – May 2023 | Hybrid**
 - Advanced processes of cleaning, transformation, and loading (ETL) of massive data volumes for the construction of high-impact corporate managerial reports.
 - Automation of data processes and periodic generation of reports using modern Business Intelligence (BI) tools and the development of analytical Python scripts.
 - Design of interactive data visualizations and dashboards that facilitated the monitoring of KPIs and strategic decision-making in key revenue and mobility processes.
@@ -58,7 +58,7 @@ Driven by an insatiable curiosity and a strong commitment to continuous learning
 
 **Computer Engineering** 
 : **Politécnico Jaime Isaza Cadavid** 
-: **Jan 2022 – Dec 2027 (In Progress)**
+: **2022 – 2026 (In Progress)**
 - Comprehensive and high-level training in computer science, software engineering, hardware architecture, communication networks, operating systems, and artificial intelligence.
 - Practical development of complex projects involving corporate technologies such as Java, Python, MongoDB, Spring Boot, Docker containers, React interfaces, and IoT programming on ESP32.
 - Methodological focus on critical thinking, the analytical resolution of algorithmic problems, and leadership in the strategic management of sustainable technological projects.
@@ -67,7 +67,7 @@ Driven by an insatiable curiosity and a strong commitment to continuous learning
 
 **Software Programming Technician** 
 : **SENA – IUSH** 
-: **Jan 2022 – May 2023**
+: **2022 – 2023**
 - Intensive practical training focused on modern web development, structured database management, distributed version control, and the agile planning of complex software projects.
 - Implementation of development environments and advanced use of tools like Git, MySQL engines, HTML/CSS layout, JavaScript interactivity, PHP, and dependency management with Composer.
 - Construction and seamless deployment of business intelligence (BI) data solutions and the strict application of highly robust corporate cybersecurity and information principles.

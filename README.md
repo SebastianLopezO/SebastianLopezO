@@ -156,6 +156,7 @@
         administration</li>
       <li><strong>Productivity & Collaboration Suites:</strong> Configuration and use of Microsoft 365, Google
         Workspace, and Zoho Suite for enterprise solutions</li>
+      <li><strong>Machine Learning & AI:</strong> Natural Language Processing (NLP), Small Language Models (SLM), arquitecturas TinyML, integración de modelos Qwen2 y desarrollo de RAG Pipelines.</li>
     </ul>
   </details>
   <details>
@@ -385,6 +386,22 @@
     <a href="https://www.geogebra.org/" target="_blank" rel="noreferrer"><img
         src="https://img.shields.io/badge/GeoGebra-1A237E?style=for-the-badge&logo=geogebra&logoColor=white"
         alt="GeoGebra" /></a>
+    <h4>Machine Learning & AI</h4>
+    <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> 
+        <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" height="20" /> 
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank" rel="noreferrer"> 
+        <img src="https://img.shields.io/badge/NLP-00599C?style=for-the-badge&logo=openai&logoColor=white" alt="NLP" height="20" /> 
+    </a>
+    <a href="https://www.tinyml.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://img.shields.io/badge/TinyML-009688?style=for-the-badge&logo=arduino&logoColor=white" alt="TinyML" height="20" /> 
+    </a>
+    <a href="https://github.com/QwenLM/Qwen2" target="_blank" rel="noreferrer"> 
+        <img src="https://img.shields.io/badge/Qwen2-2B3137?style=for-the-badge&logo=github&logoColor=white" alt="Qwen2" height="20" /> 
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation" target="_blank" rel="noreferrer"> 
+        <img src="https://img.shields.io/badge/RAG%20Pipelines-2496ED?style=for-the-badge&logo=dataversioncontrol&logoColor=white" alt="RAG Pipelines" height="20" /> 
+    </a>
     <h4>Other tools</h4>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
         src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"

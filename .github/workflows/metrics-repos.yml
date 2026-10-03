@@ -5,16 +5,22 @@ on:
     - cron: "0 2 * * *"
   workflow_dispatch:
 
+concurrency:
+  group: profile-metrics
+  cancel-in-progress: false
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
 
       # =============================
       # 🌱 SmartPot-Web
       # =============================
       - name: SmartPot-Web
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           template: repository
           filename: metrics/repos/smartpot-web.svg
@@ -28,7 +34,7 @@ jobs:
       # 🔌 SmartPot-API
       # =============================
       - name: SmartPot-API
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           template: repository
           filename: metrics/repos/smartpot-api.svg
@@ -42,7 +48,7 @@ jobs:
       # 🗄️ SmartPot-DB
       # =============================
       - name: SmartPot-DB
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           template: repository
           filename: metrics/repos/smartpot-db.svg
@@ -56,7 +62,7 @@ jobs:
       # 🤖 SmartPot-IoT
       # =============================
       - name: SmartPot-IoT
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           template: repository
           filename: metrics/repos/smartpot-iot.svg
@@ -70,7 +76,7 @@ jobs:
       # 🔁 SmartPot-Proxy
       # =============================
       - name: SmartPot-Proxy
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           template: repository
           filename: metrics/repos/smartpot-proxy.svg
@@ -84,7 +90,7 @@ jobs:
       # 📦 SmartPot-Mail
       # =============================
       - name: SmartPot-Mail
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           template: repository
           filename: metrics/repos/smartpot-mail.svg
@@ -98,7 +104,7 @@ jobs:
       # ⚡ SmartPot-Cache
       # =============================
       - name: SmartPot-Cache
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           template: repository
           filename: metrics/repos/smartpot-cache.svg
@@ -112,7 +118,7 @@ jobs:
       # 📊 SmartPot-DataAnalytics
       # =============================
       - name: SmartPot-DataAnalytics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           template: repository
           filename: metrics/repos/smartpot-dataanalytics.svg
@@ -126,7 +132,7 @@ jobs:
       # 🧪 SmartPot-DataGenerator
       # =============================
       - name: SmartPot-DataGenerator
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           template: repository
           filename: metrics/repos/smartpot-datagenerator.svg

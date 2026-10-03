@@ -492,8 +492,7 @@
   </summary>
   <p align="center">
     <p align="center">
-      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics/account/metrics.github-metrics.svg" width="48%" />
-      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics/account/metrics.activity.svg" width="48%" />
+      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics/account/github-metrics.svg" width="70%" alt="GitHub metrics" />
     </p>
     <p align="center">
       <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics/account/metrics.isocalendar.svg" width="48%" />
@@ -512,8 +511,7 @@
       <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics/account/metrics.topics.labels.svg" width="48%" />
     </p>
     <p align="center">
-      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics/account/metrics.languages.details.svg" width="48%" />
-      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics/account/metrics.habits.charts.svg" width="48%" />
+      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics/account/metrics.languages.details.svg" width="70%" alt="Most used languages" />
     </p>
     <p align="center">
       <img src="https://komarev.com/ghpvc/?username=SebastianLopezO&label=Profile%20views&color=0e75b6&style=flat"
@@ -830,10 +828,10 @@
             src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=SmartPotTech&repo=SmartPot-IoT&theme=dark"
             alt="SmartPot-IoT" />
         </a>
-        <a href="https://github.com/SmartPotTech/SmartPot-Middleware">
+        <a href="https://github.com/SmartPotTech/SmartPot-Proxy">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=SmartPotTech&repo=SmartPot-Middleware&theme=dark"
-            alt="SmartPot-Middleware" />
+            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=SmartPotTech&repo=SmartPot-Proxy&theme=dark"
+            alt="SmartPot-Proxy" />
         </a>
         <a href="https://github.com/SmartPotTech/SmartPot-DataAnalytics">
           <img width="278"
@@ -856,6 +854,20 @@
             alt="SmartPot-Cache" />
         </a>
       </div>
+    </details>
+    <details>
+      <summary>
+        <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📈 Repository metrics</h2>
+      </summary>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics/repos/smartpot-web.svg" width="48%" alt="SmartPot-web metrics" />
+        <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics/repos/smartpot-api.svg" width="48%" alt="SmartPot-api metrics" />
+        <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics/repos/smartpot-iot.svg" width="48%" alt="SmartPot-iot metrics" />
+        <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics/repos/smartpot-db.svg" width="48%" alt="SmartPot-db metrics" />
+        <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics/repos/smartpot-proxy.svg" width="48%" alt="SmartPot-proxy metrics" />
+        <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics/repos/smartpot-mail.svg" width="48%" alt="SmartPot-mail metrics" />
+        <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics/repos/smartpot-cache.svg" width="48%" alt="SmartPot-cache metrics" />
+      </p>
     </details>
   </details>
 </details>

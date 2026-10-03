@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sebastian L</h1>
-<h3 align="center">A passionate Backend developer and Data Analyst from Medellín, Colombia</h3>
+<h1 align="center">Hi 👋, I'm Sebastián López O</h1>
+<h3 align="center">Backend & Integration Developer · CRM (Zoho) · Data Analyst from Medellín, Colombia</h3>
 
 <p align="center">
   <a href="https://sebastianlopezo.page/" target="_blank">
@@ -11,26 +11,34 @@
   <summary>
     <h2> 👨‍💻 About Me</h2>
   </summary>
-     <p>
-    I am a passionate and proactive Computer Engineering student from Medellín, Colombia, driven by an insatiable curiosity and a strong commitment to continuous learning. My journey has been defined by a hands-on mindset, a deep sense of initiative, and the constant search for solutions that make a real impact.
+  <p>
+    I am a final-semester Computer Engineering student and Full Cycle developer from Medellín, Colombia, with
+    <strong>4+ years of experience</strong> across backend development, system integration, CRM automation, and data
+    analytics. Driven by an insatiable curiosity and a strong commitment to continuous learning, I build the pieces
+    that connect business operations: APIs, integrations, data pipelines, and the infrastructure that keeps them
+    running.
   </p>
 
   <p>
-    My academic and professional experiences have shaped me into a versatile individual capable of tackling complex challenges through analytical thinking, creativity, and teamwork. I stand out for my investigative mindset, my ability to learn independently, and my dedication to improving both individual and collective outcomes.
+    Today I lead backend and integration work at <strong>TIVENOS</strong>, where I build and operate
+    <strong>20+ FastAPI integration services</strong> that connect Zoho CRM with the academic systems of
+    <strong>15+ education clients across Latin America and Spain</strong>. At <strong>ADCOM GROUP</strong> I work as a
+    CRM &amp; MarTech developer, automating Zoho CRM and shipping <strong>100+ admissions landing pages</strong> connected
+    to the sales funnel.
   </p>
 
   <p>
-    Whether working as part of a team or independently, I strive to contribute value by connecting ideas, optimizing processes, and solving problems with a balance of logic, empathy, and innovation. My work ethic is rooted in consistency, communication, and a genuine desire to help others grow.
+    My academic and professional experiences have shaped me into a versatile individual capable of tackling complex
+    challenges through analytical thinking, creativity, and teamwork. Whether working as part of a team or
+    independently, I strive to contribute value by connecting ideas, optimizing processes, and solving problems with a
+    balance of logic, empathy, and innovation.
   </p>
 
   <p>
-    I’ve had the privilege of contributing to various projects across different environments—academic, business, and social—always bringing a forward-thinking perspective, a deep respect for collaboration, and a strong adaptability to new challenges.
+    I see engineering not just as the mastery of tools, but as the art of understanding complex systems, asking the
+    right questions, and building thoughtful, sustainable, and human-centered solutions.
   </p>
 
-  <p>
-    I see engineering not just as the mastery of tools, but as the art of understanding complex systems, asking the right questions, and building thoughtful, sustainable, and human-centered solutions.
-  </p>
-  
   ~~~
   
   
@@ -65,27 +73,27 @@
 
   <ul>
     <li>
-      <strong>2022–2027 (In Progress)</strong><br>
-      Bachelor’s Degree in Computer Engineering<br>
-      <em>Politécnico Jaime Isaza Cadavid</em>
+      <strong>2022 – 2026 · Graduation Mar 2027</strong><br>
+      Bachelor’s Degree in Computer Engineering (final semester)<br>
+      <em>Politécnico Colombiano Jaime Isaza Cadavid</em>
     </li>
     <br>
     <li>
-      <strong>2022–2023</strong><br>
+      <strong>2022 – 2023</strong><br>
       Software Programming Technician<br>
-      <em>SENA – Instituto Universitario Salazar y Herrera (IUSH)</em>
+      <em>SENA – Institución Universitaria Salazar y Herrera (IUSH)</em>
     </li>
     <br>
     <li>
-      <strong>2020–2021</strong><br>
+      <strong>2020 – 2021</strong><br>
       Assistant Software Development Technician (Technical Secondary Level)<br>
       <em>Institución Educativa Pascual Bravo</em>
     </li>
     <br>
     <li>
-      <strong>2019–2021</strong><br>
+      <strong>2019 – 2021</strong><br>
       High School with Specialization in Computer Science<br>
-      <em>I.E. Inem José Félix de Restrepo</em>
+      <em>I.E. INEM José Félix de Restrepo</em>
     </li>
   </ul>
 </details>
@@ -97,37 +105,40 @@
 
   <ul>
     <li>
-      <strong>IT Manager & Backend CRM Developer</strong><br>
-      <em>TIVENOS - Solutions for Education · Remote</em><br>
+      <strong>IT Manager &amp; Backend Integration Lead</strong><br>
+      <em>TIVENOS – Solutions for Education · Remote</em><br>
       <small>Jun 2025 – Present</small><br>
-      Responsible for REST API integrations, backend development, and database management to enhance educational
-      platforms.
+      Lead the backend and integration platform: 20+ FastAPI services (Python, PostgreSQL, Docker) that synchronize
+      Zoho CRM with student information systems through REST, SOAP/WS-Security, SQL Server and FTP for 15+ education
+      clients. Built Zoho CRM widgets, admissions and scholarship forms, an observability stack (Prometheus, Grafana,
+      Loki, Tempo) and GHCR-based CI/CD deployments on hardened Linux servers.
     </li>
     <br>
     <li>
-      <strong>CRM Developer & Web Developer</strong><br>
+      <strong>CRM &amp; MarTech Developer</strong><br>
       <em>ADCOM GROUP · Medellín (Hybrid/Remote)</em><br>
       <small>Feb 2025 – Present</small><br>
-      Led customization and optimization of Zoho CRM with Deluge scripting. Integrated platforms like WhatsApp, Meta
-      Ads, and Google Ads via APIs. Developed internal tools in Zoho Creator and implemented AI-powered contact
-      automation with Dapta.
+      Customize and automate Zoho CRM and Zoho Creator with Deluge, integrating WhatsApp, Meta Ads and Google Ads
+      through APIs. Shipped 100+ admissions landing pages and microsites connected to Zoho Forms and CRM, results APIs
+      and template generators (Spring Boot, Thymeleaf) for national lottery brands, and AI-powered contact automation
+      with Dapta.
     </li>
     <br>
     <li>
-      <strong>Backend Developer | Data Analyst | CRM Analyst</strong><br>
+      <strong>Backend Developer &amp; Data Analyst</strong><br>
       <em>MUV-U S.A.S · Sabaneta, Antioquia (Hybrid)</em><br>
       <small>Jul 2023 – Jan 2025</small><br>
-      Preprocessed CRM data and created Power BI reports for financial and marketing insights. Automated workflows
-      within CRM, developed web components, and managed incoming data architecture. Took part in infrastructure and
-      server administration.
+      Cleaned and modeled CRM data and built Power BI (DAX) reports for finance, sales and marketing. Automated CRM
+      workflows, developed web components, designed the incoming-data architecture and supported servers and IT
+      operations.
     </li>
     <br>
     <li>
-      <strong>Data Analyst</strong><br>
-      <em>Quipux S.A.S · Medellín (Hybrid Internship)</em><br>
+      <strong>Data Analyst (Internship)</strong><br>
+      <em>Quipux S.A.S · Medellín (Hybrid)</em><br>
       <small>Aug 2022 – May 2023</small><br>
-      Focused on data preprocessing, automated reporting processes, and designed clear data visualizations to support
-      strategic decisions and enhance operational efficiency.
+      Automated data cleaning and reporting with Python and SQL, and designed visual reports on revenue collection and
+      mobility to support strategic decisions and operational efficiency.
     </li>
   </ul>
 </details>

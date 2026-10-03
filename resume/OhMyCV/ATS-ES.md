@@ -4,125 +4,113 @@
   : <span class="iconify" data-icon="tabler:brand-linkedin"></span> [linkedin/sebastianlopezosorno](https://linkedin.com/in/sebastianlopezosorno/)
   : <span class="iconify" data-icon="tabler:brand-github"></span> [github/SebastianLopezO](https://github.com/SebastianLopezO)
 
-<span class="iconify" data-icon="tabler:mail"></span> [sebastianlopezosorno2005@gmail](mailto:sebastianlopezosorno2005@gmail.com)
-  : <span class="iconify" data-icon="tabler:phone"></span> [+573218774053](https://wa.me/573218774053)
+<span class="iconify" data-icon="tabler:mail"></span> [sebastianlopezosorno2005@gmail.com](mailto:sebastianlopezosorno2005@gmail.com)
+  : <span class="iconify" data-icon="tabler:phone"></span> [+57 300 232 9213](https://wa.me/573002329213)
   : <span class="iconify" data-icon="ic:outline-location-on"></span> Medellín, Colombia
 
 ## Perfil Profesional
 
-Ingeniero Informático enfocado en Desarrollo Full Cycle con más de 4 años de experiencia, especializado en arquitectura backend, analítica de datos y automatización MarTech. Mi valor diferencial radica en liderar la integración de sistemas complejos y la centralización de operaciones empresariales, transformando grandes volúmenes de datos en inteligencia de negocios para optimizar la toma de decisiones. Busco aportar mi visión estratégica y capacidad resolutiva para diseñar infraestructuras escalables que potencien la eficiencia operativa e impulsen la transformación digital corporativa.
+Desarrollador Backend y de Integraciones con más de 4 años de experiencia en desarrollo backend, automatización de CRM y analítica de datos, cursando el último semestre de Ingeniería Informática. Lidero una plataforma de más de 20 servicios de integración en FastAPI que conecta Zoho CRM con los sistemas académicos de más de 15 clientes educativos de Latinoamérica y España, y construyo automatizaciones MarTech y embudos de admisiones para una agencia de marketing. Mi valor diferencial radica en liderar la integración de sistemas y centralizar operaciones dispersas en ecosistemas unificados y eficientes, desde la API y el modelo de datos hasta el tablero y el servidor que lo ejecuta. Impulsado por una curiosidad insaciable y un alto grado de autonomía, busco construir soluciones escalables y centradas en las personas que reduzcan costos operativos y respalden decisiones basadas en datos.
 
 ## Experiencia Laboral
 
-**IT Manager & Desarrollador Backend CRM** 
+**IT Manager & Líder de Integraciones Backend** 
 : **TIVENOS** 
 : **Jun 2025 – Actualidad | Remoto**
-- Desarrollo de APIs REST con FastAPI para potenciar la gestión educativa y sincronizar servicios cloud.
-- Integración ágil de plataformas y sistemas heredados mediante protocolos SOAP, WSDL y Webhooks REST.
-- Administración de servidores Linux y despliegues seguros con Docker, Nginx y CI/CD (GitHub Actions).
-- Automatizaciones avanzadas con Deluge y diseño de paneles ejecutivos en Zoho Analytics mediante SQL.
-- Gestión operativa de TI y soporte técnico, aplicando estándares de calidad y patrones de diseño ágil.
+- Lidero más de 20 servicios de integración en FastAPI (Python, PostgreSQL) que sincronizan Zoho CRM.
+- Integro sistemas académicos mediante REST, SOAP/WS-Security (Zeep), SQL Server y FTP para 15+ clientes.
+- Publico imágenes Docker endurecidas en GHCR y las despliego con Compose y GitHub Actions en Linux.
+- Construí un stack de observabilidad con Prometheus, Grafana, Loki y Tempo, con alertas a Telegram.
+- Desarrollo widgets de Zoho CRM, formularios de admisión, automatizaciones Deluge y tableros en Zoho Analytics.
 
-**Desarrollador CRM & Ingeniero MarTech** 
+**Desarrollador CRM & MarTech** 
 : **ADCOM GROUP** 
 : **Feb 2025 – Actualidad | Remoto**
-- Configuración avanzada de módulos, flujos de trabajo y optimización de datos corporativos en Zoho CRM.
-- Creación de funciones personalizadas y automatización de procesos operativos complejos con Deluge.
-- Conexión del CRM con plataformas externas (WhatsApp, Meta Ads, Google Ads) mediante APIs RESTful.
-- Desarrollo estratégico de aplicaciones internas con Zoho Creator para optimizar procesos de negocio.
-- Automatización inteligente de contactabilidad integrando modelos de inteligencia artificial en Dapta.
+- Configuro módulos, flujos y funciones Deluge en Zoho CRM para automatizar la operación comercial.
+- Construí más de 100 landing pages y micrositios de admisiones conectados a Zoho Forms y Zoho CRM.
+- Integro WhatsApp, Meta Ads y Google Ads con el CRM mediante APIs REST y webhooks.
+- Desarrollé APIs de resultados y generadores de plantillas con Spring Boot y Thymeleaf para loterías.
+- Automaticé el contacto de leads con agentes de IA en Dapta y apps internas en Zoho Creator.
 
 **Desarrollador Backend & Analista de Datos** 
 : **MUV-U S.A.S** 
 : **Jul 2023 – Ene 2025 | Híbrido**
-- Preprocesamiento y limpieza de datos en el CRM para su posterior análisis estratégico y de negocio.
-- Desarrollo de informes interactivos en Power BI para áreas financieras, comerciales y de mercadeo.
-- Implementación de automatizaciones operativas ágiles en el CRM para reducir tareas manuales del equipo.
-- Desarrollo e integración de componentes web funcionales para mejorar la experiencia del usuario final.
-- Diseño estructurado de la arquitectura de datos entrante para optimizar todo el ecosistema del CRM.
+- Construí informes en Power BI con DAX para las áreas financiera, comercial y de mercadeo.
+- Limpié y validé los datos del CRM para habilitar análisis comerciales y de negocio confiables.
+- Automaticé operaciones repetitivas del CRM para reducir la carga manual del equipo comercial.
+- Diseñé la arquitectura de datos entrante y desarrollé componentes web para la plataforma de la empresa.
+- Administré servidores e infraestructura TI y brindé soporte técnico a los usuarios internos.
 
-**Analista de Datos** 
+**Analista de Datos (Práctica)** 
 : **Quipux S.A.S** 
 : **Ago 2022 – May 2023 | Híbrido**
-- Preprocesamiento de datos con el objetivo de transformarlos y prepararlos para su posterior análisis.
-- Desarrollo de reportes de visualización para comunicar información compleja de forma clara y concisa.
-- Automatización de procesos para mejorar significativamente la eficiencia en manejo de datos y reportes.
-- Análisis estratégico de datos para respaldar la toma de decisiones en procesos de recaudo y movilidad.
-- Implementación de rutinas de extracción y limpieza de datos mediante scripts en Python y consultas SQL.
-
-
+- Automaticé rutinas de extracción, limpieza y reportes de datos con scripts en Python y consultas SQL.
+- Construí reportes visuales de recaudo y movilidad para respaldar la toma de decisiones gerenciales.
+- Preparé y transformé datos (ETL) para análisis estratégicos y el seguimiento periódico de KPIs.
 
 ## Habilidades Técnicas 
 
-- **Backend & Core:** Arquitectura escalable con **Python** (FastAPI), **Java** (Spring Boot) y **Node.js**.
-- **Frontend Web:** Desarrollo de interfaces interactivas y responsivas con **React**, **TypeScript** y **Tailwind**.
-- **APIs & Integración:** Conexión de sistemas corporativos complejos vía **REST**, **Webhooks**, **SOAP** y **Zeep**.
-- **Ecosistema Zoho:** Personalización y desarrollo avanzado de CRM utilizando scripts nativos en **Zoho Deluge**.
-- **MarTech & IA:** Automatización inteligente de flujos comerciales usando **n8n**, **Zapier** y modelos de **Dapta**.
-- **Bases de Datos:** Modelado relacional y NoSQL estructurado en **PostgreSQL**, **MySQL**, **MongoDB** y **Redis**.
-- **Analítica de Datos:** Preprocesamiento y modelado visual para toma de decisiones con **Power BI** y **Pandas**.
-- **DevOps & Cloud:** Administración y despliegue seguro con **Docker**, **Linux**, **Nginx** y **GitHub Actions**.
-- **Testing & QA:** Aseguramiento de la calidad del software mediante **PyTest**, **JUnit** y validación en **Postman**.
-- **Ingeniería IoT:** Automatización de hardware y sistemas embebidos utilizando **ESP32**, **C++** y **MicroPython**.
-- **SEO & Rendimiento:** Optimización técnica de sitios web, analítica digital avanzada (**GA4**) y posicionamiento.
-- **Fundamentos TI:** Diseño de software, estadística aplicada, algoritmia, redes y programación en **PHP** y **C++**.
-
+- **Backend & APIs:** **Python** (FastAPI, Django), **Java** (Spring Boot), **Node.js**, REST, SOAP (Zeep), Webhooks, JWT.
+- **CRM & Automatización:** **Zoho CRM**, Zoho Creator, Zoho Analytics, **Deluge**, n8n, Zapier y Dapta.
+- **Datos & BI:** **SQL**, **Power BI** (DAX), **Pandas**, Zoho Analytics, ETL y automatización de reportes.
+- **Bases de Datos:** **PostgreSQL**, **MySQL**, SQL Server, **MongoDB** y **Redis**.
+- **Frontend:** **React**, **TypeScript**, Next.js, Vite y **Tailwind CSS**.
+- **DevOps & Observabilidad:** **Docker** & Compose, **GitHub Actions**, GHCR, **Nginx**, **Linux**, Prometheus, Grafana.
+- **Testing & QA:** **PyTest**, **JUnit**, Vitest y validación de APIs en **Postman**.
+- **Ingeniería IoT:** **ESP32**, **MicroPython**, MQTT sobre TLS y **C++**.
+- **SEO & Analítica:** SEO técnico, Google Search Console y **GA4**.
+- **Idiomas:** Español (nativo) e inglés (competencia profesional completa).
 
 ## Educación
 
-**Ingeniería Informática** 
-: **Politécnico Jaime Isaza Cadavid** 
-: **2022 – 2026 (En curso)**
-- Formación integral en ciencias de la computación, ingeniería de software, inteligencia artificial y redes.
-- Diseño y arquitectura de proyectos informáticos aplicando estándares de calidad y metodologías ágiles.
-- Gestión de infraestructura TI, sistemas de información y liderazgo de soluciones tecnológicas eficientes.
+**Ingeniería Informática (último semestre)** 
+: **Politécnico Colombiano Jaime Isaza Cadavid** 
+: **2022 – 2026 · Grado Mar 2027**
+- Formación en ciencias de la computación, ingeniería de software, inteligencia artificial, redes y sistemas operativos.
+- Proyectos con Java, Python, Spring Boot, MongoDB, Docker, React e IoT sobre ESP32.
 
 **Técnico en Programación de Software** 
 : **SENA – IUSH** 
 : **2022 – 2023**
-- Ciclo de vida del software: análisis de requisitos, diseño, desarrollo e implementación de soluciones.
-- Construcción de aplicaciones web y backend integradas con bases de datos para el sector productivo.
-- Soporte a infraestructura, configuración de redes e introducción a la inteligencia de negocios empresarial.
+- Ciclo de vida del software: análisis de requisitos, diseño, desarrollo y despliegue de aplicaciones web.
+- Aplicaciones web y backend con PHP, JavaScript, MySQL, Git y Composer.
 
 **Técnico Auxiliar en Desarrollo de Software** 
 : **I.E. Pascual Bravo** 
 : **2020 – 2021**
-- Fundamentación sólida en lógica de programación, estructura de datos y programación orientada a objetos.
-- Análisis de requerimientos, diseño de interfaces visuales y administración de bases de datos relacionales.
-- Introducción al testing de software, aseguramiento de calidad y metodologías de trabajo colaborativo.
+- Lógica de programación, algoritmos, estructuras de datos, programación orientada a objetos y bases de datos.
 
 **Bachiller Especializado en Informática** 
-: **I.E. Inem José Félix de Restrepo** 
+: **I.E. INEM José Félix de Restrepo** 
 : **2019 – 2021**
-- Formación técnica inicial con un fuerte énfasis en lógica algorítmica y matemáticas para la computación.
-- Desarrollo temprano de proyectos académicos de innovación tecnológica usando herramientas web y ofimática.
+- Formación técnica en fundamentos de computación, algoritmia y diseño web.
 
 ## Certificaciones Destacadas
 
-**IT Specialist Python** 
+**IT Specialist – Python** 
 : **Certiport** 
-: **Nov. 2023**
+: **Nov 2023**
 
-**Análisis de Datos y DAX** 
+**DAX para Power BI** 
 : **Platzi** 
-: **Sep. 2024**
+: **Sep 2024**
 
 **Green Digital Skills** 
 : **INCO Academy** 
-: **Mar. 2024**
+: **Mar 2024**
 
-**Data Science e IA** 
-: **UDEA** 
-: **Dic. 2023**
+**Data Science & AI – Engancha TIC** 
+: **Universidad de Antioquia** 
+: **Dic 2023**
 
-**Ciberseguridad** 
-: **UDEA** 
-: **Dic. 2023**
+**Ciberseguridad – Engancha TIC** 
+: **Universidad de Antioquia** 
+: **Dic 2023**
 
 **Python Django 2** 
-: **Comfenalco** 
-: **Nov. 2023**
+: **Comfenalco Antioquia** 
+: **Nov 2023**
 
-**IoT y Protocolos** 
+**Protocolos de IoT** 
 : **Platzi** 
-: **Dic. 2023**
+: **Dic 2023**

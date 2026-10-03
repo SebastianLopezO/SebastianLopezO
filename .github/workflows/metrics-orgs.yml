@@ -57,7 +57,7 @@ jobs:
       - name: TaurusSebastian-s
         uses: lowlighter/metrics@v3.34
         with:
-          filename: metrics/orgs/ metrics.org.taurussebastians.svg
+          filename: metrics/orgs/metrics.taurussebastians.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: TaurusSebastian-s
           base: header, activity, community, repositories, metadata
@@ -124,4 +124,14 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: America/Bogota
 
-
+      # =============================
+      #  GoPoli
+      # =============================
+      - name: GoPoli
+        uses: lowlighter/metrics@v3.34
+        with:
+          filename: metrics/orgs/metrics.gopoli.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: GoPoli
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Bogota

@@ -4,234 +4,239 @@
   : <span class="iconify" data-icon="tabler:brand-linkedin"></span> [linkedin/sebastianlopezosorno](https://linkedin.com/in/sebastianlopezosorno/)
   : <span class="iconify" data-icon="tabler:brand-github"></span> [github/SebastianLopezO](https://github.com/SebastianLopezO)
 
-<span class="iconify" data-icon="tabler:mail"></span> [sebastianlopezosorno2005@gmail](mailto:sebastianlopezosorno2005@gmail.com)
-  : <span class="iconify" data-icon="tabler:phone"></span> [+573218774053](https://wa.me/573218774053)
+<span class="iconify" data-icon="tabler:mail"></span> [sebastianlopezosorno2005@gmail.com](mailto:sebastianlopezosorno2005@gmail.com)
+  : <span class="iconify" data-icon="tabler:phone"></span> [+57 300 232 9213](https://wa.me/573002329213)
   : <span class="iconify" data-icon="ic:outline-location-on"></span> Medellín, Colombia
 
 ## Professional Profile
 
-Computer Engineer focused on Full Cycle Development with over 4 years of experience, specializing in backend architecture, data analytics, and MarTech automation. My core value lies in leading complex system integrations and centralizing business operations, transforming massive volumes of data into actionable business intelligence to optimize high-level corporate decision-making.
+Backend & Integration Developer focused on Full Cycle development, with 4+ years of experience across backend architecture, system integration, CRM automation, and data analytics, currently in the final semester of Computer Engineering. I lead a platform of 20+ FastAPI integration services that connects Zoho CRM with the academic systems of 15+ education clients across Latin America and Spain, and I build MarTech automations and admissions funnels for a marketing agency. My core value lies in leading system integrations and centralizing scattered business operations, turning raw data into information that supports better decisions.
 
-Driven by an insatiable curiosity and a strong commitment to continuous learning, my career is defined by a practical mindset and a constant search for solutions that generate a real impact. My academic and professional experiences have shaped me into a versatile individual, capable of tackling complex challenges through analytical thinking, creativity, and teamwork. I see engineering not just as mastering technical tools, but as the art of understanding complex systems, asking the right questions, and building sustainable, user-centered solutions. I aim to leverage my strategic vision and problem-solving capacity to design scalable cloud-native infrastructures that enhance operational efficiency and drive corporate digital transformation.
+Driven by an insatiable curiosity and a strong commitment to continuous learning, my career is defined by a practical mindset and a constant search for solutions that generate a real impact. My academic and professional experiences have shaped me into a versatile individual, capable of tackling complex challenges through analytical thinking, creativity, and teamwork. I see engineering not just as mastering technical tools, but as the art of understanding complex systems, asking the right questions, and building sustainable, human-centered solutions.
 
 ## Work Experience
 
-**IT Manager & Backend CRM Developer** 
-: **TIVENOS - Solutions for Education** 
+**IT Manager & Backend Integration Lead** 
+: **TIVENOS – Solutions for Education** 
 : **Jun 2025 – Present | Remote**
-- I lead backend development for educational platforms, integrating REST APIs and managing highly scalable data structures and services.
-- I automate complex administrative and academic workflows, significantly improving the operational efficiency of the organization's internal systems.
-- I design and implement custom solutions tailored to the educational environment, maintaining rigorous standards of scalability, software architecture, and cybersecurity.
-- Agile integration of legacy platforms and systems using robust SOAP, WSDL protocols, and REST Webhooks.
-- Linux server administration and secure deployments using DevOps tools like Docker, Docker Swarm, Nginx, and automated CI/CD pipelines via GitHub Actions.
-- Advanced automations using Deluge code and design of executive dashboards and control panels in Zoho Analytics through the advanced application of SQL.
-- Operational IT management and top-level technical support, applying rigorous quality standards and highly agile software engineering design patterns.
+- Lead the backend and integration platform: 20+ FastAPI services (Python, uv, PostgreSQL) that synchronize Zoho CRM with the academic systems of 15+ education clients across Latin America and Spain.
+- Integrate student information systems and legacy platforms through REST, SOAP/WS-Security (Zeep), SQL Server readers over VPN, FTP exchanges, and webhooks, using Zoho OAuth and the Bulk API.
+- Ship every service as a hardened Docker image published to GHCR and deployed with Docker Compose through GitHub Actions on Linux servers with Nginx and SSL.
+- Built an observability stack with Prometheus, Grafana, Loki, Promtail, Tempo (OTLP), cAdvisor, and exporters, with alerts delivered to Telegram.
+- Develop Zoho CRM widgets, admissions and scholarship forms embedded in WordPress, a CRM snapshot service, Deluge automations, and Zoho Analytics dashboards written in SQL.
+- Manage IT operations and technical support for the team, defining coding, security, and deployment standards shared across services.
 
-**CRM Developer & MarTech Engineer** 
+**CRM & MarTech Developer** 
 : **ADCOM GROUP** 
 : **Feb 2025 – Present | Remote**
-- Advanced configuration and customization of the Zoho CRM platform, covering modules, workflows, custom functions, and programming of native scripts with Deluge.
-- Robust integration of external services and platforms (WhatsApp API, Meta Ads, Google Ads) through the consumption and custom development of RESTful APIs.
-- Strategic development of internal business tools and enterprise applications using Zoho Creator to fully digitize and optimize critical business processes.
-- Intelligent automation of commercial contactability processes by seamlessly integrating artificial intelligence models and machine learning through Dapta.
-- Improvement of commercial and retention efficiency through custom-developed technological solutions for marketing, customer service, and corporate sales teams.
+- Configure and customize Zoho CRM modules, workflows, and custom functions written in Deluge to automate sales and admissions operations.
+- Built 100+ admissions landing pages and microsites for higher-education campaigns, connected to Zoho Forms and Zoho CRM to capture and route leads.
+- Integrate WhatsApp, Meta Ads, and Google Ads with the CRM through REST APIs and webhooks, and build Zoho API and serverless automations.
+- Developed results APIs and an HTML template generator with Spring Boot and Thymeleaf for national lottery brands.
+- Automated lead contact with AI agents in Dapta and built internal applications in Zoho Creator to digitize business processes.
+- Administer a VPS with Docker, Nginx, SSL, Prometheus, Nagios, and n8n to host internal tools and automations.
 
 **Backend Developer & Data Analyst** 
 : **MUV-U S.A.S** 
 : **Jul 2023 – Jan 2025 | Hybrid**
-- Development of interactive executive reports in Power BI for financial, commercial, and marketing areas, employing advanced data modeling techniques and DAX language.
-- Preprocessing, auditing, cleaning, and validation of massive data volumes within the CRM for subsequent strategic analysis and corporate business intelligence.
-- Automation of repetitive and operational tasks within the CRM platform to significantly increase efficiency and improve the overall productivity of the sales team.
-- Structured design of the incoming data architecture for the proper capture, normalization, and seamless transformation of information within the CRM ecosystem.
-- Agile backend development of functional web components and robust service integration to continuously enhance the company's main digital web platform.
-- Administration of cloud servers, meticulous maintenance of IT infrastructure, and provision of comprehensive technical support for internal corporate users.
+- Built interactive Power BI reports for the finance, sales, and marketing areas using data modeling and DAX.
+- Audited, cleaned, and validated CRM data to enable reliable commercial and business analysis.
+- Automated repetitive CRM operations to reduce the manual workload and improve the productivity of the sales team.
+- Designed the incoming-data architecture to capture, normalize, and transform information within the CRM.
+- Developed web components and service integrations for the company's main web platform.
+- Administered cloud servers and IT infrastructure and provided technical support to internal users.
 
-**Data Analyst** 
+**Data Analyst (Internship)** 
 : **Quipux S.A.S** 
 : **Aug 2022 – May 2023 | Hybrid**
-- Advanced processes of cleaning, transformation, and loading (ETL) of massive data volumes for the construction of high-impact corporate managerial reports.
-- Automation of data processes and periodic generation of reports using modern Business Intelligence (BI) tools and the development of analytical Python scripts.
-- Design of interactive data visualizations and dashboards that facilitated the monitoring of KPIs and strategic decision-making in key revenue and mobility processes.
-- Implementation of highly robust data extraction and cleaning routines through complex SQL queries oriented towards managing advanced relational databases.
+- Built ETL routines to clean, transform, and load data for managerial reports.
+- Automated data processes and periodic reports with Python scripts and BI tools.
+- Designed dashboards to monitor KPIs and support decisions in revenue collection and mobility processes.
+- Implemented data extraction and cleaning routines with SQL queries on relational databases.
+
+## Technical Skills
+
+- **Backend & APIs:** **Python** (FastAPI, Django), **Java** (Spring Boot, Spring Security), **Node.js**, PHP (Laravel), REST, SOAP/WSDL (Zeep), Webhooks, JWT, and OpenAPI.
+- **CRM & Automation:** **Zoho CRM**, Zoho Creator, Zoho Analytics, Zoho Forms, **Deluge**, n8n, Zapier, Dapta, and Google Apps Script.
+- **Data & BI:** **SQL**, **Power BI** (DAX), **Pandas**, NumPy, Zoho Analytics, Excel, ETL, and reporting automation.
+- **Databases:** **PostgreSQL**, **MySQL**/MariaDB, SQL Server, **MongoDB**, **Redis**, and SQLite.
+- **Frontend:** **React**, **TypeScript**, Next.js, Vite, **Tailwind CSS**, HTML, and CSS.
+- **DevOps & Observability:** **Docker** & Compose, **GitHub Actions**, GHCR, **Nginx**, **Linux**, Kubernetes manifests, Prometheus, Grafana, Loki, and Tempo.
+- **Machine Learning & AI:** scikit-learn, NLP, small language models, TinyML, Qwen2 integration, and RAG pipelines.
+- **Testing & QA:** **PyTest**, **JUnit**, Vitest, Postman, CodeQL, and Dependabot.
+- **IoT Engineering:** **ESP32**, **MicroPython**, MQTT over TLS, **C++**, Arduino, and Wokwi.
+- **SEO & Analytics:** Technical SEO, Google Search Console, and **GA4**.
+- **Languages:** Spanish (native) and English (full professional proficiency).
 
 ## Academic Education
 
-**Computer Engineering** 
-: **Politécnico Jaime Isaza Cadavid** 
-: **2022 – 2026 (In Progress)**
-- Comprehensive and high-level training in computer science, software engineering, hardware architecture, communication networks, operating systems, and artificial intelligence.
-- Practical development of complex projects involving corporate technologies such as Java, Python, MongoDB, Spring Boot, Docker containers, React interfaces, and IoT programming on ESP32.
-- Methodological focus on critical thinking, the analytical resolution of algorithmic problems, and leadership in the strategic management of sustainable technological projects.
-- Advanced application of discrete mathematics, applied statistics, and numerical analysis for the structural optimization of highly complex computational IT systems.
-- Design of robust distributed programming architectures, administration of advanced communication service networks, and comprehensive corporate information security.
+**Computer Engineering (final semester)** 
+: **Politécnico Colombiano Jaime Isaza Cadavid** 
+: **2022 – 2026 · Graduation Mar 2027**
+- Training in computer science, software engineering, hardware architecture, communication networks, operating systems, and artificial intelligence.
+- Projects with Java, Python, MongoDB, Spring Boot, Docker, React, and IoT programming on ESP32, several of which grew into the SmartPot and GoPoli platforms.
+- Applied discrete mathematics, statistics, and numerical analysis, plus distributed programming, network services, and information security.
 
 **Software Programming Technician** 
 : **SENA – IUSH** 
 : **2022 – 2023**
-- Intensive practical training focused on modern web development, structured database management, distributed version control, and the agile planning of complex software projects.
-- Implementation of development environments and advanced use of tools like Git, MySQL engines, HTML/CSS layout, JavaScript interactivity, PHP, and dependency management with Composer.
-- Construction and seamless deployment of business intelligence (BI) data solutions and the strict application of highly robust corporate cybersecurity and information principles.
-- Analytical gathering of technical requirements for the precise development of generic software and highly customized enterprise applications tailored to specific business needs.
-- In-depth theoretical and practical application of functional programming paradigms and business analytics. 
+- Practical training in web development, database management, version control, and software project planning.
+- Development environments and tools such as Git, MySQL, HTML/CSS, JavaScript, PHP, and dependency management with Composer.
+- Requirements gathering for custom business applications, business intelligence fundamentals, and information security principles.
 
-**Assistant Software Development Tech** 
+**Assistant Software Development Technician** 
 : **Institución Educativa Pascual Bravo** 
 : **2020 – 2021**
-- Early academic foundation focused heavily on the development of programming logic, algorithms, comprehensive understanding of data structures, and relational database administration.
-- Agile development of functional web applications and proficient management of integrated development environments (IDE) such as Visual Studio, seamlessly coupled with MySQL databases.
-- Structured introduction to dynamic collaborative work, advanced version control management, and the fundamental principles governing the agile software development lifecycle.
-- Practical introduction to advanced software testing methodologies and rigorous quality assurance (QA) practices during the deployment phases of complex technological projects.
-- Technical foundation in the secure storage, rapid processing, and accurate structuring of information through advanced queries executed within relational SQL database systems.
-- Initial design of graphical user interfaces (GUI) strategically focused on significantly improving interactive usability and maximizing the final customer's digital experience.
+- Programming logic, algorithms, data structures, and relational database administration.
+- Web and desktop applications with Visual Studio and MySQL, collaborative work, and version control.
+- Introduction to software testing, quality assurance, and graphical user interface design.
 
 **High School with IT Specialization** 
-: **I.E. Inem José Félix de Restrepo** 
+: **I.E. INEM José Félix de Restrepo** 
 : **2019 – 2021**
-- Technical-oriented high school diploma with specific emphasis on the core fundamentals of computing, basic applied electronics, and introductory software programming languages.
-- Practical baseline training in HTML web design, desktop software development with Visual Basic .NET, logical algorithms, and the advanced management of corporate office tools.
-- Highly active participation in academic innovation projects with a specialized focus on applied Information and Communication Technologies (ICT) and digital transformation.
+- Technical high school diploma focused on computing fundamentals, basic electronics, and introductory programming.
+- Web design with HTML, desktop development with Visual Basic .NET, and algorithms.
 
-## Certifications and Full Licenses
+## Certifications
 
-**IT Specialist - Python** 
-: **Certiport - A Pearson VUE Business** 
-: **Nov. 2023**
+**IT Specialist – Python** 
+: **Certiport – A Pearson VUE Business** 
+: **Nov 2023**
 
 **DAX for Power BI** 
 : **Platzi** 
-: **Sep. 2024**
+: **Sep 2024**
 
 **Data Analysis with Power BI** 
 : **Platzi** 
-: **Aug. 2024**
+: **Aug 2024**
 
-**Advanced Excel Mastery** 
+**Advanced Excel** 
 : **Platzi** 
-: **Jul. 2024**
+: **Jul 2024**
 
 **Advanced Excel & Data Analysis** 
 : **Platzi** 
-: **Jun. 2024**
+: **Jun 2024**
 
 **Google Search Console for SEO** 
 : **Platzi** 
-: **Jun. 2024**
+: **Jun 2024**
 
 **Green Digital Skills Certificate** 
 : **INCO Academy** 
-: **Mar. 2024**
+: **Mar 2024**
 
-**Data Science & AI - Engancha TIC** 
+**Data Science & AI – Engancha TIC** 
 : **Universidad de Antioquia** 
-: **Dec. 2023**
+: **Dec 2023**
 
-**Cybersecurity - Engancha TIC** 
+**Cybersecurity – Engancha TIC** 
 : **Universidad de Antioquia** 
-: **Dec. 2023**
+: **Dec 2023**
 
-**Data Analytics - Engancha TIC** 
+**Data Analytics – Engancha TIC** 
 : **Universidad de Antioquia** 
-: **Dec. 2023**
+: **Dec 2023**
 
-**Web Programming - Engancha TIC** 
+**Web Programming – Engancha TIC** 
 : **Universidad de Antioquia** 
-: **Dec. 2023**
+: **Dec 2023**
 
 **IoT Protocols** 
 : **Platzi** 
-: **Dec. 2023**
+: **Dec 2023**
 
-**Professional Git and GitHub Course** 
+**Professional Git and GitHub** 
 : **Platzi** 
-: **Nov. 2023**
+: **Nov 2023**
 
 **Software Engineering Fundamentals** 
 : **Platzi** 
-: **Nov. 2023**
+: **Nov 2023**
 
 **Python Django 2** 
 : **Comfenalco Antioquia** 
-: **Nov. 2023**
+: **Nov 2023**
 
-**Practical JavaScript Course** 
+**Practical JavaScript** 
 : **Platzi** 
-: **Nov. 2023**
+: **Nov 2023**
 
-**Basic Programming Course** 
+**Basic Programming** 
 : **Platzi** 
-: **Nov. 2023**
+: **Nov 2023**
 
-**Python Fundamentals Course** 
+**Python Fundamentals** 
 : **Platzi** 
-: **Nov. 2023**
+: **Nov 2023**
 
 **Gamified Ethical Hacking HACKLAB** 
 : **HackerMentor** 
-: **Aug. 2023**
+: **Aug 2023**
 
 **Problem Solving (Basic)** 
 : **HackerRank** 
-: **Mar. 2023**
+: **Mar 2023**
 
-**Java (Basic) Certificate** 
+**Java (Basic)** 
 : **HackerRank** 
-: **Feb. 2023**
+: **Feb 2023**
 
-**CSS Certificate** 
+**CSS** 
 : **HackerRank** 
-: **Feb. 2023**
+: **Feb 2023**
 
 **Python-Django** 
 : **Comfenalco Antioquia** 
-: **Dec. 2022**
+: **Dec 2022**
 
-**Python (Basic) Certificate** 
+**Python (Basic)** 
 : **HackerRank**
-: **Aug. 2022**
+: **Aug 2022**
 
 **Introduction to Professional Excel** 
 : **Cámara de Comercio** 
-: **Jun. 2022**
+: **Jun 2022**
 
-**SQL (Basic) Certificate** 
+**SQL (Basic)** 
 : **HackerRank** 
-: **May. 2022**
+: **May 2022**
 
 **Programming Fundamentals** 
 : **Universidad Tecnológica de Pereira** 
-: **Dec. 2021**
+: **Dec 2021**
 
 **Python Programming** 
 : **Universidad EIA** 
-: **May. 2021**
+: **May 2021**
 
 **Introduction to HTML** 
 : **Coursera** 
-: **Dec. 2020**
+: **Dec 2020**
 
-## Outstanding Projects and Repositories
+## Projects and Organizations
 
-**SmartPotTech (IoT Organization & Precision Agriculture)**
-- Comprehensive IoT system focused on totally transforming the management and automation of hydroponic crops through the precise collection of crucial environmental data.
-- Complete infrastructure orchestration: Hardware with ESP32 sensors (MicroPython), scalable Backend structured in Spring Boot (Java 17), and interactive Frontend visualization using React, Vite, TypeScript, and Tailwind CSS framework.
-- Successful deployment of a dedicated GitHub organization that effectively consolidates multiple highly interconnected software repositories into a unified coding environment.
+**SmartPotTech (IoT platform for hydroponic crops)**
+- Lead developer of an IoT platform that monitors and automates hydroponic crops, organized as 11 repositories in a 5-member GitHub organization.
+- ESP32 firmware in MicroPython publishing over MQTT with TLS, a Spring Boot 4 API on Java 21 with MongoDB and Redis, an AI service with FastAPI and scikit-learn, and a React 19 + TypeScript PWA.
+- Containerized every service, published images to GHCR, and automated a serialized production deploy with Docker Compose and GitHub Actions.
 
-**MyPortfolio (Frontend Development & Personal Brand)**
-- Interactive web platform developed with React, Vite, TypeScript, and Tailwind CSS, strategically designed to perfectly showcase engineering projects, GitHub metrics, and corporate trajectory.
-- Implementation of a modular, scalable, and component-oriented frontend architecture, heavily prioritizing high performance, load time optimization, and best practices in Responsive Web Design.
-- Application of advanced UI/UX principles, technical SEO, and digital analytics to fully guarantee a fluid user experience, operating as an effective professional showcase for capturing tech opportunities.
+**GoPoli (ride-sharing for university students)**
+- Main contributor to a ride-sharing platform for Politécnico Colombiano Jaime Isaza Cadavid students.
+- Next.js PWA with Leaflet maps and OSRM routing, a Spring Boot 4 REST API with JWT, and a PostgreSQL 16 schema, each shipped as a GHCR image.
 
-**EngineeringSebastian-s (Computer Science Practices)**
-- Highly advanced academic repository closely linked to the core subjects and advanced courses taken during the Computer Engineering university degree.
-- Extensive collection of complex projects in core languages such as Java, Python, and C++, utilizing MongoDB databases and performing secure cloud deployments with Docker containers.
-- Practical evidence of mastering fundamental computer science concepts: advanced tree management, graph algorithms, computer semiotics, sparse matrices, polynomial calculus, distributed functional programming, and operating systems design.
+**PepperCRM (CRM product)**
+- Authored most of the backend of a CRM built by a team of four: Spring Boot API with Spring Security and JWT, MongoDB Atlas, Redis cache, and Swagger documentation.
 
-**TechnicalSebastians (Technical Tools and Software)**
-- Comprehensive consolidation of technical projects successfully developed during the professional technical cycle, clearly evidencing strong technological versatility and adaptability.
-- Construction and deployment of functional web applications and system tools (VideoToAscii, calculators) using architectures in PHP, C#, MySQL, Vanilla JavaScript, HTML/CSS, and support technologies like Apache servers, Composer, and Docker containers.
-- Clear demonstration of a deep understanding of the full backend/frontend development cycle and the strict adoption of coding best practices throughout the software engineering lifecycle.
+**MyPortfolio (personal brand)**
+- Bilingual React + TypeScript site with prerendered pages, structured data, role-based views for job applications, and a client-side profile assistant.
+- Served from a hardened, unprivileged Nginx image on GHCR, deployed with Docker Compose.
 
-**VocationalSebastian-s (Early Programming Logic)**
-- Extensive repositories precisely documenting the initial formative development in applied computing starting from secondary technical and vocational high school education.
-- Diverse portfolio of didactic applications and foundational algorithmic logic successfully developed in core programming languages such as Visual Basic .NET, Java, HTML, PHP, and Python.
-- Tangible proof of the early strengthening of critical analytical skills, hard programming logic and structural design.
+**EngineeringSebastian-s (Computer Engineering coursework)**
+- 37 repositories from the Computer Engineering degree: artificial intelligence, computer vision, evolutionary computation, simulation, networks, operating systems, and cybersecurity.
+- Data structure implementations (trees, graphs, sparse matrices, polynomials) in Java, Python, and C++.
+
+**TechnicalSebastians and VocationalSebastian-s (early projects)**
+- Web applications and system tools from the technician programs (VideoToAscii, calculators) built with PHP, C#, MySQL, JavaScript, Apache, and Composer.
+- Early programming projects in Visual Basic .NET, Java, HTML, PHP, and Python.

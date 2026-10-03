@@ -2,68 +2,61 @@ cv:
   name: Sebastián López Osorno
   location: Medellín, Antioquia, Colombia
   email: sebastianlopezosorno2005@gmail.com
-  phone: +57 321 8774053
+  phone: +57 300 2329213
+  website: https://sebastianlopezo.page/
   social_networks:
     - network: LinkedIn
       username: sebastianlopezosorno
     - network: GitHub
-      username: sebastianlopezosorno
-  
+      username: SebastianLopezO
+
   sections:
     resumen_profesional:
-      - Soy un Ingeniero en formación y desarrollador con iniciativa y una curiosidad insaciable. Mis habilidades investigativas y analíticas han sido cruciales en mi proceso autodidacta. Cuento con sólida experiencia en desarrollo Backend, automatización de CRM (Zoho), análisis de datos y gestión de infraestructura TI. Me apasiona la tecnología como motor para la transformación educativa y empresarial.
+      - Desarrollador Backend y de Integraciones con más de 4 años de experiencia en desarrollo backend, automatización de CRM (Zoho) y analítica de datos, cursando el último semestre de Ingeniería Informática. Lidero más de 20 servicios de integración en FastAPI que conectan Zoho CRM con los sistemas académicos de más de 15 clientes educativos de Latinoamérica y España. Impulsado por una curiosidad insaciable, me apasiona la tecnología como motor para la transformación educativa y empresarial.
 
     experiencia:
       - company: TIVENOS - Solutions for Education
-        position: IT Manager | Desarrollador Backend CRM
+        position: IT Manager & Líder de Integraciones Backend
         location: Remoto
         start_date: 2025-06
         end_date: present
         highlights:
-          - Responsable del desarrollo, automatización e integración de sistemas de gestión educativa, optimizando el ecosistema **Zoho**.
-          - Desarrollo de **APIs REST con FastAPI** para integrar operaciones avanzadas (gestión de jerarquías académicas, admisiones, sincronización con Zoho WorkDrive/CRM).
-          - Implementación de integraciones con sistemas externos (SIS, GA4, SOAP/WSDL) y despliegue en servidores Linux con **Docker, Nginx y GitHub Actions**.
-          - Diseño de paneles analíticos en **Zoho Analytics** usando SQL avanzado para la toma de decisiones estratégicas.
-      
-      - company: ADCOM GROUP
-        position: Desarrollador CRM | MarTech Developer
-        location: Remoto
-        start_date: 2025-06
-        end_date: present
-        highlights:
-          - Diseño e implementación de soluciones tecnológicas para optimizar procesos comerciales y automatizar flujos de marketing (MarTech).
-          - Desarrollo en **Zoho One (Deluge)** e integraciones vía API REST con WhatsApp, Meta Ads, Google Ads y Shopify.
-          - Creación de un generador dinámico de plantillas HTML con **Java Spring Boot y Thymeleaf**.
-          - Administración de VPS (Hostinger) implementando seguridad (SSH, SSL) y despliegues automatizados.
+          - Lidero más de 20 servicios de integración en **FastAPI** (Python, PostgreSQL) que sincronizan **Zoho CRM** con los sistemas académicos de más de 15 clientes educativos.
+          - Integro sistemas externos mediante REST, SOAP/WS-Security (Zeep), SQL Server y FTP, usando OAuth y la Bulk API de Zoho.
+          - Publico imágenes Docker endurecidas en **GHCR** y las despliego con Docker Compose y **GitHub Actions** en servidores Linux con Nginx.
+          - Construí un stack de observabilidad con **Prometheus, Grafana, Loki y Tempo**, con alertas a Telegram.
+          - Desarrollo widgets de Zoho CRM, formularios de admisión y tableros en **Zoho Analytics** con SQL.
 
       - company: ADCOM GROUP
-        position: Desarrollador CRM | Desarrollador Web
-        location: Medellín, Colombia
+        position: Desarrollador CRM & MarTech
+        location: Medellín, Colombia (Híbrido/Remoto)
         start_date: 2025-02
-        end_date: 2025-06
+        end_date: present
         highlights:
-          - Configuración y personalización de Zoho CRM, módulos y flujos de trabajo.
-          - Desarrollo de funciones personalizadas en **Deluge** y aplicaciones internas en **Zoho Creator**.
-          - Implementación de modelos de automatización con IA en **Dapta**.
+          - Configuro módulos, flujos y funciones en **Zoho CRM (Deluge)** y aplicaciones internas en **Zoho Creator**.
+          - Construí más de 100 landing pages y micrositios de admisiones conectados a Zoho Forms y Zoho CRM.
+          - Integro WhatsApp, Meta Ads, Google Ads y Shopify vía API REST, y automaticé el contacto de leads con IA en **Dapta**.
+          - Desarrollé APIs de resultados y un generador de plantillas HTML con **Java Spring Boot y Thymeleaf** para marcas nacionales de lotería.
+          - Administro un VPS con Docker, Nginx, SSL, Prometheus, Nagios y n8n.
 
       - company: MUV-U S.A.S
-        position: Desarrollador Backend | Analista de Datos
+        position: Desarrollador Backend & Analista de Datos
         location: Sabaneta, Colombia
         start_date: 2023-07
         end_date: 2025-01
         highlights:
-          - Desarrollo de informes ejecutivos en **Power BI** para áreas financieras y comerciales.
-          - Diseño de arquitectura de datos para CRM y automatización de procesos operativos.
-          - Administración de la infraestructura de servidores y soporte TI.
+          - Construí informes ejecutivos en **Power BI** (DAX) para las áreas financiera, comercial y de mercadeo.
+          - Diseñé la arquitectura de datos del CRM y automaticé procesos operativos.
+          - Administré la infraestructura de servidores y brindé soporte TI.
 
       - company: Quipux S.A.S
-        position: Analista de Datos (Prácticas)
+        position: Analista de Datos (Práctica)
         location: Medellín, Colombia
         start_date: 2022-08
         end_date: 2023-05
         highlights:
-          - ETL y preprocesamiento de grandes volúmenes de datos para automatización del recaudo.
-          - Desarrollo de informes de visualización interactivos para la toma de decisiones.
+          - Construí procesos ETL y de limpieza de datos con Python y SQL para reportes de recaudo y movilidad.
+          - Desarrollé informes de visualización interactivos para la toma de decisiones.
 
     educación:
       - institution: Politécnico Colombiano Jaime Isaza Cadavid
@@ -71,12 +64,13 @@ cv:
         degree: Pregrado
         location: Medellín, Colombia
         start_date: 2022-01
-        end_date: 2027-12
+        end_date: 2026-12
         highlights:
-          - Formación integral en ciencias de la computación, ingeniería de software, arquitectura de hardware e IA.
-          - Proyectos destacados en Java, Python, MongoDB, Spring Boot y Docker.
-      
-      - institution: IUSH - SENA
+          - Último semestre; ceremonia de grado en marzo de 2027.
+          - Formación en ciencias de la computación, ingeniería de software, arquitectura de hardware e IA.
+          - Proyectos en Java, Python, MongoDB, Spring Boot, Docker, React e IoT sobre ESP32.
+
+      - institution: SENA – IUSH
         area: Programación de Software
         degree: Técnico
         location: Medellín, Colombia
@@ -87,26 +81,44 @@ cv:
 
     proyectos:
       - name: SmartPotTech (IoT & Agricultura)
-        date: 2024
-        summary: Sistema de automatización de cultivos hidropónicos.
+        start_date: 2024-09
+        end_date: present
+        summary: Plataforma IoT para monitorear y automatizar cultivos hidropónicos (desarrollador líder, organización de 5 miembros).
         highlights:
-          - Backend en **Spring Boot**, Frontend en **React**, orquestación con Node.js y gestión de sensores con ESP32 (MicroPython).
-      
+          - ESP32 con MicroPython y MQTT sobre TLS, API en **Spring Boot 4** (Java 21) con MongoDB y Redis, servicio de IA con FastAPI y scikit-learn, y PWA en **React 19 + TypeScript**.
+          - Imágenes en GHCR y despliegue serializado con Docker Compose y GitHub Actions.
+
+      - name: GoPoli (Movilidad universitaria)
+        start_date: 2026-03
+        end_date: present
+        summary: Plataforma de viajes compartidos para estudiantes del Politécnico (principal contribuidor).
+        highlights:
+          - PWA en **Next.js** con Leaflet y OSRM, API REST en **Spring Boot 4** con JWT y base de datos PostgreSQL 16.
+
+      - name: PepperCRM
+        start_date: 2025-02
+        end_date: 2025-11
+        summary: Producto CRM construido por un equipo de cuatro.
+        highlights:
+          - Backend en **Spring Boot** con Spring Security y JWT, MongoDB Atlas, Redis y Swagger.
+
       - name: Repositorios Académicos (EngineeringSebastian-s)
-        date: 2023
+        date: 2022
         summary: Colección de proyectos de ingeniería.
         highlights:
-          - Implementaciones de estructuras de datos (árboles, grafos), programación funcional y sistemas operativos usando Java y Python.
+          - Implementaciones de estructuras de datos (árboles, grafos), inteligencia artificial, visión por computador y sistemas operativos usando Java, Python y C++.
 
     habilidades:
       - label: Lenguajes de Programación
         details: Python, Java, C++, PHP, JavaScript, TypeScript, Zoho Deluge, SQL.
       - label: Backend & Frameworks
-        details: Django, FastAPI, Spring Boot, Laravel, Node.js.
+        details: FastAPI, Django, Spring Boot, Laravel, Node.js, Next.js.
+      - label: CRM & Automatización
+        details: Zoho CRM, Zoho Creator, Zoho Analytics, Zoho Forms, n8n, Zapier, Dapta.
       - label: Data & Analytics
         details: Power BI (DAX), Pandas, NumPy, Tableau, Zoho Analytics.
       - label: DevOps & Herramientas
-        details: Docker, Git/GitHub, Nginx, Linux, GitHub Actions, AWS.
+        details: Docker, Docker Compose, GitHub Actions, GHCR, Nginx, Linux, Prometheus, Grafana, AWS.
       - label: Idiomas
         details: Español (Nativo), Inglés (Competencia profesional completa).
 

@@ -152,22 +152,24 @@
       <h3>&nbsp;&nbsp;&nbsp;&nbsp;📋 Skills Overview</h3>
     </summary>
     <ul>
-      <li><strong>Programming Languages:</strong> Python, Java, C++, JavaScript, SQL</li>
-      <li><strong>Web Development:</strong> HTML, CSS, JavaScript</li>
-      <li><strong>Web Programming:</strong> PHP, Node.js, Google Apps Script, Zoho Deluge</li>
-      <li><strong>Frameworks & Tools:</strong> Django, Git/GitHub, Power BI, VBA, Pandas, NumPy, Matplotlib</li>
-      <li><strong>Data Management:</strong> SQL, NoSQL, REST APIs, Webhooks</li>
-      <li><strong>Data Analysis & Applied Mathematics:</strong> Power BI, Advanced Excel, R, statistical analysis for
-        engineering</li>
-      <li><strong>Automation & Agile Development:</strong> Scrum methodology (Jira, Confluence), RPA with Python, Macros
-        (Excel, Google Workspace)</li>
-      <li><strong>Computer Science Foundations:</strong> Automata theory, formal languages, compiler design (JFLAP,
-        Chachalero)</li>
-      <li><strong>Networks & Systems:</strong> Linux environments, Cisco Packet Tracer, network service installation and
+      <li><strong>Backend &amp; APIs:</strong> Python (FastAPI, Django), Java (Spring Boot), Node.js, PHP (Laravel), REST,
+        SOAP/WSDL (Zeep), Webhooks, JWT, OpenAPI</li>
+      <li><strong>CRM &amp; Automation:</strong> Zoho CRM, Zoho Creator, Zoho Analytics, Zoho Forms, Deluge, n8n, Zapier,
+        Dapta, Google Apps Script</li>
+      <li><strong>Data &amp; BI:</strong> SQL, Pandas, NumPy, Power BI (DAX), Zoho Analytics, Excel, ETL and reporting
+        automation</li>
+      <li><strong>Databases:</strong> PostgreSQL, MySQL/MariaDB, SQL Server, MongoDB, Redis, SQLite</li>
+      <li><strong>Frontend:</strong> React, TypeScript, Next.js, Vite, Tailwind CSS, HTML, CSS</li>
+      <li><strong>DevOps &amp; Observability:</strong> Docker &amp; Compose, GitHub Actions, GHCR, Nginx, Linux,
+        Kubernetes manifests, Prometheus, Grafana, Loki, Tempo</li>
+      <li><strong>IoT:</strong> ESP32, MicroPython, MQTT over TLS, Arduino, Wokwi</li>
+      <li><strong>Machine Learning &amp; AI:</strong> scikit-learn, Natural Language Processing (NLP), Small Language Models
+        (SLM), TinyML architectures, Qwen2 model integration, and RAG pipelines</li>
+      <li><strong>Testing &amp; Quality:</strong> PyTest, JUnit, Vitest, Postman, CodeQL, Dependabot</li>
+      <li><strong>Computer Science Foundations:</strong> Automata theory, formal languages, compiler design (JFLAP)</li>
+      <li><strong>Networks &amp; Systems:</strong> Linux environments, Cisco Packet Tracer, network service installation and
         administration</li>
-      <li><strong>Productivity & Collaboration Suites:</strong> Configuration and use of Microsoft 365, Google
-        Workspace, and Zoho Suite for enterprise solutions</li>
-      <li><strong>Machine Learning & AI:</strong> Natural Language Processing (NLP), Small Language Models (SLM), arquitecturas TinyML, integración de modelos Qwen2 y desarrollo de RAG Pipelines.</li>
+      <li><strong>Methodologies:</strong> Scrum (Jira, Confluence), Git flow, code review</li>
     </ul>
   </details>
   <details>
@@ -225,6 +227,12 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
         src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=black"
         alt="TailwindCSS" height="20" /> </a>
+    <a href="https://nextjs.org" target="_blank" rel="noreferrer"> <img
+        src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
+        alt="Next.js" height="20" /> </a>
+    <a href="https://vite.dev" target="_blank" rel="noreferrer"> <img
+        src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"
+        height="20" /> </a>
     <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img
         src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt" height="20" />
     </a>
@@ -329,6 +337,15 @@
     <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img
         src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"
         alt="GitHub Actions" height="20" /> </a>
+    <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img
+        src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"
+        alt="Kubernetes" height="20" /> </a>
+    <a href="https://prometheus.io" target="_blank" rel="noreferrer"> <img
+        src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"
+        alt="Prometheus" height="20" /> </a>
+    <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img
+        src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"
+        alt="Grafana" height="20" /> </a>
     <a href="https://about.gitlab.com" target="_blank" rel="noreferrer"> <img
         src="https://img.shields.io/badge/GitLab%20CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"
         alt="GitLab CI/CD" height="20" /> </a>
@@ -422,9 +439,19 @@
         height="20" /> </a>
     <a href="https://www.azure.microsoft.com" target="_blank" rel="noreferrer"> <img
         src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"
-        alt="Azure" height="20" /> </ <a href="https://www.zoho.com/deluge/" target="_blank" rel="noreferrer"> <img
+        alt="Azure" height="20" /> </a>
+    <a href="https://www.zoho.com/deluge/" target="_blank" rel="noreferrer"> <img
         src="https://img.shields.io/badge/Zoho%20Deluge-0072C6?style=for-the-badge&logo=zoho&logoColor=white"
         alt="Zoho Deluge" height="20" /> </a>
+    <a href="https://www.zoho.com/crm/" target="_blank" rel="noreferrer"> <img
+        src="https://img.shields.io/badge/Zoho%20CRM-E42527?style=for-the-badge&logo=zoho&logoColor=white"
+        alt="Zoho CRM" height="20" /> </a>
+    <a href="https://www.zoho.com/analytics/" target="_blank" rel="noreferrer"> <img
+        src="https://img.shields.io/badge/Zoho%20Analytics-226DB4?style=for-the-badge&logo=zoho&logoColor=white"
+        alt="Zoho Analytics" height="20" /> </a>
+    <a href="https://n8n.io" target="_blank" rel="noreferrer"> <img
+        src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"
+        height="20" /> </a>
     <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img
         src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"
         height="20" /> </a>
@@ -880,5 +907,160 @@
         <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics/repos/smartpot-cache.svg" width="48%" alt="SmartPot-cache metrics" />
       </p>
     </details>
+  </details>
+
+  <details open>
+    <summary>
+      <h2>&nbsp;&nbsp;&nbsp;&nbsp;🏫 TivenosEducation</h2>
+    </summary>
+    <p>
+      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics/orgs/metrics.tivenoseducation.svg"
+        alt="TivenosEducation metrics" />
+    </p>
+    <p>
+      Private organization where I lead backend and integration work for <strong>TIVENOS – Solutions for Education</strong>:
+      <strong>20+ FastAPI integration services</strong> that synchronize Zoho CRM with the academic systems of
+      <strong>15+ education clients across Latin America and Spain</strong>, Zoho CRM widgets, admissions and
+      scholarship forms, a CRM snapshot service, and an observability stack (Prometheus, Grafana, Loki, Tempo). Every
+      service ships as a hardened GHCR image deployed with Docker Compose through GitHub Actions.
+    </p>
+  </details>
+
+  <details open>
+    <summary>
+      <h2>&nbsp;&nbsp;&nbsp;&nbsp;📣 ADCOM-Group</h2>
+    </summary>
+    <p>
+      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics/orgs/metrics.adcom-group.svg"
+        alt="ADCOM-Group metrics" />
+    </p>
+    <p>
+      Private organization of the marketing agency <strong>ADCOM GROUP</strong>, where I work as CRM &amp; MarTech
+      developer: <strong>100+ admissions landing pages and microsites</strong> for higher-education campaigns connected
+      to Zoho Forms and Zoho CRM, Zoho API and serverless automations, social media metrics, and results APIs for
+      national lottery brands built with Spring Boot.
+    </p>
+  </details>
+
+  <details open>
+    <summary>
+      <h2>&nbsp;&nbsp;&nbsp;&nbsp;🚗 GoPoli</h2>
+    </summary>
+
+    <p>
+      <strong>GoPoli</strong> is a ride-sharing platform for students of Politécnico Colombiano Jaime Isaza Cadavid, where
+      I am the main contributor: a <strong>Next.js PWA</strong> with Leaflet maps and OSRM routing, a
+      <strong>Spring Boot 4</strong> REST API with JWT, a <strong>PostgreSQL 16</strong> schema, and GHCR images for
+      every service.
+    </p>
+    <details>
+      <summary>
+        <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚 Repositories</h2>
+      </summary>
+      <div align="left">
+        <a href="https://github.com/GoPoli/GoPoli-Web">
+          <img width="278"
+            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=GoPoli&repo=GoPoli-Web&theme=dark"
+            alt="GoPoli-Web" />
+        </a>
+        <a href="https://github.com/GoPoli/GoPoli-API">
+          <img width="278"
+            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=GoPoli&repo=GoPoli-API&theme=dark"
+            alt="GoPoli-API" />
+        </a>
+        <a href="https://github.com/GoPoli/GoPoli-DB">
+          <img width="278"
+            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=GoPoli&repo=GoPoli-DB&theme=dark"
+            alt="GoPoli-DB" />
+        </a>
+        <a href="https://github.com/GoPoli/GoPoli-Mobile">
+          <img width="278"
+            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=GoPoli&repo=GoPoli-Mobile&theme=dark"
+            alt="GoPoli-Mobile" />
+        </a>
+      </div>
+    </details>
+  </details>
+
+  <details open>
+    <summary>
+      <h2>&nbsp;&nbsp;&nbsp;&nbsp;🌶️ PepperTechDev</h2>
+    </summary>
+    <p>
+      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics/orgs/metrics.peppertechdev.svg"
+        alt="PepperTechDev metrics" />
+    </p>
+    <p>
+      <strong>PepperCRM</strong> is a CRM product built by a team of four, where I authored most of the backend: a
+      <strong>Spring Boot</strong> API secured with Spring Security and JWT, MongoDB Atlas, Redis cache, Swagger
+      documentation, and Docker images deployed on Render.
+    </p>
+    <details>
+      <summary>
+        <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚 Repositories</h2>
+      </summary>
+      <div align="left">
+        <a href="https://github.com/PepperTechDev/PepperCRM-API">
+          <img width="278"
+            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=PepperTechDev&repo=PepperCRM-API&theme=dark"
+            alt="PepperCRM-API" />
+        </a>
+        <a href="https://github.com/PepperTechDev/PepperCRM-Web">
+          <img width="278"
+            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=PepperTechDev&repo=PepperCRM-Web&theme=dark"
+            alt="PepperCRM-Web" />
+        </a>
+      </div>
+    </details>
+  </details>
+
+  <details open>
+    <summary>
+      <h2>&nbsp;&nbsp;&nbsp;&nbsp;🐂 TaurusSebastian-s</h2>
+    </summary>
+    <p>
+      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics/orgs/metrics.taurussebastians.svg"
+        alt="TaurusSebastian-s metrics" />
+    </p>
+    <p>
+      Technical assessment solved end to end: CSV ingestion into MySQL/MariaDB, a <strong>FastAPI</strong> metrics API,
+      exploratory data analysis, and a <strong>React</strong> dashboard with AG Grid and Plotly.js.
+    </p>
+    <details>
+      <summary>
+        <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚 Repositories</h2>
+      </summary>
+      <div align="left">
+        <a href="https://github.com/TaurusSebastian-s/Taurus-FastAPI">
+          <img width="278"
+            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=TaurusSebastian-s&repo=Taurus-FastAPI&theme=dark"
+            alt="Taurus-FastAPI" />
+        </a>
+        <a href="https://github.com/TaurusSebastian-s/Taurus-DataAnalysis">
+          <img width="278"
+            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=TaurusSebastian-s&repo=Taurus-DataAnalysis&theme=dark"
+            alt="Taurus-DataAnalysis" />
+        </a>
+        <a href="https://github.com/TaurusSebastian-s/Taurus-Frontend">
+          <img width="278"
+            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=TaurusSebastian-s&repo=Taurus-Frontend&theme=dark"
+            alt="Taurus-Frontend" />
+        </a>
+      </div>
+    </details>
+  </details>
+
+  <details open>
+    <summary>
+      <h2>&nbsp;&nbsp;&nbsp;&nbsp;📊 TestLabData</h2>
+    </summary>
+    <p>
+      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics/orgs/metrics.testlabdata.svg"
+        alt="TestLabData metrics" />
+    </p>
+    <p>
+      Archived private organization with <strong>18 Python data automations</strong> (2022 – 2023): data cleaning,
+      blacklist filtering for email and SMS campaigns, campaign generation, and monthly reports.
+    </p>
   </details>
 </details>

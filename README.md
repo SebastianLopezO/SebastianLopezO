@@ -559,19 +559,19 @@
         alt="Followers Count" />
     </p>
     <p align="center">
-      <img src="https://github-readme-stats-one-liart-24.vercel.app/api/wakatime?username=SebastianLopezO&layout=compact&theme=dark"
+      <img src="./profile/wakatime.svg"
         alt="WakaTime Stats" />
       <img
-        src="https://github-readme-stats-one-liart-24.vercel.app/api/top-langs/?username=SebastianLopezO&layout=donut-vertical&hide=HTML,Procfile,Papyrus&langs_count=20&theme=dark"
+        src="./profile/top-langs.svg"
         alt="Top Languages" />
     </p>
     <br>
     <p align="center">
       <img
-        src="https://github-readme-streak-stats-steel-theta.vercel.app/?user=SebastianLopezO&theme=dark&hide_border=false&border_radius=10"
+        src="./profile/streak.svg"
         alt="GitHub Streak" />
       <img
-        src="https://github-readme-stats-one-liart-24.vercel.app/api?username=SebastianLopezO&show_icons=true&theme=dark"
+        src="./profile/stats.svg"
         alt="GitHub Stats" />
     </p>
     <img
@@ -622,82 +622,82 @@
       <div align="left">
         <a href="https://github.com/EngineeringSebastian-s/DB2">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=DB2&theme=dark"
+            src="./profile/pin-engineeringsebastian-s-db2.svg"
             alt="DB2" />
         </a>
         <a href="https://github.com/EngineeringSebastian-s/SistemasOperativos">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=SistemasOperativos&theme=dark"
+            src="./profile/pin-engineeringsebastian-s-sistemasoperativos.svg"
             alt="SistemasOperativos" />
         </a>
         <a href="https://github.com/EngineeringSebastian-s/ARQH">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=ARQH&theme=dark"
+            src="./profile/pin-engineeringsebastian-s-arqh.svg"
             alt="ARQH" />
         </a>
         <a href="https://github.com/EngineeringSebastian-s/TLP2">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=TLP2&theme=dark"
+            src="./profile/pin-engineeringsebastian-s-tlp2.svg"
             alt="TLP2" />
         </a>
         <a href="https://github.com/EngineeringSebastian-s/TLP1">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=TLP1&theme=dark"
+            src="./profile/pin-engineeringsebastian-s-tlp1.svg"
             alt="TLP1" />
         </a>
         <a href="https://github.com/EngineeringSebastian-s/Grafos">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=Grafos&theme=dark"
+            src="./profile/pin-engineeringsebastian-s-grafos.svg"
             alt="Grafos" />
         </a>
         <a href="https://github.com/EngineeringSebastian-s/Arboles">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=Arboles&theme=dark"
+            src="./profile/pin-engineeringsebastian-s-arboles.svg"
             alt="Arboles" />
         </a>
         <a href="https://github.com/EngineeringSebastian-s/Polinomios">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=Polinomios&theme=dark"
+            src="./profile/pin-engineeringsebastian-s-polinomios.svg"
             alt="Polinomios" />
         </a>
         <a href="https://github.com/EngineeringSebastian-s/MatricesDispersas">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=MatricesDispersas&theme=dark"
+            src="./profile/pin-engineeringsebastian-s-matricesdispersas.svg"
             alt="MatricesDispersas" />
         </a>
         <a href="https://github.com/EngineeringSebastian-s/SemioticaInformatica">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=SemioticaInformatica&theme=dark"
+            src="./profile/pin-engineeringsebastian-s-semioticainformatica.svg"
             alt="SemioticaInformatica" />
         </a>
         <a href="https://github.com/EngineeringSebastian-s/AP4">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=AP4&theme=dark"
+            src="./profile/pin-engineeringsebastian-s-ap4.svg"
             alt="AP4" />
         </a>
         <a href="https://github.com/EngineeringSebastian-s/SistemaDeNotas">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=SistemaDeNotas&theme=dark"
+            src="./profile/pin-engineeringsebastian-s-sistemadenotas.svg"
             alt="SistemaDeNotas" />
         </a>
         <a href="https://github.com/EngineeringSebastian-s/AP3">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=AP3&theme=dark"
+            src="./profile/pin-engineeringsebastian-s-ap3.svg"
             alt="AP3" />
         </a>
         <a href="https://github.com/EngineeringSebastian-s/AP2">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=AP2&theme=dark"
+            src="./profile/pin-engineeringsebastian-s-ap2.svg"
             alt="AP2" />
         </a>
         <a href="https://github.com/EngineeringSebastian-s/AP1">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=AP1&theme=dark"
+            src="./profile/pin-engineeringsebastian-s-ap1.svg"
             alt="AP1" />
         </a>
         <a href="https://github.com/EngineeringSebastian-s/CarSpace">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=EngineeringSebastian-s&repo=CarSpace&theme=dark"
+            src="./profile/pin-engineeringsebastian-s-carspace.svg"
             alt="CarSpace" />
         </a>
       </div>
@@ -733,22 +733,22 @@
       <div align="left">
         <a href="https://github.com/TechnicalSebastians/VideoToAscii">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=TechnicalSebastians&repo=VideoToAscii&theme=dark"
+            src="./profile/pin-technicalsebastians-videotoascii.svg"
             alt="VideoToAscii" />
         </a>
         <a href="https://github.com/TechnicalSebastians/SitePersist">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=TechnicalSebastians&repo=SitePersist&theme=dark"
+            src="./profile/pin-technicalsebastians-sitepersist.svg"
             alt="SitePersist" />
         </a>
         <a href="https://github.com/TechnicalSebastians/CalculadoraNasa">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=TechnicalSebastians&repo=CalculadoraNasa&theme=dark"
+            src="./profile/pin-technicalsebastians-calculadoranasa.svg"
             alt="CalculadoraNasa" />
         </a>
         <a href="https://github.com/TechnicalSebastians/AdminSitePersist">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=TechnicalSebastians&repo=AdminSitePersist&theme=dark"
+            src="./profile/pin-technicalsebastians-adminsitepersist.svg"
             alt="AdminSitePersist" />
         </a>
       </div>
@@ -779,42 +779,42 @@
       <div align="left">
         <a href="https://github.com/VocationalSebastian-s/TheCompanyDream">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=VocationalSebastian-s&repo=TheCompanyDream&theme=dark"
+            src="./profile/pin-vocationalsebastian-s-thecompanydream.svg"
             alt="TheCompanyDream" />
         </a>
         <a href="https://github.com/VocationalSebastian-s/InstintoAcuatico">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=VocationalSebastian-s&repo=InstintoAcuatico&theme=dark"
+            src="./profile/pin-vocationalsebastian-s-instintoacuatico.svg"
             alt="InstintoAcuatico" />
         </a>
         <a href="https://github.com/VocationalSebastian-s/BitMapConvertColor">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=VocationalSebastian-s&repo=BitMapConvertColor&theme=dark"
+            src="./profile/pin-vocationalsebastian-s-bitmapconvertcolor.svg"
             alt="BitMapConvertColor" />
         </a>
         <a href="https://github.com/VocationalSebastian-s/BingoExcel">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=VocationalSebastian-s&repo=BingoExcel&theme=dark"
+            src="./profile/pin-vocationalsebastian-s-bingoexcel.svg"
             alt="BingoExcel" />
         </a>
         <a href="https://github.com/VocationalSebastian-s/CalculadoraJava">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=VocationalSebastian-s&repo=CalculadoraJava&theme=dark"
+            src="./profile/pin-vocationalsebastian-s-calculadorajava.svg"
             alt="CalculadoraJava" />
         </a>
         <a href="https://github.com/VocationalSebastian-s/PositionHorse">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=VocationalSebastian-s&repo=PositionHorse&theme=dark"
+            src="./profile/pin-vocationalsebastian-s-positionhorse.svg"
             alt="PositionHorse" />
         </a>
         <a href="https://github.com/VocationalSebastian-s/GuiaPython">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=VocationalSebastian-s&repo=GuiaPython&theme=dark"
+            src="./profile/pin-vocationalsebastian-s-guiapython.svg"
             alt="GuiaPython" />
         </a>
         <a href="https://github.com/VocationalSebastian-s/DimensionCube">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=VocationalSebastian-s&repo=DimensionCube&theme=dark"
+            src="./profile/pin-vocationalsebastian-s-dimensioncube.svg"
             alt="DimensionCube" />
         </a>
       </div>
@@ -843,52 +843,52 @@
       <div align="left">
         <a href="https://github.com/SmartPotTech/SmartPot-API">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=SmartPotTech&repo=SmartPot-API&theme=dark"
+            src="./profile/pin-smartpottech-smartpot-api.svg"
             alt="SmartPot-API" />
         </a>
         <a href="https://github.com/SmartPotTech/.github">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=SmartPotTech&repo=.github&theme=dark"
+            src="./profile/pin-smartpottech-github.svg"
             alt=".github" />
         </a>
         <a href="https://github.com/SmartPotTech/SmartPot-Web">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=SmartPotTech&repo=SmartPot-Web&theme=dark"
+            src="./profile/pin-smartpottech-smartpot-web.svg"
             alt="SmartPot-Web" />
         </a>
         <a href="https://github.com/SmartPotTech/SmartPot-DB">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=SmartPotTech&repo=SmartPot-DB&theme=dark"
+            src="./profile/pin-smartpottech-smartpot-db.svg"
             alt="SmartPot-DB" />
         </a>
         <a href="https://github.com/SmartPotTech/SmartPot-IoT">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=SmartPotTech&repo=SmartPot-IoT&theme=dark"
+            src="./profile/pin-smartpottech-smartpot-iot.svg"
             alt="SmartPot-IoT" />
         </a>
         <a href="https://github.com/SmartPotTech/SmartPot-Proxy">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=SmartPotTech&repo=SmartPot-Proxy&theme=dark"
+            src="./profile/pin-smartpottech-smartpot-proxy.svg"
             alt="SmartPot-Proxy" />
         </a>
         <a href="https://github.com/SmartPotTech/SmartPot-DataAnalytics">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=SmartPotTech&repo=SmartPot-DataAnalytics&theme=dark"
+            src="./profile/pin-smartpottech-smartpot-dataanalytics.svg"
             alt="SmartPot-DataAnalytics" />
         </a>
         <a href="https://github.com/SmartPotTech/SmartPot-DataGenerator">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=SmartPotTech&repo=SmartPot-DataGenerator&theme=dark"
+            src="./profile/pin-smartpottech-smartpot-datagenerator.svg"
             alt="SmartPot-DataGenerator" />
         </a>
         <a href="https://github.com/SmartPotTech/SmartPot-Mail">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=SmartPotTech&repo=SmartPot-Mail&theme=dark"
+            src="./profile/pin-smartpottech-smartpot-mail.svg"
             alt="SmartPot-Mail" />
         </a>
         <a href="https://github.com/SmartPotTech/SmartPot-Cache">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=SmartPotTech&repo=SmartPot-Cache&theme=dark"
+            src="./profile/pin-smartpottech-smartpot-cache.svg"
             alt="SmartPot-Cache" />
         </a>
       </div>
@@ -963,22 +963,22 @@
       <div align="left">
         <a href="https://github.com/GoPoli/GoPoli-Web">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=GoPoli&repo=GoPoli-Web&theme=dark"
+            src="./profile/pin-gopoli-gopoli-web.svg"
             alt="GoPoli-Web" />
         </a>
         <a href="https://github.com/GoPoli/GoPoli-API">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=GoPoli&repo=GoPoli-API&theme=dark"
+            src="./profile/pin-gopoli-gopoli-api.svg"
             alt="GoPoli-API" />
         </a>
         <a href="https://github.com/GoPoli/GoPoli-DB">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=GoPoli&repo=GoPoli-DB&theme=dark"
+            src="./profile/pin-gopoli-gopoli-db.svg"
             alt="GoPoli-DB" />
         </a>
         <a href="https://github.com/GoPoli/GoPoli-Mobile">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=GoPoli&repo=GoPoli-Mobile&theme=dark"
+            src="./profile/pin-gopoli-gopoli-mobile.svg"
             alt="GoPoli-Mobile" />
         </a>
       </div>
@@ -1005,12 +1005,12 @@
       <div align="left">
         <a href="https://github.com/PepperTechDev/PepperCRM-API">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=PepperTechDev&repo=PepperCRM-API&theme=dark"
+            src="./profile/pin-peppertechdev-peppercrm-api.svg"
             alt="PepperCRM-API" />
         </a>
         <a href="https://github.com/PepperTechDev/PepperCRM-Web">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=PepperTechDev&repo=PepperCRM-Web&theme=dark"
+            src="./profile/pin-peppertechdev-peppercrm-web.svg"
             alt="PepperCRM-Web" />
         </a>
       </div>
@@ -1036,17 +1036,17 @@
       <div align="left">
         <a href="https://github.com/TaurusSebastian-s/Taurus-FastAPI">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=TaurusSebastian-s&repo=Taurus-FastAPI&theme=dark"
+            src="./profile/pin-taurussebastian-s-taurus-fastapi.svg"
             alt="Taurus-FastAPI" />
         </a>
         <a href="https://github.com/TaurusSebastian-s/Taurus-DataAnalysis">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=TaurusSebastian-s&repo=Taurus-DataAnalysis&theme=dark"
+            src="./profile/pin-taurussebastian-s-taurus-dataanalysis.svg"
             alt="Taurus-DataAnalysis" />
         </a>
         <a href="https://github.com/TaurusSebastian-s/Taurus-Frontend">
           <img width="278"
-            src="https://github-readme-stats-one-liart-24.vercel.app/api/pin/?username=TaurusSebastian-s&repo=Taurus-Frontend&theme=dark"
+            src="./profile/pin-taurussebastian-s-taurus-frontend.svg"
             alt="Taurus-Frontend" />
         </a>
       </div>

@@ -1,0 +1,41 @@
+name: Streak Stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  push:
+    paths:
+      - ".github/workflows/streak-stats.yml"
+  workflow_dispatch:
+
+concurrency:
+  group: streak-stats-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  streak:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@v1
+        with:
+          options: user=${{ github.repository_owner }}&theme=dark&hide_border=false&border_radius=10&disable_animations=true
+          path: profile/streak.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+      - name: Commit streak stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/streak.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "Update streak stats"
+          for attempt in 1 2 3; do
+            git pull --rebase --quiet && git push && exit 0
+            sleep $((attempt * 10))
+          done
+          exit 1

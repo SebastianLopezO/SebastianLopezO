@@ -782,11 +782,6 @@
             src="./profile/pin-vocationalsebastian-s-thecompanydream.svg"
             alt="TheCompanyDream" />
         </a>
-        <a href="https://github.com/VocationalSebastian-s/InstintoAcuatico">
-          <img width="278"
-            src="./profile/pin-vocationalsebastian-s-instintoacuatico.svg"
-            alt="InstintoAcuatico" />
-        </a>
         <a href="https://github.com/VocationalSebastian-s/BitMapConvertColor">
           <img width="278"
             src="./profile/pin-vocationalsebastian-s-bitmapconvertcolor.svg"

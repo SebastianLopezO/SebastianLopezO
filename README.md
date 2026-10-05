@@ -575,7 +575,7 @@
         alt="GitHub Stats" />
     </p>
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=SebastianLopezO&theme=high-contrast&area=true&hide_border=true&days=50"
+      src="./profile/activity-graph.svg"
       alt="GitHub Activity Graph" /> <br>
     <img src="https://github-profile-trophy-hkpvrw0xd-sebastianlopezo-projects.vercel.app/?username=SebastianLopezO&theme=onedark&row=2&column=9" alt="GitHub Trophies" /> <br>
     <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/output/snake.svg" alt="Snake animation" />
@@ -586,7 +586,7 @@
       <h2>🧑‍💻 GitHub Contributions Overview</h2>
     </summary>
     <img
-      src="https://github-contributor-stats.vercel.app/api?username=SebastianLopezO&theme=dark&hide_contributor_rank=false"
+      src="./profile/contributor-stats.svg"
       alt="GitHub Contributor Stats" /> <br>
   </details>
 </details>

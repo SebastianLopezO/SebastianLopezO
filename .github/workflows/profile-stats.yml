@@ -1,0 +1,48 @@
+name: Profile Stats
+
+on:
+  schedule:
+    - cron: "40 5 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: profile-metrics
+  cancel-in-progress: false
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v5
+        with:
+          node-version: 22
+
+      - name: Collect GitHub and WakaTime stats
+        shell: bash
+        run: node scripts/profile-stats.mjs metrics/stats.json | tee -a "$GITHUB_STEP_SUMMARY"
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
+      - name: Commit stats
+        run: |
+          if [ "$(jq -r .github.visibility metrics/stats.json)" != owner ]; then
+            echo "::warning::METRICS_TOKEN is missing or expired, so only public contributions were counted. Nothing was committed."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add metrics/stats.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Update profile stats"
+          git pull --rebase origin main
+          git push origin HEAD:main

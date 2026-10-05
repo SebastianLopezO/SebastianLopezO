@@ -948,7 +948,7 @@
     </summary>
     <p>
       <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics/orgs/metrics.gopoli.svg"
-        alt="ADCOM-Group metrics" />
+        alt="GoPoli metrics" />
     </p>
     <p>
       <strong>GoPoli</strong> is a ride-sharing platform for students of Politécnico Colombiano Jaime Isaza Cadavid, where

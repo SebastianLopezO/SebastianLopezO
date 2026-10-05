@@ -946,7 +946,6 @@
     <summary>
       <h2>&nbsp;&nbsp;&nbsp;&nbsp;🚗 GoPoli</h2>
     </summary>
-
     <p>
       <strong>GoPoli</strong> is a ride-sharing platform for students of Politécnico Colombiano Jaime Isaza Cadavid, where
       I am the main contributor: a <strong>Next.js PWA</strong> with Leaflet maps and OSRM routing, a

@@ -1,0 +1,90 @@
+name: README Cards
+
+on:
+  schedule:
+    - cron: "20 3 * * *"
+  push:
+    paths:
+      - ".github/workflows/readme-cards.yml"
+      - "profile/cards.json"
+  workflow_dispatch:
+
+concurrency:
+  group: readme-cards-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      cards: ${{ steps.cards.outputs.cards }}
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: List cards
+        id: cards
+        run: |
+          cards=$(jq -c '.cards + [.pins[] | split("/") as [$owner, $repo] | {
+            card: "pin",
+            options: "username=\($owner)&repo=\($repo)&theme=dark",
+            path: "profile/pin-\("\($owner)-\($repo)" | ascii_downcase | gsub("[^a-z0-9]+"; "-")).svg"
+          }]' profile/cards.json)
+          echo "cards=$cards" >> "$GITHUB_OUTPUT"
+
+  render:
+    name: ${{ matrix.path }}
+    needs: plan
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      max-parallel: 10
+      matrix:
+        include: ${{ fromJSON(needs.plan.outputs.cards) }}
+    steps:
+      - name: Render card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: ${{ matrix.card }}
+          options: ${{ matrix.options }}
+          path: ${{ matrix.path }}
+          token: ${{ secrets.METRICS_TOKEN }}
+          fail_on_error: true
+
+      - name: Upload card
+        uses: actions/upload-artifact@v7
+        with:
+          name: card-${{ strategy.job-index }}
+          path: ${{ matrix.path }}
+          retention-days: 1
+
+  commit:
+    needs: render
+    if: ${{ !cancelled() }}
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Download cards
+        uses: actions/download-artifact@v8
+        with:
+          pattern: card-*
+          path: profile
+          merge-multiple: true
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "Update README cards"
+          for attempt in 1 2 3; do
+            git pull --rebase --quiet && git push && exit 0
+            sleep $((attempt * 10))
+          done
+          exit 1

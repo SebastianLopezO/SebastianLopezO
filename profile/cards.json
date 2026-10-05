@@ -1,0 +1,68 @@
+{
+  "cards": [
+    {
+      "card": "stats",
+      "options": "username=SebastianLopezO&show_icons=true&theme=dark",
+      "path": "profile/stats.svg"
+    },
+    {
+      "card": "top-langs",
+      "options": "username=SebastianLopezO&layout=donut-vertical&hide=HTML,Procfile,Papyrus&langs_count=20&theme=dark",
+      "path": "profile/top-langs.svg"
+    },
+    {
+      "card": "wakatime",
+      "options": "username=SebastianLopezO&layout=compact&theme=dark",
+      "path": "profile/wakatime.svg"
+    }
+  ],
+  "pins": [
+    "EngineeringSebastian-s/DB2",
+    "EngineeringSebastian-s/SistemasOperativos",
+    "EngineeringSebastian-s/ARQH",
+    "EngineeringSebastian-s/TLP2",
+    "EngineeringSebastian-s/TLP1",
+    "EngineeringSebastian-s/Grafos",
+    "EngineeringSebastian-s/Arboles",
+    "EngineeringSebastian-s/Polinomios",
+    "EngineeringSebastian-s/MatricesDispersas",
+    "EngineeringSebastian-s/SemioticaInformatica",
+    "EngineeringSebastian-s/AP4",
+    "EngineeringSebastian-s/SistemaDeNotas",
+    "EngineeringSebastian-s/AP3",
+    "EngineeringSebastian-s/AP2",
+    "EngineeringSebastian-s/AP1",
+    "EngineeringSebastian-s/CarSpace",
+    "TechnicalSebastians/VideoToAscii",
+    "TechnicalSebastians/SitePersist",
+    "TechnicalSebastians/CalculadoraNasa",
+    "TechnicalSebastians/AdminSitePersist",
+    "VocationalSebastian-s/TheCompanyDream",
+    "VocationalSebastian-s/InstintoAcuatico",
+    "VocationalSebastian-s/BitMapConvertColor",
+    "VocationalSebastian-s/BingoExcel",
+    "VocationalSebastian-s/CalculadoraJava",
+    "VocationalSebastian-s/PositionHorse",
+    "VocationalSebastian-s/GuiaPython",
+    "VocationalSebastian-s/DimensionCube",
+    "SmartPotTech/SmartPot-API",
+    "SmartPotTech/.github",
+    "SmartPotTech/SmartPot-Web",
+    "SmartPotTech/SmartPot-DB",
+    "SmartPotTech/SmartPot-IoT",
+    "SmartPotTech/SmartPot-Proxy",
+    "SmartPotTech/SmartPot-DataAnalytics",
+    "SmartPotTech/SmartPot-DataGenerator",
+    "SmartPotTech/SmartPot-Mail",
+    "SmartPotTech/SmartPot-Cache",
+    "GoPoli/GoPoli-Web",
+    "GoPoli/GoPoli-API",
+    "GoPoli/GoPoli-DB",
+    "GoPoli/GoPoli-Mobile",
+    "PepperTechDev/PepperCRM-API",
+    "PepperTechDev/PepperCRM-Web",
+    "TaurusSebastian-s/Taurus-FastAPI",
+    "TaurusSebastian-s/Taurus-DataAnalysis",
+    "TaurusSebastian-s/Taurus-Frontend"
+  ]
+}

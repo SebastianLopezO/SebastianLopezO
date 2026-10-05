@@ -947,6 +947,10 @@
       <h2>&nbsp;&nbsp;&nbsp;&nbsp;🚗 GoPoli</h2>
     </summary>
     <p>
+      <img src="https://raw.githubusercontent.com/SebastianLopezO/SebastianLopezO/main/metrics/orgs/metrics.gopoli.svg"
+        alt="ADCOM-Group metrics" />
+    </p>
+    <p>
       <strong>GoPoli</strong> is a ride-sharing platform for students of Politécnico Colombiano Jaime Isaza Cadavid, where
       I am the main contributor: a <strong>Next.js PWA</strong> with Leaflet maps and OSRM routing, a
       <strong>Spring Boot 4</strong> REST API with JWT, a <strong>PostgreSQL 16</strong> schema, and GHCR images for

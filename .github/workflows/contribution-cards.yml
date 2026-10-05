@@ -1,0 +1,84 @@
+name: Contribution Cards
+
+on:
+  schedule:
+    - cron: "40 3 * * *"
+  push:
+    paths:
+      - ".github/workflows/contribution-cards.yml"
+  workflow_dispatch:
+
+concurrency:
+  group: contribution-cards-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  # Ashutosh00710/github-readme-activity-graph has no action, so the workflow runs its server at this commit.
+  ACTIVITY_GRAPH_REF: 0962e9461de815933d462e8b98c7ce566cada8fb
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v7
+
+      # The card lists repository names, so it uses the workflow token: it only sees public repositories, while
+      # the metrics token would also list private organization repositories.
+      - name: Generate contributor stats
+        uses: HwangTaehyun/github-contributor-stats/action@95a90818c685ac6487d10750fbfc42bcdc5ef14f
+        env:
+          GITHUB_PERSONAL_ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          username: ${{ github.repository_owner }}
+          output-file: ${{ runner.temp }}/contributor-stats.svg
+          theme: dark
+          hide-contributor-rank: "false"
+          combine-all-yearly-contributions: "true"
+
+      - name: Keep the contributor stats card
+        run: |
+          grep -q "Contributor Stats" "$RUNNER_TEMP/contributor-stats.svg"
+          mv "$RUNNER_TEMP/contributor-stats.svg" profile/contributor-stats.svg
+
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 22
+
+      # Only daily contribution counts are drawn, so the metrics token is safe here and counts private work.
+      - name: Generate activity graph
+        env:
+          TOKEN: ${{ secrets.METRICS_TOKEN }}
+          PORT: "5100"
+        run: |
+          renderer="$RUNNER_TEMP/activity-graph"
+          git clone --quiet https://github.com/Ashutosh00710/github-readme-activity-graph.git "$renderer"
+          git -C "$renderer" checkout --quiet "$ACTIVITY_GRAPH_REF"
+          npm ci --prefix "$renderer" --no-audit --no-fund
+          npm run --prefix "$renderer" build
+          node "$renderer/dist/main.js" &
+          server=$!
+          for attempt in $(seq 30); do
+            curl -sf -o /dev/null "http://localhost:$PORT/" && break
+            sleep 1
+          done
+          curl -sf -o "$RUNNER_TEMP/activity-graph.svg" \
+            "http://localhost:$PORT/graph?username=${{ github.repository_owner }}&theme=high-contrast&area=true&hide_border=true&days=50"
+          kill "$server"
+          # Errors come back as a placeholder card with status 200, so only a drawn chart is accepted.
+          grep -q "ct-line" "$RUNNER_TEMP/activity-graph.svg"
+          mv "$RUNNER_TEMP/activity-graph.svg" profile/activity-graph.svg
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/contributor-stats.svg profile/activity-graph.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "Update contribution cards"
+          for attempt in 1 2 3; do
+            git pull --rebase --quiet && git push && exit 0
+            sleep $((attempt * 10))
+          done
+          exit 1

@@ -10,19 +10,20 @@
 
 ## Professional Profile
 
-Backend & Integration Developer focused on Full Cycle development, with 4+ years of experience across backend architecture, system integration, CRM automation, and data analytics, currently in the final semester of Computer Engineering. I lead a platform of 20+ FastAPI integration services that connects Zoho CRM with the academic systems of 15+ education clients across Latin America and Spain, and I build MarTech automations and admissions funnels for a marketing agency. My core value lies in leading system integrations and centralizing scattered business operations, turning raw data into information that supports better decisions.
+Backend and integration developer with 4+ years of experience, in the final semester of Computer Engineering. I own a platform of 20+ FastAPI services that keeps Zoho CRM in sync with the academic systems of 15+ education clients in Latin America and Spain, over SOAP, REST, SQL Server and FTP, and I built the observability stack that watches it. At a marketing agency I build admissions funnels, CRM automations and results APIs. I started as a data analyst in 2022, and I still design each integration around the decision its data supports. Case studies: [sebastianlopezo.page/en/projects](https://sebastianlopezo.page/en/projects).
 
-Driven by an insatiable curiosity and a strong commitment to continuous learning, my career is defined by a practical mindset and a constant search for solutions that generate a real impact. My academic and professional experiences have shaped me into a versatile individual, capable of tackling complex challenges through analytical thinking, creativity, and teamwork. I see engineering not just as mastering technical tools, but as the art of understanding complex systems, asking the right questions, and building sustainable, human-centered solutions.
+I also lead SmartPot, an IoT platform for hydroponic crops where 93% of the non-bot commits across its 11 repositories are mine, and I am the main contributor to GoPoli, a ride-sharing PWA for my university. Both are live, tested and deployed through GitHub Actions. Next come the end of my cybersecurity diploma in December 2026 and my graduation in March 2027.
 
 ## Work Experience
 
 **IT Manager & Backend Integration Lead** 
 : **TIVENOS – Solutions for Education** 
 : **Jun 2025 – Present | Remote**
-- Lead the backend and integration platform: 20+ FastAPI services (Python, uv, PostgreSQL) that synchronize Zoho CRM with the academic systems of 15+ education clients across Latin America and Spain.
-- Integrate student information systems and legacy platforms through REST, SOAP/WS-Security (Zeep), SQL Server readers over VPN, FTP exchanges, and webhooks, using Zoho OAuth and the Bulk API.
-- Ship every service as a hardened Docker image published to GHCR and deployed with Docker Compose through GitHub Actions on Linux servers with Nginx and SSL.
-- Built an observability stack with Prometheus, Grafana, Loki, Promtail, Tempo (OTLP), cAdvisor, and exporters, with alerts delivered to Telegram.
+- Own the backend and integration platform: 20+ FastAPI services (Python, uv, PostgreSQL) that keep Zoho CRM in sync with the academic systems of 15+ education clients in Latin America and Spain, so applicants, payments and enrollments move without manual entry.
+- Integrate student information systems and legacy platforms through REST, SOAP/WS-Security (Zeep), SQL Server readers over VPN, FTP exchanges and webhooks, using Zoho OAuth and the Bulk API. Long syncs run as background jobs that answer 202 Accepted and log every run in the CRM.
+- Ship every service as a hardened Docker image published to GHCR and deployed with Docker Compose through GitHub Actions on Linux servers, an Azure VM among them, behind Nginx with SSL.
+- Built the observability stack: OpenTelemetry traces from the FastAPI services to Tempo, metrics in Prometheus (cAdvisor and exporters), logs in Loki through Promtail, and Grafana with 4 dashboards, 18 uptime probes and 12 alert rules sent to Telegram.
+- Built the email signature service (FastAPI, Jinja2) for the group's five brands, with an audit of every brand and theme and a text fallback that holds up in desktop Outlook.
 - Develop Zoho CRM widgets, admissions and scholarship forms embedded in WordPress, a CRM snapshot service, Deluge automations, and Zoho Analytics dashboards written in SQL.
 - Manage IT operations and technical support for the team, defining coding, security, and deployment standards shared across services.
 
@@ -32,12 +33,12 @@ Driven by an insatiable curiosity and a strong commitment to continuous learning
 - Configure and customize Zoho CRM modules, workflows, and custom functions written in Deluge to automate sales and admissions operations.
 - Built 100+ admissions landing pages and microsites for higher-education campaigns, connected to Zoho Forms and Zoho CRM to capture and route leads.
 - Integrate WhatsApp, Meta Ads, and Google Ads with the CRM through REST APIs and webhooks, and build Zoho API and serverless automations.
-- Developed results APIs and an HTML template generator with Spring Boot and Thymeleaf for national lottery brands.
+- Developed results APIs and an HTML template generator with Spring Boot and Thymeleaf, and a daily results email sent through Amazon SES, for two national lottery brands.
 - Automated lead contact with AI agents in Dapta and built internal applications in Zoho Creator to digitize business processes.
-- Administer a VPS with Docker, Nginx, SSL, Prometheus, Nagios, and n8n to host internal tools and automations.
+- Since Jun 2025, administer a VPS with Docker, Nginx, SSL, Prometheus, Nagios and n8n that hosts internal tools and automations.
 
 **Backend Developer & Data Analyst** 
-: **MUV-U S.A.S** 
+: **MUV-U S.A.S (study-abroad agency)**
 : **Jul 2023 – Jan 2025 | Hybrid**
 - Built interactive Power BI reports for the finance, sales, and marketing areas using data modeling and DAX.
 - Audited, cleaned, and validated CRM data to enable reliable commercial and business analysis.
@@ -61,16 +62,21 @@ Driven by an insatiable curiosity and a strong commitment to continuous learning
 - **Data & BI:** **SQL**, **Power BI** (DAX), **Pandas**, NumPy, Zoho Analytics, Excel, ETL, and reporting automation.
 - **Databases:** **PostgreSQL**, **MySQL**/MariaDB, SQL Server, **MongoDB**, **Redis**, and SQLite.
 - **Frontend:** **React**, **TypeScript**, Next.js, Vite, **Tailwind CSS**, HTML, and CSS.
-- **DevOps & Observability:** **Docker** & Compose, **GitHub Actions**, GHCR, **Nginx**, **Linux**, Kubernetes manifests, Prometheus, Grafana, Loki, and Tempo.
+- **DevOps & Observability:** **Docker** & Compose, **GitHub Actions**, GHCR, **Nginx**, **Linux**, Kubernetes manifests, OpenTelemetry, Prometheus, Grafana, Loki, and Tempo.
 - **Machine Learning & AI:** scikit-learn, NLP, small language models, TinyML, Qwen2 integration, and RAG pipelines.
 - **Testing & QA:** **PyTest**, **JUnit**, Vitest, Postman, CodeQL, and Dependabot.
 - **IoT Engineering:** **ESP32**, **MicroPython**, MQTT over TLS, **C++**, Arduino, and Wokwi.
 - **SEO & Analytics:** Technical SEO, Google Search Console, and **GA4**.
-- **Languages:** Spanish (native) and English (full professional proficiency).
+- **Languages:** Spanish (native), English (professional working proficiency) and Portuguese (elementary).
 
 ## Academic Education
 
-**Computer Engineering (final semester)** 
+**Diploma in Cybersecurity (in progress)**
+: **Politécnico Colombiano Jaime Isaza Cadavid**
+: **Sep – Dec 2026**
+- Labs on the vulnerability analysis of an FTP service, a capture-the-flag exercise and the response to a cyberattack, with Kali Linux and Nmap.
+
+**Computer Engineering (final semester)**  
 : **Politécnico Colombiano Jaime Isaza Cadavid** 
 : **2022 – 2026 · Graduation Mar 2027**
 - Training in computer science, software engineering, hardware architecture, communication networks, operating systems, and artificial intelligence.
@@ -111,39 +117,39 @@ Driven by an insatiable curiosity and a strong commitment to continuous learning
 : **Platzi** 
 : **Aug 2024**
 
-**Advanced Excel** 
-: **Platzi** 
+**Excel Mastery (learning path)**
+: **Platzi**
 : **Jul 2024**
 
-**Advanced Excel & Data Analysis** 
-: **Platzi** 
+**Advanced Excel for Data Analysis**
+: **Platzi**
 : **Jun 2024**
 
-**Google Search Console for SEO** 
-: **Platzi** 
+**Google Search Console Fundamentals for SEO**
+: **Platzi**
 : **Jun 2024**
 
 **Green Digital Skills Certificate** 
 : **INCO Academy** 
 : **Mar 2024**
 
-**Data Science & AI – Engancha TIC** 
-: **Universidad de Antioquia** 
+**Data Science & AI – Engancha TIC 2.0**
+: **Universidad de Antioquia**
 : **Dec 2023**
 
-**Cybersecurity – Engancha TIC** 
-: **Universidad de Antioquia** 
+**Cybersecurity – Engancha TIC 2.0**
+: **Universidad de Antioquia**
 : **Dec 2023**
 
-**Data Analytics – Engancha TIC** 
-: **Universidad de Antioquia** 
+**Data Visualization – Engancha TIC 2.0**
+: **Universidad de Antioquia**
 : **Dec 2023**
 
-**Web Programming – Engancha TIC** 
-: **Universidad de Antioquia** 
+**Web Programming – Engancha TIC 2.0**
+: **Universidad de Antioquia**
 : **Dec 2023**
 
-**IoT Protocols** 
+**IoT: Communication Protocols**  
 : **Platzi** 
 : **Dec 2023**
 
@@ -155,8 +161,8 @@ Driven by an insatiable curiosity and a strong commitment to continuous learning
 : **Platzi** 
 : **Nov 2023**
 
-**Python Django 2** 
-: **Comfenalco Antioquia** 
+**Python Django 2**
+: **Sapiencia · Comfenalco Antioquia**
 : **Nov 2023**
 
 **Practical JavaScript** 
@@ -187,8 +193,8 @@ Driven by an insatiable curiosity and a strong commitment to continuous learning
 : **HackerRank** 
 : **Feb 2023**
 
-**Python-Django** 
-: **Comfenalco Antioquia** 
+**Python-Django**
+: **Sapiencia · Comfenalco Antioquia**
 : **Dec 2022**
 
 **Python (Basic)** 
@@ -203,12 +209,12 @@ Driven by an insatiable curiosity and a strong commitment to continuous learning
 : **HackerRank** 
 : **May 2022**
 
-**Programming Fundamentals** 
-: **Universidad Tecnológica de Pereira** 
+**Programming Fundamentals 1 & 2**
+: **Universidad Tecnológica de Pereira**  
 : **Dec 2021**
 
-**Python Programming** 
-: **Universidad EIA** 
+**Introduction to Programming in Python**
+: **Universidad EIA**  
 : **May 2021**
 
 **Introduction to HTML** 
@@ -218,19 +224,19 @@ Driven by an insatiable curiosity and a strong commitment to continuous learning
 ## Projects and Organizations
 
 **SmartPotTech (IoT platform for hydroponic crops)**
-- Lead developer of an IoT platform that monitors and automates hydroponic crops, organized as 11 repositories in a 5-member GitHub organization.
+- Lead developer of an IoT platform that monitors and automates hydroponic crops: 93% of the non-bot commits across the 11 repositories of a 5-member GitHub organization. Live at smartpot.app.
 - ESP32 firmware in MicroPython publishing over MQTT with TLS, a Spring Boot 4 API on Java 21 with MongoDB and Redis, an AI service with FastAPI and scikit-learn, and a React 19 + TypeScript PWA.
 - Containerized every service, published images to GHCR, and automated a serialized production deploy with Docker Compose and GitHub Actions.
 
 **GoPoli (ride-sharing for university students)**
-- Main contributor to a ride-sharing platform for Politécnico Colombiano Jaime Isaza Cadavid students.
+- Main contributor to a ride-sharing platform for Politécnico Colombiano Jaime Isaza Cadavid students, with 41 API tests, 18 web tests and a 31-step smoke test.
 - Next.js PWA with Leaflet maps and OSRM routing, a Spring Boot 4 REST API with JWT, and a PostgreSQL 16 schema, each shipped as a GHCR image.
 
 **PepperCRM (CRM product)**
 - Authored most of the backend of a CRM built by a team of four: Spring Boot API with Spring Security and JWT, MongoDB Atlas, Redis cache, and Swagger documentation.
 
 **MyPortfolio (personal brand)**
-- Bilingual React + TypeScript site with prerendered pages, structured data, role-based views for job applications, and a client-side profile assistant.
+- Bilingual React + TypeScript site with prerendered pages, five case studies, structured data, role-based views for job applications, and a client-side profile assistant.
 - Served from a hardened, unprivileged Nginx image on GHCR, deployed with Docker Compose.
 
 **EngineeringSebastian-s (Computer Engineering coursework)**

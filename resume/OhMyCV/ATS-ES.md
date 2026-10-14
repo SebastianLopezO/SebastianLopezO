@@ -10,18 +10,19 @@
 
 ## Perfil Profesional
 
-Desarrollador Backend y de Integraciones con más de 4 años de experiencia en desarrollo backend, automatización de CRM y analítica de datos, cursando el último semestre de Ingeniería Informática. Lidero una plataforma de más de 20 servicios de integración en FastAPI que conecta Zoho CRM con los sistemas académicos de más de 15 clientes educativos de Latinoamérica y España, y construyo automatizaciones MarTech y embudos de admisiones para una agencia de marketing. Mi valor diferencial radica en liderar la integración de sistemas y centralizar operaciones dispersas en ecosistemas unificados y eficientes, desde la API y el modelo de datos hasta el tablero y el servidor que lo ejecuta. Impulsado por una curiosidad insaciable y un alto grado de autonomía, busco construir soluciones escalables y centradas en las personas que reduzcan costos operativos y respalden decisiones basadas en datos.
+Desarrollador backend y de integraciones con más de 4 años de experiencia, en el último semestre de Ingeniería Informática. Opero una plataforma de más de 20 servicios en FastAPI que mantiene Zoho CRM sincronizado con los sistemas académicos de más de 15 clientes educativos de Latinoamérica y España, por SOAP, REST, SQL Server y FTP, y construí el stack de observabilidad que la vigila. En una agencia de marketing construyo embudos de admisiones, automatizaciones de CRM y APIs de resultados. Empecé como analista de datos en 2022 y sigo diseñando cada integración alrededor de la decisión que depende de sus datos. Casos de estudio: [sebastianlopezo.page/es/projects](https://sebastianlopezo.page/es/projects).
 
 ## Experiencia Laboral
 
 **IT Manager & Líder de Integraciones Backend** 
 : **TIVENOS** 
 : **Jun 2025 – Actualidad | Remoto**
-- Lidero más de 20 servicios de integración en FastAPI (Python, PostgreSQL) que sincronizan Zoho CRM.
-- Integro sistemas académicos mediante REST, SOAP/WS-Security (Zeep), SQL Server y FTP para 15+ clientes.
-- Publico imágenes Docker endurecidas en GHCR y las despliego con Compose y GitHub Actions en Linux.
-- Construí un stack de observabilidad con Prometheus, Grafana, Loki y Tempo, con alertas a Telegram.
-- Desarrollo widgets de Zoho CRM, formularios de admisión, automatizaciones Deluge y tableros en Zoho Analytics.
+- Opero más de 20 servicios de integración en FastAPI (Python, uv, PostgreSQL) que sincronizan Zoho CRM con los sistemas académicos de más de 15 clientes educativos, para que aspirantes, pagos y matrículas pasen sin digitación manual.
+- Integro sistemas académicos mediante REST, SOAP/WS-Security (Zeep), SQL Server sobre VPN y FTP. Las sincronizaciones largas corren como trabajos en segundo plano que responden 202 Accepted y dejan registro de cada corrida en el CRM.
+- Publico cada servicio como una imagen Docker endurecida en GHCR, desplegada con Compose mediante GitHub Actions en servidores Linux detrás de Nginx.
+- Construí el stack de observabilidad: trazas de OpenTelemetry en Tempo, Prometheus, Loki y Grafana con 4 tableros, 18 sondas de disponibilidad y 12 reglas de alerta que llegan a Telegram.
+- Construí el servicio de firmas de correo (FastAPI, Jinja2) para las cinco marcas del grupo, con un respaldo en texto que funciona en Outlook de escritorio.
+- Desarrollo widgets de Zoho CRM, formularios de admisión, automatizaciones en Deluge y tableros de Zoho Analytics en SQL.
 
 **Desarrollador CRM & MarTech** 
 : **ADCOM GROUP** 
@@ -29,11 +30,12 @@ Desarrollador Backend y de Integraciones con más de 4 años de experiencia en d
 - Configuro módulos, flujos y funciones Deluge en Zoho CRM para automatizar la operación comercial.
 - Construí más de 100 landing pages y micrositios de admisiones conectados a Zoho Forms y Zoho CRM.
 - Integro WhatsApp, Meta Ads y Google Ads con el CRM mediante APIs REST y webhooks.
-- Desarrollé APIs de resultados y generadores de plantillas con Spring Boot y Thymeleaf para loterías.
-- Automaticé el contacto de leads con agentes de IA en Dapta y apps internas en Zoho Creator.
+- Desarrollé APIs de resultados con Spring Boot y Thymeleaf y un correo diario de resultados por Amazon SES para dos marcas nacionales de lotería.
+- Automaticé el contacto de leads con agentes de IA en Dapta y construí aplicaciones internas en Zoho Creator.
+- Desde jun 2025 administro el VPS (Docker, Nginx, SSL, Prometheus, Nagios, n8n) donde corren las herramientas internas de la agencia.
 
 **Desarrollador Backend & Analista de Datos** 
-: **MUV-U S.A.S** 
+: **MUV-U S.A.S (agencia de estudios en el exterior)**
 : **Jul 2023 – Ene 2025 | Híbrido**
 - Construí informes en Power BI con DAX para las áreas financiera, comercial y de mercadeo.
 - Limpié y validé los datos del CRM para habilitar análisis comerciales y de negocio confiables.
@@ -50,20 +52,25 @@ Desarrollador Backend y de Integraciones con más de 4 años de experiencia en d
 
 ## Habilidades Técnicas 
 
-- **Backend & APIs:** **Python** (FastAPI, Django), **Java** (Spring Boot), **Node.js**, REST, SOAP (Zeep), Webhooks, JWT.
+- **Backend & APIs:** **Python** (FastAPI, Django), **Java** (Spring Boot), **Node.js**, REST, SOAP/WS-Security (Zeep), Webhooks, JWT.
 - **CRM & Automatización:** **Zoho CRM**, Zoho Creator, Zoho Analytics, **Deluge**, n8n, Zapier y Dapta.
 - **Datos & BI:** **SQL**, **Power BI** (DAX), **Pandas**, Zoho Analytics, ETL y automatización de reportes.
 - **Bases de Datos:** **PostgreSQL**, **MySQL**, SQL Server, **MongoDB** y **Redis**.
 - **Frontend:** **React**, **TypeScript**, Next.js, Vite y **Tailwind CSS**.
-- **DevOps & Observabilidad:** **Docker** & Compose, **GitHub Actions**, GHCR, **Nginx**, **Linux**, Prometheus, Grafana.
+- **DevOps & Observabilidad:** **Docker** & Compose, **GitHub Actions**, GHCR, **Nginx**, **Linux**, OpenTelemetry, Prometheus, Loki, Tempo, Grafana.
 - **Testing & QA:** **PyTest**, **JUnit**, Vitest y validación de APIs en **Postman**.
 - **Ingeniería IoT:** **ESP32**, **MicroPython**, MQTT sobre TLS y **C++**.
 - **SEO & Analítica:** SEO técnico, Google Search Console y **GA4**.
-- **Idiomas:** Español (nativo) e inglés (competencia profesional completa).
+- **Idiomas:** Español (nativo), inglés (competencia profesional de trabajo) y portugués (básico).
 
 ## Educación
 
-**Ingeniería Informática (último semestre)** 
+**Diplomado en Ciberseguridad (en curso)**
+: **Politécnico Colombiano Jaime Isaza Cadavid**
+: **Sep – Dic 2026**
+- Laboratorios de análisis de vulnerabilidades de un servicio FTP, un ejercicio de captura de la bandera (CTF) y la respuesta a un ciberataque, con Kali Linux y Nmap.
+
+**Ingeniería Informática (último semestre)**  
 : **Politécnico Colombiano Jaime Isaza Cadavid** 
 : **2022 – 2026 · Grado Mar 2027**
 - Formación en ciencias de la computación, ingeniería de software, inteligencia artificial, redes y sistemas operativos.
@@ -87,30 +94,30 @@ Desarrollador Backend y de Integraciones con más de 4 años de experiencia en d
 
 ## Certificaciones Destacadas
 
-**IT Specialist – Python** 
-: **Certiport** 
+**IT Specialist – Python**
+: **Certiport – Pearson VUE**
 : **Nov 2023**
 
-**DAX para Power BI** 
-: **Platzi** 
+**Curso de DAX para Power BI**
+: **Platzi**
 : **Sep 2024**
 
-**Green Digital Skills** 
-: **INCO Academy** 
-: **Mar 2024**
+**Problem Solving (Basic)**
+: **HackerRank**
+: **Mar 2023**
 
-**Data Science & AI – Engancha TIC** 
-: **Universidad de Antioquia** 
+**Data Science & AI – Engancha TIC 2.0**
+: **Universidad de Antioquia**
 : **Dic 2023**
 
-**Ciberseguridad – Engancha TIC** 
-: **Universidad de Antioquia** 
+**Ciberseguridad – Engancha TIC 2.0**
+: **Universidad de Antioquia**
 : **Dic 2023**
 
-**Python Django 2** 
-: **Comfenalco Antioquia** 
+**Python Django 2**
+: **Sapiencia · Comfenalco Antioquia**
 : **Nov 2023**
 
-**Protocolos de IoT** 
-: **Platzi** 
+**Curso de IoT: Protocolos de Comunicación**
+: **Platzi**
 : **Dic 2023**

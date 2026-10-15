@@ -8,11 +8,11 @@
   : <span class="iconify" data-icon="tabler:phone"></span> [+57 300 232 9213](https://wa.me/573002329213)
   : <span class="iconify" data-icon="ic:outline-location-on"></span> Medellín, Colombia
 
-## Perfil Profesional
+## Perfil profesional
 
 Desarrollador backend y de integraciones con más de 4 años de experiencia, en el último semestre de Ingeniería Informática. Opero una plataforma de más de 20 servicios en FastAPI que mantiene Zoho CRM sincronizado con los sistemas académicos de más de 15 clientes educativos de Latinoamérica y España, por SOAP, REST, SQL Server y FTP, y construí el stack de observabilidad que la vigila. En una agencia de marketing construyo embudos de admisiones, automatizaciones de CRM y APIs de resultados. Empecé en 2022 como analista de datos, así que antes de construir una integración reviso qué decisión depende de sus datos. Casos de estudio: [sebastianlopezo.page/es/projects](https://sebastianlopezo.page/es/projects).
 
-## Experiencia Laboral
+## Experiencia laboral
 
 **IT Manager & Líder de Integraciones Backend** 
 : **TIVENOS** 
@@ -50,7 +50,7 @@ Desarrollador backend y de integraciones con más de 4 años de experiencia, en 
 - Construí reportes visuales de recaudo y movilidad para la gerencia.
 - Preparé y transformé datos (ETL) para análisis y el seguimiento periódico de KPIs.
 
-## Habilidades Técnicas 
+## Habilidades técnicas 
 
 - **Backend & APIs:** **Python** (FastAPI, Django), **Java** (Spring Boot), **Node.js**, REST, SOAP/WS-Security (Zeep), Webhooks, JWT.
 - **CRM & Automatización:** **Zoho CRM**, Zoho Creator, Zoho Analytics, **Deluge**, n8n, Zapier y Dapta.
@@ -92,7 +92,7 @@ Desarrollador backend y de integraciones con más de 4 años de experiencia, en 
 : **2019 – 2021**
 - Formación técnica en fundamentos de computación, algoritmia y diseño web.
 
-## Certificaciones Destacadas
+## Certificaciones destacadas
 
 **IT Specialist – Python**
 : **Certiport – Pearson VUE**

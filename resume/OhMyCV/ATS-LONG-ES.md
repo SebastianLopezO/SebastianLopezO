@@ -8,13 +8,13 @@
   : <span class="iconify" data-icon="tabler:phone"></span> [+57 300 232 9213](https://wa.me/573002329213)
   : <span class="iconify" data-icon="ic:outline-location-on"></span> Medellín, Colombia
 
-## Perfil Profesional
+## Perfil profesional
 
 Desarrollador backend y de integraciones con más de 4 años de experiencia, en el último semestre de Ingeniería Informática. Opero una plataforma de más de 20 servicios en FastAPI que mantiene Zoho CRM sincronizado con los sistemas académicos de más de 15 clientes educativos de Latinoamérica y España, por SOAP, REST, SQL Server y FTP, y construí el stack de observabilidad que la vigila. En una agencia de marketing construyo embudos de admisiones, automatizaciones de CRM y APIs de resultados. Empecé en 2022 como analista de datos, así que antes de construir una integración reviso qué decisión depende de sus datos. Casos de estudio: [sebastianlopezo.page/es/projects](https://sebastianlopezo.page/es/projects).
 
 También lidero SmartPot, una plataforma IoT para cultivos hidropónicos donde el 93 % de los commits sin bots de sus 11 repositorios son míos, y soy el principal contribuidor de GoPoli, una PWA de viajes compartidos para mi universidad. Las dos están en producción, con pruebas automatizadas y despliegues por GitHub Actions. Lo que sigue: terminar el diplomado en ciberseguridad en diciembre de 2026 y graduarme en marzo de 2027.
 
-## Experiencia Laboral
+## Experiencia laboral
 
 **IT Manager & Líder de Integraciones Backend** 
 : **TIVENOS – Soluciones para la Educación** 
@@ -55,7 +55,7 @@ También lidero SmartPot, una plataforma IoT para cultivos hidropónicos donde e
 - Diseñé tableros de KPIs para los procesos de recaudo y movilidad.
 - Implementé rutinas de extracción y limpieza de datos con consultas SQL sobre bases de datos relacionales.
 
-## Habilidades Técnicas
+## Habilidades técnicas
 
 - **Backend & APIs:** **Python** (FastAPI, Django), **Java** (Spring Boot, Spring Security), **Node.js**, PHP (Laravel), REST, SOAP/WSDL (Zeep), Webhooks, JWT y OpenAPI.
 - **CRM & Automatización:** **Zoho CRM**, Zoho Creator, Zoho Analytics, Zoho Forms, **Deluge**, n8n, Zapier, Dapta y Google Apps Script.
@@ -69,7 +69,7 @@ También lidero SmartPot, una plataforma IoT para cultivos hidropónicos donde e
 - **SEO & Analítica:** SEO técnico, Google Search Console y **GA4**.
 - **Idiomas:** Español (nativo), inglés (competencia profesional de trabajo) y portugués (básico).
 
-## Educación Académica
+## Educación académica
 
 **Diplomado en Ciberseguridad (en curso)**
 : **Politécnico Colombiano Jaime Isaza Cadavid**
@@ -221,7 +221,7 @@ También lidero SmartPot, una plataforma IoT para cultivos hidropónicos donde e
 : **Coursera** 
 : **Dic 2020**
 
-## Proyectos y Organizaciones
+## Proyectos y organizaciones
 
 **SmartPotTech (plataforma IoT para cultivos hidropónicos)**
 - Desarrollador líder de una plataforma IoT que monitorea y automatiza cultivos hidropónicos: el 93 % de los commits sin bots de los 11 repositorios de una organización de GitHub de 5 miembros. En línea en smartpot.app.

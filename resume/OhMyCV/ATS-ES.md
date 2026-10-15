@@ -10,7 +10,7 @@
 
 ## Perfil Profesional
 
-Desarrollador backend y de integraciones con más de 4 años de experiencia, en el último semestre de Ingeniería Informática. Opero una plataforma de más de 20 servicios en FastAPI que mantiene Zoho CRM sincronizado con los sistemas académicos de más de 15 clientes educativos de Latinoamérica y España, por SOAP, REST, SQL Server y FTP, y construí el stack de observabilidad que la vigila. En una agencia de marketing construyo embudos de admisiones, automatizaciones de CRM y APIs de resultados. Empecé como analista de datos en 2022 y sigo diseñando cada integración alrededor de la decisión que depende de sus datos. Casos de estudio: [sebastianlopezo.page/es/projects](https://sebastianlopezo.page/es/projects).
+Desarrollador backend y de integraciones con más de 4 años de experiencia, en el último semestre de Ingeniería Informática. Opero una plataforma de más de 20 servicios en FastAPI que mantiene Zoho CRM sincronizado con los sistemas académicos de más de 15 clientes educativos de Latinoamérica y España, por SOAP, REST, SQL Server y FTP, y construí el stack de observabilidad que la vigila. En una agencia de marketing construyo embudos de admisiones, automatizaciones de CRM y APIs de resultados. Empecé en 2022 como analista de datos, así que antes de construir una integración reviso qué decisión depende de sus datos. Casos de estudio: [sebastianlopezo.page/es/projects](https://sebastianlopezo.page/es/projects).
 
 ## Experiencia Laboral
 
@@ -20,7 +20,7 @@ Desarrollador backend y de integraciones con más de 4 años de experiencia, en 
 - Opero más de 20 servicios de integración en FastAPI (Python, uv, PostgreSQL) que sincronizan Zoho CRM con los sistemas académicos de más de 15 clientes educativos, para que aspirantes, pagos y matrículas pasen sin digitación manual.
 - Integro sistemas académicos mediante REST, SOAP/WS-Security (Zeep), SQL Server sobre VPN y FTP. Las sincronizaciones largas corren como trabajos en segundo plano que responden 202 Accepted y dejan registro de cada corrida en el CRM.
 - Publico cada servicio como una imagen Docker endurecida en GHCR, desplegada con Compose mediante GitHub Actions en servidores Linux detrás de Nginx.
-- Construí el stack de observabilidad: trazas de OpenTelemetry en Tempo, Prometheus, Loki y Grafana con 4 tableros, 18 sondas de disponibilidad y 12 reglas de alerta que llegan a Telegram.
+- Construí el stack de observabilidad: trazas de OpenTelemetry en Tempo, métricas en Prometheus, logs en Loki y Grafana con 4 tableros, 18 sondas de disponibilidad y 12 reglas de alerta que llegan a Telegram.
 - Construí el servicio de firmas de correo (FastAPI, Jinja2) para las cinco marcas del grupo, con un respaldo en texto que funciona en Outlook de escritorio.
 - Desarrollo widgets de Zoho CRM, formularios de admisión, automatizaciones en Deluge y tableros de Zoho Analytics en SQL.
 
@@ -30,7 +30,7 @@ Desarrollador backend y de integraciones con más de 4 años de experiencia, en 
 - Configuro módulos, flujos y funciones Deluge en Zoho CRM para automatizar la operación comercial.
 - Construí más de 100 landing pages y micrositios de admisiones conectados a Zoho Forms y Zoho CRM.
 - Integro WhatsApp, Meta Ads y Google Ads con el CRM mediante APIs REST y webhooks.
-- Desarrollé APIs de resultados con Spring Boot y Thymeleaf y un correo diario de resultados por Amazon SES para dos marcas nacionales de lotería.
+- Para dos marcas nacionales de lotería construí APIs de resultados con Spring Boot y Thymeleaf y un correo diario de resultados enviado por Amazon SES.
 - Automaticé el contacto de leads con agentes de IA en Dapta y construí aplicaciones internas en Zoho Creator.
 - Desde jun 2025 administro el VPS (Docker, Nginx, SSL, Prometheus, Nagios, n8n) donde corren las herramientas internas de la agencia.
 
@@ -38,7 +38,7 @@ Desarrollador backend y de integraciones con más de 4 años de experiencia, en 
 : **MUV-U S.A.S (agencia de estudios en el exterior)**
 : **Jul 2023 – Ene 2025 | Híbrido**
 - Construí informes en Power BI con DAX para las áreas financiera, comercial y de mercadeo.
-- Limpié y validé los datos del CRM para habilitar análisis comerciales y de negocio confiables.
+- Limpié y validé los datos del CRM en los que se apoyaba el análisis comercial.
 - Automaticé operaciones repetitivas del CRM para reducir la carga manual del equipo comercial.
 - Diseñé la arquitectura de datos entrante y desarrollé componentes web para la plataforma de la empresa.
 - Administré servidores e infraestructura TI y brindé soporte técnico a los usuarios internos.
@@ -47,8 +47,8 @@ Desarrollador backend y de integraciones con más de 4 años de experiencia, en 
 : **Quipux S.A.S** 
 : **Ago 2022 – May 2023 | Híbrido**
 - Automaticé rutinas de extracción, limpieza y reportes de datos con scripts en Python y consultas SQL.
-- Construí reportes visuales de recaudo y movilidad para respaldar la toma de decisiones gerenciales.
-- Preparé y transformé datos (ETL) para análisis estratégicos y el seguimiento periódico de KPIs.
+- Construí reportes visuales de recaudo y movilidad para la gerencia.
+- Preparé y transformé datos (ETL) para análisis y el seguimiento periódico de KPIs.
 
 ## Habilidades Técnicas 
 

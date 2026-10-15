@@ -10,9 +10,9 @@
 
 ## Perfil Profesional
 
-Desarrollador backend y de integraciones con más de 4 años de experiencia, en el último semestre de Ingeniería Informática. Opero una plataforma de más de 20 servicios en FastAPI que mantiene Zoho CRM sincronizado con los sistemas académicos de más de 15 clientes educativos de Latinoamérica y España, por SOAP, REST, SQL Server y FTP, y construí el stack de observabilidad que la vigila. En una agencia de marketing construyo embudos de admisiones, automatizaciones de CRM y APIs de resultados. Empecé como analista de datos en 2022 y sigo diseñando cada integración alrededor de la decisión que depende de sus datos. Casos de estudio: [sebastianlopezo.page/es/projects](https://sebastianlopezo.page/es/projects).
+Desarrollador backend y de integraciones con más de 4 años de experiencia, en el último semestre de Ingeniería Informática. Opero una plataforma de más de 20 servicios en FastAPI que mantiene Zoho CRM sincronizado con los sistemas académicos de más de 15 clientes educativos de Latinoamérica y España, por SOAP, REST, SQL Server y FTP, y construí el stack de observabilidad que la vigila. En una agencia de marketing construyo embudos de admisiones, automatizaciones de CRM y APIs de resultados. Empecé en 2022 como analista de datos, así que antes de construir una integración reviso qué decisión depende de sus datos. Casos de estudio: [sebastianlopezo.page/es/projects](https://sebastianlopezo.page/es/projects).
 
-También lidero SmartPot, una plataforma IoT para cultivos hidropónicos donde el 93 % de los commits sin bots de sus 11 repositorios son míos, y soy el principal contribuidor de GoPoli, una PWA de viajes compartidos para mi universidad. Las dos están en línea, tienen pruebas y se despliegan con GitHub Actions. Lo que sigue: terminar el diplomado en ciberseguridad en diciembre de 2026 y graduarme en marzo de 2027.
+También lidero SmartPot, una plataforma IoT para cultivos hidropónicos donde el 93 % de los commits sin bots de sus 11 repositorios son míos, y soy el principal contribuidor de GoPoli, una PWA de viajes compartidos para mi universidad. Las dos están en producción, con pruebas automatizadas y despliegues por GitHub Actions. Lo que sigue: terminar el diplomado en ciberseguridad en diciembre de 2026 y graduarme en marzo de 2027.
 
 ## Experiencia Laboral
 
@@ -25,7 +25,7 @@ También lidero SmartPot, una plataforma IoT para cultivos hidropónicos donde e
 - Construí el stack de observabilidad: trazas de OpenTelemetry desde los servicios FastAPI hasta Tempo, métricas en Prometheus (cAdvisor y exporters), logs en Loki con Promtail y Grafana con 4 tableros, 18 sondas de disponibilidad y 12 reglas de alerta que llegan a Telegram.
 - Construí el servicio de firmas de correo (FastAPI, Jinja2) para las cinco marcas del grupo, con una auditoría de cada marca y tema y un respaldo en texto que funciona en Outlook de escritorio.
 - Desarrollo widgets de Zoho CRM, formularios de admisión y becas integrados en WordPress, un servicio de snapshots del CRM, automatizaciones en Deluge y tableros de Zoho Analytics escritos en SQL.
-- Gestiono la operación de TI y el soporte técnico del equipo, definiendo estándares de código, seguridad y despliegue compartidos entre servicios.
+- Gestiono la operación de TI y el soporte técnico del equipo, y defino los estándares de código, seguridad y despliegue que comparten los servicios.
 
 **Desarrollador CRM & MarTech** 
 : **ADCOM GROUP** 
@@ -33,16 +33,16 @@ También lidero SmartPot, una plataforma IoT para cultivos hidropónicos donde e
 - Configuro y personalizo módulos, flujos de trabajo y funciones personalizadas de Zoho CRM escritas en Deluge para automatizar la operación comercial y de admisiones.
 - Construí más de 100 landing pages y micrositios de admisiones para campañas de educación superior, conectados a Zoho Forms y Zoho CRM para capturar y enrutar leads.
 - Integro WhatsApp, Meta Ads y Google Ads con el CRM mediante APIs REST y webhooks, y construyo automatizaciones serverless sobre la API de Zoho.
-- Desarrollé APIs de resultados y un generador de plantillas HTML con Spring Boot y Thymeleaf, y un correo diario de resultados enviado por Amazon SES, para dos marcas nacionales de lotería.
-- Automaticé el contacto de leads con agentes de IA en Dapta y construí aplicaciones internas en Zoho Creator para digitalizar procesos de negocio.
+- Para dos marcas nacionales de lotería construí APIs de resultados y un generador de plantillas HTML con Spring Boot y Thymeleaf, y un correo diario de resultados enviado por Amazon SES.
+- Automaticé el contacto de leads con agentes de IA en Dapta y construí aplicaciones internas en Zoho Creator.
 - Desde jun 2025 administro un VPS con Docker, Nginx, SSL, Prometheus, Nagios y n8n que aloja herramientas internas y automatizaciones.
 
 **Desarrollador Backend & Analista de Datos** 
 : **MUV-U S.A.S (agencia de estudios en el exterior)**
 : **Jul 2023 – Ene 2025 | Híbrido**
 - Construí reportes interactivos en Power BI para las áreas financiera, comercial y de mercadeo, usando modelado de datos y DAX.
-- Audité, limpié y validé los datos del CRM para habilitar análisis comerciales y de negocio confiables.
-- Automaticé operaciones repetitivas del CRM para reducir la carga manual y mejorar la productividad del equipo comercial.
+- Audité, limpié y validé los datos del CRM en los que se apoyaba el análisis comercial.
+- Automaticé operaciones repetitivas del CRM para reducir el trabajo manual del equipo comercial.
 - Diseñé la arquitectura de datos entrante para capturar, normalizar y transformar la información dentro del CRM.
 - Desarrollé componentes web e integraciones de servicios para la plataforma web principal de la empresa.
 - Administré servidores cloud e infraestructura TI y brindé soporte técnico a los usuarios internos.
@@ -52,7 +52,7 @@ También lidero SmartPot, una plataforma IoT para cultivos hidropónicos donde e
 : **Ago 2022 – May 2023 | Híbrido**
 - Construí rutinas ETL para limpiar, transformar y cargar datos destinados a informes gerenciales.
 - Automaticé procesos de datos y reportes periódicos con scripts en Python y herramientas de BI.
-- Diseñé tableros para el seguimiento de KPIs y la toma de decisiones en procesos de recaudo y movilidad.
+- Diseñé tableros de KPIs para los procesos de recaudo y movilidad.
 - Implementé rutinas de extracción y limpieza de datos con consultas SQL sobre bases de datos relacionales.
 
 ## Habilidades Técnicas

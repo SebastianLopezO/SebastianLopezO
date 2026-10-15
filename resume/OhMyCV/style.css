@@ -75,6 +75,13 @@
   /* Si solo hay 2 elementos en la lista, el 2do se irá a la derecha */
 }
 
+/* Filas de contacto: el correo no cabe en un tercio del ancho y dejaba su ícono solo en una línea.
+   Las dos filas usan la misma proporción para que sus columnas sigan alineadas. */
+#resume-preview dl:has(a[href^="mailto:"]) dt,
+#resume-preview dl:has(a[href*="linkedin.com"]) dt {
+  flex: 1.2;
+}
+
 /* Ajuste fino para los íconos SVG */
 #resume-preview svg.iconify {
   vertical-align: -0.2em;

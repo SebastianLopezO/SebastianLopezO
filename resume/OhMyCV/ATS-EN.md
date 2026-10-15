@@ -10,18 +10,19 @@
 
 ## Professional Profile
 
-Backend & Integration Developer with 4+ years of experience across backend development, CRM automation, and data analytics, currently in the final semester of Computer Engineering. I lead a platform of 20+ FastAPI integration services that connects Zoho CRM with the academic systems of 15+ education clients across Latin America and Spain, and I build MarTech automations and admissions funnels for a marketing agency. My core value lies in leading system integrations and centralizing scattered business operations into unified, efficient ecosystems, from the API and the data model to the dashboard and the server that runs it. Driven by an insatiable curiosity and a high degree of autonomy, I aim to build scalable, human-centered solutions that reduce operational costs and support data-driven decisions.
+Backend and integration developer with 4+ years of experience, in the final semester of Computer Engineering. I own a platform of 20+ FastAPI services that keeps Zoho CRM in sync with the academic systems of 15+ education clients in Latin America and Spain, over SOAP, REST, SQL Server and FTP, and I built the observability stack that watches it. At a marketing agency I build admissions funnels, CRM automations and results APIs. I started as a data analyst in 2022, and I still design each integration around the decision its data supports. Case studies: [sebastianlopezo.page/en/projects](https://sebastianlopezo.page/en/projects).
 
 ## Work Experience
 
 **IT Manager & Backend Integration Lead** 
 : **TIVENOS** 
 : **Jun 2025 – Present | Remote**
-- Lead 20+ FastAPI integration services (Python, PostgreSQL) that sync Zoho CRM for 15+ education clients.
-- Integrate student information systems through REST, SOAP/WS-Security (Zeep), SQL Server, and FTP.
-- Ship hardened Docker images to GHCR and deploy them with Compose and GitHub Actions on Linux servers.
-- Built an observability stack with Prometheus, Grafana, Loki, and Tempo, with alerts delivered to Telegram.
-- Develop Zoho CRM widgets, admissions forms, Deluge automations, and Zoho Analytics dashboards in SQL.
+- Own 20+ FastAPI integration services (Python, uv, PostgreSQL) that sync Zoho CRM with the academic systems of 15+ education clients, so applicants, payments and enrollments move without manual entry.
+- Integrate student information systems through REST, SOAP/WS-Security (Zeep), SQL Server over VPN and FTP. Long syncs run as background jobs that answer 202 Accepted and log each run in the CRM.
+- Ship every service as a hardened Docker image on GHCR, deployed with Compose through GitHub Actions on Linux servers behind Nginx.
+- Built the observability stack: OpenTelemetry traces in Tempo, Prometheus, Loki and Grafana with 4 dashboards, 18 uptime probes and 12 alert rules sent to Telegram.
+- Built the email signature service (FastAPI, Jinja2) for the group's five brands, with a text fallback that holds up in desktop Outlook.
+- Develop Zoho CRM widgets, admissions forms, Deluge automations and Zoho Analytics dashboards in SQL.
 
 **CRM & MarTech Developer** 
 : **ADCOM GROUP** 
@@ -29,11 +30,12 @@ Backend & Integration Developer with 4+ years of experience across backend devel
 - Configure Zoho CRM modules, workflows, and custom Deluge functions to automate sales operations.
 - Built 100+ admissions landing pages and microsites connected to Zoho Forms and Zoho CRM.
 - Integrate WhatsApp, Meta Ads, and Google Ads with the CRM through REST APIs and webhooks.
-- Developed results APIs and template generators with Spring Boot and Thymeleaf for lottery brands.
+- Developed results APIs with Spring Boot and Thymeleaf and a daily results email through Amazon SES for two national lottery brands.
 - Automated lead contact with AI agents in Dapta and built internal applications in Zoho Creator.
+- Since Jun 2025, administer the VPS (Docker, Nginx, SSL, Prometheus, Nagios, n8n) that hosts the agency's internal tools.
 
 **Backend Developer & Data Analyst** 
-: **MUV-U S.A.S** 
+: **MUV-U S.A.S (study-abroad agency)**
 : **Jul 2023 – Jan 2025 | Hybrid**
 - Built Power BI reports with DAX for the finance, sales, and marketing areas.
 - Cleaned and validated CRM data to enable reliable commercial and business analysis.
@@ -50,20 +52,25 @@ Backend & Integration Developer with 4+ years of experience across backend devel
 
 ## Technical Skills 
 
-- **Backend & APIs:** **Python** (FastAPI, Django), **Java** (Spring Boot), **Node.js**, REST, SOAP (Zeep), Webhooks, JWT.
+- **Backend & APIs:** **Python** (FastAPI, Django), **Java** (Spring Boot), **Node.js**, REST, SOAP/WS-Security (Zeep), Webhooks, JWT.
 - **CRM & Automation:** **Zoho CRM**, Zoho Creator, Zoho Analytics, **Deluge**, n8n, Zapier, and Dapta.
 - **Data & BI:** **SQL**, **Power BI** (DAX), **Pandas**, Zoho Analytics, ETL, and reporting automation.
 - **Databases:** **PostgreSQL**, **MySQL**, SQL Server, **MongoDB**, and **Redis**.
 - **Frontend:** **React**, **TypeScript**, Next.js, Vite, and **Tailwind CSS**.
-- **DevOps & Observability:** **Docker** & Compose, **GitHub Actions**, GHCR, **Nginx**, **Linux**, Prometheus, Grafana.
+- **DevOps & Observability:** **Docker** & Compose, **GitHub Actions**, GHCR, **Nginx**, **Linux**, OpenTelemetry, Prometheus, Loki, Tempo, Grafana.
 - **Testing & QA:** **PyTest**, **JUnit**, Vitest, and API validation in **Postman**.
 - **IoT Engineering:** **ESP32**, **MicroPython**, MQTT over TLS, and **C++**.
 - **SEO & Analytics:** Technical SEO, Google Search Console, and **GA4**.
-- **Languages:** Spanish (native) and English (full professional proficiency).
+- **Languages:** Spanish (native), English (professional working proficiency) and Portuguese (elementary).
 
 ## Education
 
-**Computer Engineering (final semester)** 
+**Diploma in Cybersecurity (in progress)**
+: **Politécnico Colombiano Jaime Isaza Cadavid**
+: **Sep – Dec 2026**
+- Labs on the vulnerability analysis of an FTP service, a capture-the-flag exercise and the response to a cyberattack, with Kali Linux and Nmap.
+
+**Computer Engineering (final semester)**  
 : **Politécnico Colombiano Jaime Isaza Cadavid** 
 : **2022 – 2026 · Graduation Mar 2027**
 - Training in computer science, software engineering, artificial intelligence, networks, and operating systems.
@@ -87,30 +94,30 @@ Backend & Integration Developer with 4+ years of experience across backend devel
 
 ## Key Certifications
 
-**IT Specialist – Python** 
-: **Certiport** 
+**IT Specialist – Python**
+: **Certiport – Pearson VUE**
 : **Nov 2023**
 
-**DAX for Power BI** 
-: **Platzi** 
+**DAX for Power BI**
+: **Platzi**
 : **Sep 2024**
 
-**Green Digital Skills** 
-: **INCO Academy** 
-: **Mar 2024**
+**Problem Solving (Basic)**
+: **HackerRank**
+: **Mar 2023**
 
-**Data Science & AI – Engancha TIC** 
-: **Universidad de Antioquia** 
+**Data Science & AI – Engancha TIC 2.0**
+: **Universidad de Antioquia**
 : **Dec 2023**
 
-**Cybersecurity – Engancha TIC** 
-: **Universidad de Antioquia** 
+**Cybersecurity – Engancha TIC 2.0**
+: **Universidad de Antioquia**
 : **Dec 2023**
 
-**Python Django 2** 
-: **Comfenalco Antioquia** 
+**Python Django 2**
+: **Sapiencia · Comfenalco Antioquia**
 : **Nov 2023**
 
-**IoT Protocols** 
-: **Platzi** 
+**IoT: Communication Protocols**
+: **Platzi**
 : **Dec 2023**

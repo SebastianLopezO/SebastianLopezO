@@ -10,22 +10,22 @@
 
 ## Professional Profile
 
-Backend and integration developer with 4+ years of experience, in the final semester of Computer Engineering. I own a platform of 20+ FastAPI services that keeps Zoho CRM in sync with the academic systems of 15+ education clients in Latin America and Spain, over SOAP, REST, SQL Server and FTP, and I built the observability stack that watches it. At a marketing agency I build admissions funnels, CRM automations and results APIs. I started as a data analyst in 2022, and I still design each integration around the decision its data supports. Case studies: [sebastianlopezo.page/en/projects](https://sebastianlopezo.page/en/projects).
+Backend and integration developer with 4+ years of experience, in the final semester of Computer Engineering. I own a platform of 20+ FastAPI services that keeps Zoho CRM in sync with the academic systems of 15+ education clients in Latin America and Spain, over SOAP, REST, SQL Server, and FTP, and I built the observability stack that watches it. At a marketing agency I build admissions funnels, CRM automations, and results APIs. I started in 2022 as a data analyst, so before I build an integration I check which decision depends on its data. Case studies: [sebastianlopezo.page/en/projects](https://sebastianlopezo.page/en/projects).
 
-I also lead SmartPot, an IoT platform for hydroponic crops where 93% of the non-bot commits across its 11 repositories are mine, and I am the main contributor to GoPoli, a ride-sharing PWA for my university. Both are live, tested and deployed through GitHub Actions. Next come the end of my cybersecurity diploma in December 2026 and my graduation in March 2027.
+I also lead SmartPot, an IoT platform for hydroponic crops where 93% of the non-bot commits across its 11 repositories are mine, and I am the main contributor to GoPoli, a ride-sharing PWA for my university. Both run in production, with automated tests and deployments through GitHub Actions. Next come the end of my cybersecurity diploma in December 2026 and my graduation in March 2027.
 
 ## Work Experience
 
 **IT Manager & Backend Integration Lead** 
 : **TIVENOS – Solutions for Education** 
 : **Jun 2025 – Present | Remote**
-- Own the backend and integration platform: 20+ FastAPI services (Python, uv, PostgreSQL) that keep Zoho CRM in sync with the academic systems of 15+ education clients in Latin America and Spain, so applicants, payments and enrollments move without manual entry.
+- Own the backend and integration platform: 20+ FastAPI services (Python, uv, PostgreSQL) that keep Zoho CRM in sync with the academic systems of 15+ education clients in Latin America and Spain, so applicants, payments, and enrollments move without manual entry.
 - Integrate student information systems and legacy platforms through REST, SOAP/WS-Security (Zeep), SQL Server readers over VPN, FTP exchanges and webhooks, using Zoho OAuth and the Bulk API. Long syncs run as background jobs that answer 202 Accepted and log every run in the CRM.
 - Ship every service as a hardened Docker image published to GHCR and deployed with Docker Compose through GitHub Actions on Linux servers, an Azure VM among them, behind Nginx with SSL.
-- Built the observability stack: OpenTelemetry traces from the FastAPI services to Tempo, metrics in Prometheus (cAdvisor and exporters), logs in Loki through Promtail, and Grafana with 4 dashboards, 18 uptime probes and 12 alert rules sent to Telegram.
+- Built the observability stack: OpenTelemetry traces from the FastAPI services to Tempo, metrics in Prometheus (cAdvisor and exporters), logs in Loki through Promtail, and Grafana with 4 dashboards, 18 uptime probes, and 12 alert rules sent to Telegram.
 - Built the email signature service (FastAPI, Jinja2) for the group's five brands, with an audit of every brand and theme and a text fallback that holds up in desktop Outlook.
 - Develop Zoho CRM widgets, admissions and scholarship forms embedded in WordPress, a CRM snapshot service, Deluge automations, and Zoho Analytics dashboards written in SQL.
-- Manage IT operations and technical support for the team, defining coding, security, and deployment standards shared across services.
+- Manage IT operations and technical support for the team, and define the coding, security, and deployment standards that all services share.
 
 **CRM & MarTech Developer** 
 : **ADCOM GROUP** 
@@ -33,16 +33,16 @@ I also lead SmartPot, an IoT platform for hydroponic crops where 93% of the non-
 - Configure and customize Zoho CRM modules, workflows, and custom functions written in Deluge to automate sales and admissions operations.
 - Built 100+ admissions landing pages and microsites for higher-education campaigns, connected to Zoho Forms and Zoho CRM to capture and route leads.
 - Integrate WhatsApp, Meta Ads, and Google Ads with the CRM through REST APIs and webhooks, and build Zoho API and serverless automations.
-- Developed results APIs and an HTML template generator with Spring Boot and Thymeleaf, and a daily results email sent through Amazon SES, for two national lottery brands.
-- Automated lead contact with AI agents in Dapta and built internal applications in Zoho Creator to digitize business processes.
-- Since Jun 2025, administer a VPS with Docker, Nginx, SSL, Prometheus, Nagios and n8n that hosts internal tools and automations.
+- For two national lottery brands, built results APIs and an HTML template generator with Spring Boot and Thymeleaf, and a daily results email sent through Amazon SES.
+- Automated lead contact with AI agents in Dapta and built internal applications in Zoho Creator.
+- Since Jun 2025, administer a VPS with Docker, Nginx, SSL, Prometheus, Nagios, and n8n that hosts internal tools and automations.
 
 **Backend Developer & Data Analyst** 
 : **MUV-U S.A.S (study-abroad agency)**
 : **Jul 2023 – Jan 2025 | Hybrid**
 - Built interactive Power BI reports for the finance, sales, and marketing areas using data modeling and DAX.
-- Audited, cleaned, and validated CRM data to enable reliable commercial and business analysis.
-- Automated repetitive CRM operations to reduce the manual workload and improve the productivity of the sales team.
+- Audited, cleaned, and validated the CRM data that commercial analysis relied on.
+- Automated repetitive CRM operations to cut the sales team's manual work.
 - Designed the incoming-data architecture to capture, normalize, and transform information within the CRM.
 - Developed web components and service integrations for the company's main web platform.
 - Administered cloud servers and IT infrastructure and provided technical support to internal users.
@@ -52,7 +52,7 @@ I also lead SmartPot, an IoT platform for hydroponic crops where 93% of the non-
 : **Aug 2022 – May 2023 | Hybrid**
 - Built ETL routines to clean, transform, and load data for managerial reports.
 - Automated data processes and periodic reports with Python scripts and BI tools.
-- Designed dashboards to monitor KPIs and support decisions in revenue collection and mobility processes.
+- Designed KPI dashboards for the revenue collection and mobility processes.
 - Implemented data extraction and cleaning routines with SQL queries on relational databases.
 
 ## Technical Skills
@@ -67,14 +67,14 @@ I also lead SmartPot, an IoT platform for hydroponic crops where 93% of the non-
 - **Testing & QA:** **PyTest**, **JUnit**, Vitest, Postman, CodeQL, and Dependabot.
 - **IoT Engineering:** **ESP32**, **MicroPython**, MQTT over TLS, **C++**, Arduino, and Wokwi.
 - **SEO & Analytics:** Technical SEO, Google Search Console, and **GA4**.
-- **Languages:** Spanish (native), English (professional working proficiency) and Portuguese (elementary).
+- **Languages:** Spanish (native), English (professional working proficiency), and Portuguese (elementary).
 
 ## Academic Education
 
 **Diploma in Cybersecurity (in progress)**
 : **Politécnico Colombiano Jaime Isaza Cadavid**
 : **Sep – Dec 2026**
-- Labs on the vulnerability analysis of an FTP service, a capture-the-flag exercise and the response to a cyberattack, with Kali Linux and Nmap.
+- Labs on the vulnerability analysis of an FTP service, a capture-the-flag exercise, and the response to a cyberattack, with Kali Linux and Nmap.
 
 **Computer Engineering (final semester)**  
 : **Politécnico Colombiano Jaime Isaza Cadavid** 
@@ -229,7 +229,7 @@ I also lead SmartPot, an IoT platform for hydroponic crops where 93% of the non-
 - Containerized every service, published images to GHCR, and automated a serialized production deploy with Docker Compose and GitHub Actions.
 
 **GoPoli (ride-sharing for university students)**
-- Main contributor to a ride-sharing platform for Politécnico Colombiano Jaime Isaza Cadavid students, with 41 API tests, 18 web tests and a 31-step smoke test.
+- Main contributor to a ride-sharing platform for Politécnico Colombiano Jaime Isaza Cadavid students, with 41 API tests, 18 web tests, and a 31-step smoke test.
 - Next.js PWA with Leaflet maps and OSRM routing, a Spring Boot 4 REST API with JWT, and a PostgreSQL 16 schema, each shipped as a GHCR image.
 
 **PepperCRM (CRM product)**

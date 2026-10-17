@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-10-16T10:04:25.237Z",
+  "generatedAt": "2026-10-17T09:37:47.064Z",
   "login": "SebastianLopezO",
   "github": {
     "visibility": "owner",
     "since": "2022-02-26",
     "totals": {
-      "contributions": 28541,
-      "commits": 27727,
+      "contributions": 28564,
+      "commits": 27750,
       "pullRequests": 171,
       "reviews": 548,
       "issues": 51,
       "repositoriesCreated": 33,
-      "activeDays": 787,
-      "days": 1694
+      "activeDays": 788,
+      "days": 1695
     },
     "years": [
       {
@@ -65,27 +65,27 @@
       },
       {
         "year": 2026,
-        "contributions": 21008,
-        "commits": 20646,
+        "contributions": 21031,
+        "commits": 20669,
         "pullRequests": 111,
         "reviews": 238,
         "issues": 0,
         "repositoriesCreated": 12,
         "restricted": 0,
-        "activeDays": 288,
-        "days": 289
+        "activeDays": 289,
+        "days": 290
       }
     ],
     "streaks": {
       "longest": {
-        "days": 487,
+        "days": 488,
         "from": "2025-06-16",
-        "to": "2026-10-15"
+        "to": "2026-10-16"
       },
       "current": {
-        "days": 487,
+        "days": 488,
         "from": "2025-06-16",
-        "to": "2026-10-15"
+        "to": "2026-10-16"
       }
     },
     "bestDay": {
@@ -97,8 +97,8 @@
       4396,
       5374,
       5229,
-      3645,
-      5925,
+      3647,
+      5946,
       2450
     ],
     "repositories": {
@@ -113,12 +113,12 @@
     "languagesByCommits": [
       {
         "name": "TypeScript",
-        "commits": 14901,
+        "commits": 14919,
         "share": 59
       },
       {
         "name": "Python",
-        "commits": 6568,
+        "commits": 6573,
         "share": 26
       },
       {
@@ -167,7 +167,7 @@
     "range": "all_time",
     "start": null,
     "end": null,
-    "totalSeconds": 1932131,
+    "totalSeconds": 1932163,
     "totalText": "536 hrs 42 mins",
     "dailyAverageText": "1 hr 14 mins",
     "bestDay": null,
@@ -205,13 +205,13 @@
       {
         "name": "Markdown",
         "percent": 5.27,
-        "seconds": 102555,
+        "seconds": 102585,
         "text": "28 hrs 29 mins"
       },
       {
         "name": "YAML",
         "percent": 4.75,
-        "seconds": 92498,
+        "seconds": 92499,
         "text": "25 hrs 41 mins"
       },
       {
@@ -229,7 +229,7 @@
       {
         "name": "JSON",
         "percent": 2.22,
-        "seconds": 43274,
+        "seconds": 43275,
         "text": "12 hrs 1 min"
       }
     ],
@@ -237,8 +237,8 @@
       {
         "name": "PyCharm",
         "percent": 51.99,
-        "seconds": 1012111,
-        "text": "281 hrs 8 mins"
+        "seconds": 1012142,
+        "text": "281 hrs 9 mins"
       },
       {
         "name": "WebStorm",

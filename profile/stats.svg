@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Sebasti&#225;n L&#243;pez O&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 4, Total Commits  (last year) : 24204, Total PRs: 218, Total Issues: 51, Contributed to (last year): 193</desc>
+        <desc id="descId">Total Stars Earned: 4, Total Commits  (last year) : 23940, Total PRs: 218, Total Issues: 51, Contributed to (last year): 196</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 91.54053469553567;
+        stroke-dashoffset: 91.70675652905895;
       }
     }
   
@@ -184,7 +184,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >24.2k</text>
+      >23.9k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >193</text>
+      >196</text>
     </g>
   </g>
     </svg>

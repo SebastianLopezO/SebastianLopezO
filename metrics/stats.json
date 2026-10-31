@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-10-30T11:34:13.981Z",
+  "generatedAt": "2026-10-31T11:09:31.918Z",
   "login": "SebastianLopezO",
   "github": {
     "visibility": "owner",
     "since": "2022-02-26",
     "totals": {
-      "contributions": 29332,
-      "commits": 28449,
-      "pullRequests": 218,
+      "contributions": 29522,
+      "commits": 28636,
+      "pullRequests": 221,
       "reviews": 569,
       "issues": 51,
       "repositoriesCreated": 34,
-      "activeDays": 801,
-      "days": 1708
+      "activeDays": 803,
+      "days": 1709
     },
     "years": [
       {
@@ -65,27 +65,27 @@
       },
       {
         "year": 2026,
-        "contributions": 21799,
-        "commits": 21368,
-        "pullRequests": 158,
+        "contributions": 21989,
+        "commits": 21555,
+        "pullRequests": 161,
         "reviews": 259,
         "issues": 0,
         "repositoriesCreated": 13,
         "restricted": 0,
-        "activeDays": 302,
-        "days": 303
+        "activeDays": 304,
+        "days": 304
       }
     ],
     "streaks": {
       "longest": {
-        "days": 501,
+        "days": 503,
         "from": "2025-06-16",
-        "to": "2026-10-29"
+        "to": "2026-10-31"
       },
       "current": {
-        "days": 501,
+        "days": 503,
         "from": "2025-06-16",
-        "to": "2026-10-29"
+        "to": "2026-10-31"
       }
     },
     "bestDay": {
@@ -97,9 +97,9 @@
       4539,
       5509,
       5337,
-      3736,
-      6050,
-      2569
+      3737,
+      6208,
+      2600
     ],
     "repositories": {
       "owned": 29,
@@ -113,32 +113,32 @@
     "languagesByCommits": [
       {
         "name": "TypeScript",
-        "commits": 14898,
-        "share": 58.1
+        "commits": 14851,
+        "share": 57.6
       },
       {
         "name": "Python",
-        "commits": 6840,
-        "share": 26.7
+        "commits": 6916,
+        "share": 26.8
       },
       {
         "name": "Java",
-        "commits": 1356,
+        "commits": 1366,
         "share": 5.3
       },
       {
         "name": "JavaScript",
-        "commits": 687,
-        "share": 2.7
+        "commits": 753,
+        "share": 2.9
       },
       {
         "name": "Jupyter Notebook",
-        "commits": 656,
+        "commits": 658,
         "share": 2.6
       },
       {
         "name": "HTML",
-        "commits": 594,
+        "commits": 592,
         "share": 2.3
       },
       {
@@ -153,8 +153,8 @@
       },
       {
         "name": "Go",
-        "commits": 161,
-        "share": 0.6
+        "commits": 169,
+        "share": 0.7
       },
       {
         "name": "Visual Basic .NET",
@@ -167,68 +167,68 @@
     "range": "all_time",
     "start": null,
     "end": null,
-    "totalSeconds": 1964210,
-    "totalText": "545 hrs 36 mins",
+    "totalSeconds": 1968540,
+    "totalText": "546 hrs 49 mins",
     "dailyAverageText": "1 hr 13 mins",
     "bestDay": null,
     "languages": [
       {
         "name": "Python",
-        "percent": 37.07,
-        "seconds": 736073,
-        "text": "204 hrs 27 mins"
+        "percent": 36.95,
+        "seconds": 738914,
+        "text": "205 hrs 15 mins"
       },
       {
         "name": "Java",
-        "percent": 8.5,
+        "percent": 8.44,
         "seconds": 168803,
         "text": "46 hrs 53 mins"
       },
       {
         "name": "HTML",
-        "percent": 6.45,
-        "seconds": 128163,
+        "percent": 6.41,
+        "seconds": 128164,
         "text": "35 hrs 36 mins"
       },
       {
         "name": "JavaScript",
-        "percent": 5.75,
+        "percent": 5.71,
         "seconds": 114235,
         "text": "31 hrs 43 mins"
       },
       {
         "name": "Markdown",
-        "percent": 5.56,
-        "seconds": 110487,
-        "text": "30 hrs 41 mins"
+        "percent": 5.55,
+        "seconds": 110984,
+        "text": "30 hrs 49 mins"
       },
       {
         "name": "Jupyter",
-        "percent": 5.17,
+        "percent": 5.13,
         "seconds": 102656,
         "text": "28 hrs 30 mins"
       },
       {
         "name": "YAML",
-        "percent": 4.84,
+        "percent": 4.8,
         "seconds": 96058,
         "text": "26 hrs 40 mins"
       },
       {
         "name": "TypeScript",
-        "percent": 3.93,
+        "percent": 3.9,
         "seconds": 78076,
         "text": "21 hrs 41 mins"
       },
       {
         "name": "Bash",
-        "percent": 3.56,
-        "seconds": 70696,
-        "text": "19 hrs 38 mins"
+        "percent": 3.58,
+        "seconds": 71673,
+        "text": "19 hrs 54 mins"
       },
       {
         "name": "JSON",
-        "percent": 2.22,
+        "percent": 2.2,
         "seconds": 44005,
         "text": "12 hrs 13 mins"
       }
@@ -236,31 +236,31 @@
     "editors": [
       {
         "name": "PyCharm",
-        "percent": 51.85,
-        "seconds": 1029541,
-        "text": "285 hrs 59 mins"
+        "percent": 52.1,
+        "seconds": 1041957,
+        "text": "289 hrs 25 mins"
       },
       {
         "name": "WebStorm",
-        "percent": 19.28,
+        "percent": 19.14,
         "seconds": 382854,
         "text": "106 hrs 20 mins"
       },
       {
         "name": "IntelliJ IDEA",
-        "percent": 15.3,
+        "percent": 15.19,
         "seconds": 303840,
         "text": "84 hrs 24 mins"
       },
       {
         "name": "Claude Code",
-        "percent": 12.81,
-        "seconds": 254302,
-        "text": "70 hrs 38 mins"
+        "percent": 12.82,
+        "seconds": 256401,
+        "text": "71 hrs 13 mins"
       },
       {
         "name": "DataGrip",
-        "percent": 0.62,
+        "percent": 0.61,
         "seconds": 12292,
         "text": "3 hrs 24 mins"
       }

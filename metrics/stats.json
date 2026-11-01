@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-10-31T11:09:31.918Z",
+  "generatedAt": "2026-11-01T11:59:15.137Z",
   "login": "SebastianLopezO",
   "github": {
     "visibility": "owner",
     "since": "2022-02-26",
     "totals": {
-      "contributions": 29522,
-      "commits": 28636,
-      "pullRequests": 221,
+      "contributions": 29776,
+      "commits": 28851,
+      "pullRequests": 260,
       "reviews": 569,
       "issues": 51,
       "repositoriesCreated": 34,
-      "activeDays": 803,
-      "days": 1709
+      "activeDays": 804,
+      "days": 1710
     },
     "years": [
       {
@@ -65,27 +65,27 @@
       },
       {
         "year": 2026,
-        "contributions": 21989,
-        "commits": 21555,
-        "pullRequests": 161,
+        "contributions": 22243,
+        "commits": 21770,
+        "pullRequests": 200,
         "reviews": 259,
         "issues": 0,
         "repositoriesCreated": 13,
         "restricted": 0,
-        "activeDays": 304,
-        "days": 304
+        "activeDays": 305,
+        "days": 305
       }
     ],
     "streaks": {
       "longest": {
-        "days": 503,
+        "days": 504,
         "from": "2025-06-16",
-        "to": "2026-10-31"
+        "to": "2026-11-01"
       },
       "current": {
-        "days": 503,
+        "days": 504,
         "from": "2025-06-16",
-        "to": "2026-10-31"
+        "to": "2026-11-01"
       }
     },
     "bestDay": {
@@ -93,17 +93,17 @@
       "contributions": 723
     },
     "weekdays": [
-      1592,
+      1593,
       4539,
       5509,
       5337,
       3737,
       6208,
-      2600
+      2853
     ],
     "repositories": {
       "owned": 29,
-      "contributedTo": 205,
+      "contributedTo": 206,
       "private": 138
     },
     "organizations": {
@@ -113,28 +113,28 @@
     "languagesByCommits": [
       {
         "name": "TypeScript",
-        "commits": 14851,
-        "share": 57.6
+        "commits": 14877,
+        "share": 57.5
       },
       {
         "name": "Python",
-        "commits": 6916,
-        "share": 26.8
+        "commits": 6954,
+        "share": 26.9
       },
       {
         "name": "Java",
-        "commits": 1366,
+        "commits": 1384,
         "share": 5.3
       },
       {
         "name": "JavaScript",
-        "commits": 753,
+        "commits": 758,
         "share": 2.9
       },
       {
         "name": "Jupyter Notebook",
         "commits": 658,
-        "share": 2.6
+        "share": 2.5
       },
       {
         "name": "HTML",
@@ -153,8 +153,8 @@
       },
       {
         "name": "Go",
-        "commits": 169,
-        "share": 0.7
+        "commits": 198,
+        "share": 0.8
       },
       {
         "name": "Visual Basic .NET",

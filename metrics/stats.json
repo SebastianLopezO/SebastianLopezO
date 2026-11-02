@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-11-01T11:59:15.137Z",
+  "generatedAt": "2026-11-02T13:47:45.485Z",
   "login": "SebastianLopezO",
   "github": {
     "visibility": "owner",
     "since": "2022-02-26",
     "totals": {
-      "contributions": 29776,
-      "commits": 28851,
-      "pullRequests": 260,
+      "contributions": 29972,
+      "commits": 29037,
+      "pullRequests": 270,
       "reviews": 569,
       "issues": 51,
       "repositoriesCreated": 34,
-      "activeDays": 804,
-      "days": 1710
+      "activeDays": 805,
+      "days": 1711
     },
     "years": [
       {
@@ -65,27 +65,27 @@
       },
       {
         "year": 2026,
-        "contributions": 22243,
-        "commits": 21770,
-        "pullRequests": 200,
+        "contributions": 22439,
+        "commits": 21956,
+        "pullRequests": 210,
         "reviews": 259,
         "issues": 0,
         "repositoriesCreated": 13,
         "restricted": 0,
-        "activeDays": 305,
-        "days": 305
+        "activeDays": 306,
+        "days": 306
       }
     ],
     "streaks": {
       "longest": {
-        "days": 504,
+        "days": 505,
         "from": "2025-06-16",
-        "to": "2026-11-01"
+        "to": "2026-11-02"
       },
       "current": {
-        "days": 504,
+        "days": 505,
         "from": "2025-06-16",
-        "to": "2026-11-01"
+        "to": "2026-11-02"
       }
     },
     "bestDay": {
@@ -93,8 +93,8 @@
       "contributions": 723
     },
     "weekdays": [
-      1593,
-      4539,
+      1704,
+      4624,
       5509,
       5337,
       3737,
@@ -113,13 +113,13 @@
     "languagesByCommits": [
       {
         "name": "TypeScript",
-        "commits": 14877,
-        "share": 57.5
+        "commits": 14882,
+        "share": 57.1
       },
       {
         "name": "Python",
-        "commits": 6954,
-        "share": 26.9
+        "commits": 7109,
+        "share": 27.3
       },
       {
         "name": "Java",
@@ -147,13 +147,13 @@
         "share": 0.9
       },
       {
-        "name": "PHP",
-        "commits": 206,
+        "name": "Go",
+        "commits": 207,
         "share": 0.8
       },
       {
-        "name": "Go",
-        "commits": 198,
+        "name": "PHP",
+        "commits": 206,
         "share": 0.8
       },
       {

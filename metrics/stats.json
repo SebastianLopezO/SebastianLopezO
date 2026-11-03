@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-11-02T13:47:45.485Z",
+  "generatedAt": "2026-11-03T12:57:59.898Z",
   "login": "SebastianLopezO",
   "github": {
     "visibility": "owner",
     "since": "2022-02-26",
     "totals": {
-      "contributions": 29972,
-      "commits": 29037,
+      "contributions": 30322,
+      "commits": 29387,
       "pullRequests": 270,
       "reviews": 569,
       "issues": 51,
       "repositoriesCreated": 34,
       "activeDays": 805,
-      "days": 1711
+      "days": 1712
     },
     "years": [
       {
@@ -65,15 +65,15 @@
       },
       {
         "year": 2026,
-        "contributions": 22439,
-        "commits": 21956,
+        "contributions": 22789,
+        "commits": 22306,
         "pullRequests": 210,
         "reviews": 259,
         "issues": 0,
         "repositoriesCreated": 13,
         "restricted": 0,
         "activeDays": 306,
-        "days": 306
+        "days": 307
       }
     ],
     "streaks": {
@@ -94,7 +94,7 @@
     },
     "weekdays": [
       1704,
-      4624,
+      4974,
       5509,
       5337,
       3737,
@@ -113,13 +113,13 @@
     "languagesByCommits": [
       {
         "name": "TypeScript",
-        "commits": 14882,
-        "share": 57.1
+        "commits": 14886,
+        "share": 56.5
       },
       {
         "name": "Python",
-        "commits": 7109,
-        "share": 27.3
+        "commits": 7057,
+        "share": 26.8
       },
       {
         "name": "Java",
@@ -139,7 +139,12 @@
       {
         "name": "HTML",
         "commits": 592,
-        "share": 2.3
+        "share": 2.2
+      },
+      {
+        "name": "PowerShell",
+        "commits": 341,
+        "share": 1.3
       },
       {
         "name": "Shell",
@@ -155,11 +160,6 @@
         "name": "PHP",
         "commits": 206,
         "share": 0.8
-      },
-      {
-        "name": "Visual Basic .NET",
-        "commits": 11,
-        "share": 0
       }
     ]
   },
@@ -167,14 +167,14 @@
     "range": "all_time",
     "start": null,
     "end": null,
-    "totalSeconds": 1968540,
+    "totalSeconds": 1968562,
     "totalText": "546 hrs 49 mins",
     "dailyAverageText": "1 hr 13 mins",
     "bestDay": null,
     "languages": [
       {
         "name": "Python",
-        "percent": 36.95,
+        "percent": 36.94,
         "seconds": 738914,
         "text": "205 hrs 15 mins"
       },
@@ -223,7 +223,7 @@
       {
         "name": "Bash",
         "percent": 3.58,
-        "seconds": 71673,
+        "seconds": 71696,
         "text": "19 hrs 54 mins"
       },
       {
@@ -237,8 +237,8 @@
       {
         "name": "PyCharm",
         "percent": 52.1,
-        "seconds": 1041957,
-        "text": "289 hrs 25 mins"
+        "seconds": 1041979,
+        "text": "289 hrs 26 mins"
       },
       {
         "name": "WebStorm",

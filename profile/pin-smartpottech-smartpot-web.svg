@@ -122,7 +122,7 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">PWA de SmartPot: monitoreo y control de cultivos</tspan><tspan dy="1.2em" x="25">hidrop&#243;nicos en React</tspan>
+      <tspan dy="1.2em" x="25">PWA de SmartPot en SolidJS: monitoreo y control de cultivos</tspan><tspan dy="1.2em" x="25">hidrop&#243;nicos con lecturas en vivo</tspan>
     </text>
 
     <g transform="translate(30, 65)">

@@ -122,14 +122,14 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">MongoDB endurecido de SmartPot con validadores y datos</tspan><tspan dy="1.2em" x="25">demo</tspan>
+      <tspan dy="1.2em" x="25">PostgreSQL + TimescaleDB endurecido de SmartPot:</tspan><tspan dy="1.2em" x="25">esquema relacional, hipertabla de telemetr&#237;a y datos demo</tspan>
     </text>
 
     <g transform="translate(30, 65)">
       <g transform="translate(0, 0)">
     <g data-testid="primary-lang">
-      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#f1e05a" />
-      <text data-testid="lang-name" class="gray" x="15">JavaScript</text>
+      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#336790" />
+      <text data-testid="lang-name" class="gray" x="15">PLpgSQL</text>
     </g>
     </g>
     </g>

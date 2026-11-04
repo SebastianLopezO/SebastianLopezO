@@ -122,14 +122,14 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">Simulador de los cultivos virtuales de SmartPot por MQTT:</tspan><tspan dy="1.2em" x="25">clima real, d&#237;a y noche o medidores manuales</tspan>
+      <tspan dy="1.2em" x="25">Simulador de los cultivos de SmartPot en Rust: dispositivos</tspan><tspan dy="1.2em" x="25">virtuales por MQTT con JSON o paquete compacto binario</tspan>
     </text>
 
     <g transform="translate(30, 65)">
       <g transform="translate(0, 0)">
     <g data-testid="primary-lang">
-      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#3572A5" />
-      <text data-testid="lang-name" class="gray" x="15">Python</text>
+      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#dea584" />
+      <text data-testid="lang-name" class="gray" x="15">Rust</text>
     </g>
     </g>
     </g>

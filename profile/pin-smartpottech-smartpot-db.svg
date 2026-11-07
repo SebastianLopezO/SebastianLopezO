@@ -128,8 +128,8 @@
     <g transform="translate(30, 65)">
       <g transform="translate(0, 0)">
     <g data-testid="primary-lang">
-      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#336790" />
-      <text data-testid="lang-name" class="gray" x="15">PLpgSQL</text>
+      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#89e051" />
+      <text data-testid="lang-name" class="gray" x="15">Shell</text>
     </g>
     </g>
     </g>

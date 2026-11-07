@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-11-06T13:10:51.978Z",
+  "generatedAt": "2026-11-07T11:53:44.667Z",
   "login": "SebastianLopezO",
   "github": {
     "visibility": "owner",
     "since": "2022-02-26",
     "totals": {
-      "contributions": 30462,
-      "commits": 29527,
+      "contributions": 30691,
+      "commits": 29756,
       "pullRequests": 270,
       "reviews": 569,
       "issues": 51,
       "repositoriesCreated": 34,
       "activeDays": 809,
-      "days": 1715
+      "days": 1716
     },
     "years": [
       {
@@ -65,15 +65,15 @@
       },
       {
         "year": 2026,
-        "contributions": 22929,
-        "commits": 22446,
+        "contributions": 23158,
+        "commits": 22675,
         "pullRequests": 210,
         "reviews": 259,
         "issues": 0,
         "repositoriesCreated": 13,
         "restricted": 0,
         "activeDays": 310,
-        "days": 310
+        "days": 311
       }
     ],
     "streaks": {
@@ -98,7 +98,7 @@
       5564,
       5377,
       3759,
-      6230,
+      6459,
       2853
     ],
     "repositories": {
@@ -113,12 +113,12 @@
     "languagesByCommits": [
       {
         "name": "TypeScript",
-        "commits": 14906,
-        "share": 56.4
+        "commits": 14946,
+        "share": 56.1
       },
       {
         "name": "Python",
-        "commits": 7132,
+        "commits": 7178,
         "share": 27
       },
       {
@@ -138,22 +138,22 @@
       },
       {
         "name": "HTML",
-        "commits": 592,
+        "commits": 597,
         "share": 2.2
       },
       {
         "name": "PowerShell",
-        "commits": 341,
-        "share": 1.3
+        "commits": 389,
+        "share": 1.5
+      },
+      {
+        "name": "Go",
+        "commits": 243,
+        "share": 0.9
       },
       {
         "name": "Shell",
         "commits": 224,
-        "share": 0.8
-      },
-      {
-        "name": "Go",
-        "commits": 211,
         "share": 0.8
       },
       {
@@ -167,100 +167,100 @@
     "range": "all_time",
     "start": null,
     "end": null,
-    "totalSeconds": 1978305,
-    "totalText": "549 hrs 31 mins",
+    "totalSeconds": 1998602,
+    "totalText": "555 hrs 10 mins",
     "dailyAverageText": "1 hr 13 mins",
     "bestDay": null,
     "languages": [
       {
         "name": "Python",
-        "percent": 36.52,
-        "seconds": 739518,
-        "text": "205 hrs 25 mins"
+        "percent": 36.08,
+        "seconds": 741639,
+        "text": "206 hrs"
       },
       {
         "name": "Java",
-        "percent": 8.34,
+        "percent": 8.21,
         "seconds": 168803,
         "text": "46 hrs 53 mins"
       },
       {
         "name": "HTML",
-        "percent": 6.33,
-        "seconds": 128190,
+        "percent": 6.24,
+        "seconds": 128191,
         "text": "35 hrs 36 mins"
       },
       {
-        "name": "Markdown",
-        "percent": 5.7,
-        "seconds": 115525,
-        "text": "32 hrs 5 mins"
+        "name": "JavaScript",
+        "percent": 5.82,
+        "seconds": 119607,
+        "text": "33 hrs 13 mins"
       },
       {
-        "name": "JavaScript",
-        "percent": 5.64,
-        "seconds": 114316,
-        "text": "31 hrs 45 mins"
+        "name": "Markdown",
+        "percent": 5.73,
+        "seconds": 117798,
+        "text": "32 hrs 43 mins"
       },
       {
         "name": "Jupyter",
-        "percent": 5.07,
+        "percent": 4.99,
         "seconds": 102656,
         "text": "28 hrs 30 mins"
       },
       {
         "name": "YAML",
-        "percent": 4.74,
-        "seconds": 96058,
-        "text": "26 hrs 40 mins"
+        "percent": 4.78,
+        "seconds": 98329,
+        "text": "27 hrs 18 mins"
       },
       {
         "name": "TypeScript",
-        "percent": 3.86,
-        "seconds": 78076,
-        "text": "21 hrs 41 mins"
+        "percent": 3.85,
+        "seconds": 79228,
+        "text": "22 hrs"
       },
       {
         "name": "Bash",
         "percent": 3.55,
-        "seconds": 71968,
-        "text": "19 hrs 59 mins"
+        "seconds": 72895,
+        "text": "20 hrs 14 mins"
       },
       {
         "name": "Other",
-        "percent": 2.31,
-        "seconds": 46863,
-        "text": "13 hrs 1 min"
+        "percent": 2.77,
+        "seconds": 57011,
+        "text": "15 hrs 50 mins"
       }
     ],
     "editors": [
       {
         "name": "PyCharm",
-        "percent": 52.53,
-        "seconds": 1063889,
-        "text": "295 hrs 31 mins"
+        "percent": 53.18,
+        "seconds": 1093242,
+        "text": "303 hrs 40 mins"
       },
       {
         "name": "WebStorm",
-        "percent": 18.9,
+        "percent": 18.62,
         "seconds": 382854,
         "text": "106 hrs 20 mins"
       },
       {
         "name": "IntelliJ IDEA",
-        "percent": 15,
+        "percent": 14.78,
         "seconds": 303840,
         "text": "84 hrs 24 mins"
       },
       {
         "name": "Claude Code",
-        "percent": 12.82,
+        "percent": 12.63,
         "seconds": 259605,
         "text": "72 hrs 6 mins"
       },
       {
         "name": "DataGrip",
-        "percent": 0.61,
+        "percent": 0.6,
         "seconds": 12292,
         "text": "3 hrs 24 mins"
       }

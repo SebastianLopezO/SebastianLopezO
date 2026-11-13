@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-11-12T13:57:02.972Z",
+  "generatedAt": "2026-11-13T13:23:23.794Z",
   "login": "SebastianLopezO",
   "github": {
     "visibility": "owner",
     "since": "2022-02-26",
     "totals": {
-      "contributions": 30884,
-      "commits": 29949,
+      "contributions": 30897,
+      "commits": 29962,
       "pullRequests": 270,
       "reviews": 569,
       "issues": 51,
       "repositoriesCreated": 34,
       "activeDays": 815,
-      "days": 1721
+      "days": 1722
     },
     "years": [
       {
@@ -65,15 +65,15 @@
       },
       {
         "year": 2026,
-        "contributions": 23351,
-        "commits": 22868,
+        "contributions": 23364,
+        "commits": 22881,
         "pullRequests": 210,
         "reviews": 259,
         "issues": 0,
         "repositoriesCreated": 13,
         "restricted": 0,
         "activeDays": 316,
-        "days": 316
+        "days": 317
       }
     ],
     "streaks": {
@@ -97,7 +97,7 @@
       5072,
       5588,
       5382,
-      3765,
+      3778,
       6462,
       2908
     ],
@@ -113,7 +113,7 @@
     "languagesByCommits": [
       {
         "name": "TypeScript",
-        "commits": 14909,
+        "commits": 14910,
         "share": 55.7
       },
       {
@@ -138,8 +138,8 @@
       },
       {
         "name": "HTML",
-        "commits": 597,
-        "share": 2.2
+        "commits": 609,
+        "share": 2.3
       },
       {
         "name": "PowerShell",

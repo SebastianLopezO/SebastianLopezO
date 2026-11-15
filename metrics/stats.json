@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-11-14T12:27:21.491Z",
+  "generatedAt": "2026-11-15T12:55:49.860Z",
   "login": "SebastianLopezO",
   "github": {
     "visibility": "owner",
     "since": "2022-02-26",
     "totals": {
-      "contributions": 30965,
-      "commits": 30030,
+      "contributions": 30976,
+      "commits": 30040,
       "pullRequests": 270,
       "reviews": 569,
       "issues": 51,
       "repositoriesCreated": 34,
-      "activeDays": 816,
-      "days": 1723
+      "activeDays": 818,
+      "days": 1724
     },
     "years": [
       {
@@ -65,27 +65,27 @@
       },
       {
         "year": 2026,
-        "contributions": 23432,
-        "commits": 22949,
+        "contributions": 23443,
+        "commits": 22959,
         "pullRequests": 210,
         "reviews": 259,
         "issues": 0,
         "repositoriesCreated": 13,
         "restricted": 0,
-        "activeDays": 317,
-        "days": 318
+        "activeDays": 319,
+        "days": 319
       }
     ],
     "streaks": {
       "longest": {
-        "days": 516,
+        "days": 518,
         "from": "2025-06-16",
-        "to": "2026-11-13"
+        "to": "2026-11-15"
       },
       "current": {
-        "days": 516,
+        "days": 518,
         "from": "2025-06-16",
-        "to": "2026-11-13"
+        "to": "2026-11-15"
       }
     },
     "bestDay": {
@@ -93,13 +93,13 @@
       "contributions": 723
     },
     "weekdays": [
-      1707,
+      1717,
       5072,
       5588,
       5382,
       3778,
       6530,
-      2908
+      2909
     ],
     "repositories": {
       "owned": 29,
@@ -107,13 +107,13 @@
       "private": 138
     },
     "organizations": {
-      "member": 10,
+      "member": 11,
       "contributedTo": 9
     },
     "languagesByCommits": [
       {
         "name": "TypeScript",
-        "commits": 14917,
+        "commits": 14918,
         "share": 55.6
       },
       {

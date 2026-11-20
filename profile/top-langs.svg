@@ -140,7 +140,7 @@
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
           stroke-dashoffset="0"
-          size="38.67123720696271"
+          size="38.645313098345305"
           data-testid="lang-donut"
         />
       </g>
@@ -154,8 +154,8 @@
           stroke="#3572A5"
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="194.38283954339568"
-          size="37.90560127032726"
+          stroke-dashoffset="194.25253076070243"
+          size="37.88019042248496"
           data-testid="lang-donut"
         />
       </g>
@@ -169,8 +169,8 @@
           stroke="#3178c6"
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="384.9171731126181"
-          size="14.25899337592236"
+          stroke-dashoffset="384.6591354772803"
+          size="14.27525238440555"
           data-testid="lang-donut"
         />
       </g>
@@ -184,8 +184,8 @@
           stroke="#f1e05a"
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="456.59069125243127"
-          size="5.276920666577301"
+          stroke-dashoffset="456.41438030766216"
+          size="5.310527302725991"
           data-testid="lang-donut"
         />
       </g>
@@ -199,8 +199,8 @@
           stroke="#fedf5b"
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="483.1153875719439"
-          size="0.9152745213255389"
+          stroke-dashoffset="483.10800200515337"
+          size="0.9146609470564097"
           data-testid="lang-donut"
         />
       </g>
@@ -214,8 +214,8 @@
           stroke="#663399"
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="487.7160591114867"
-          size="0.8675448779627408"
+          stroke-dashoffset="487.70558938403"
+          size="0.8711416698840738"
           data-testid="lang-donut"
         />
       </g>
@@ -229,8 +229,8 @@
           stroke="#7355dd"
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="492.07681529591423"
-          size="0.7494468850067839"
+          stroke-dashoffset="492.08442501658004"
+          size="0.7489444769160908"
           data-testid="lang-donut"
         />
       </g>
@@ -244,8 +244,8 @@
           stroke="#b07219"
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="495.84394622102315"
-          size="0.6894450905824758"
+          stroke-dashoffset="495.84903056318205"
+          size="0.6889829060053873"
           data-testid="lang-donut"
         />
       </g>
@@ -259,8 +259,8 @@
           stroke="#555555"
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="499.30947523162706"
-          size="0.4253522733625977"
+          stroke-dashoffset="499.31223638071083"
+          size="0.4250671291745207"
           data-testid="lang-donut"
         />
       </g>
@@ -274,8 +274,8 @@
           stroke="#4F5D95"
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="501.4475289551209"
-          size="0.12944820735979373"
+          stroke-dashoffset="501.4488568131863"
+          size="0.12936142892625246"
           data-testid="lang-donut"
         />
       </g>
@@ -289,8 +289,8 @@
           stroke="#89e051"
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="502.0982066147399"
-          size="0.09108904446990734"
+          stroke-dashoffset="502.0990982768224"
+          size="0.09102798093914789"
           data-testid="lang-donut"
         />
       </g>
@@ -304,8 +304,8 @@
           stroke="#220000"
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="502.5560700914266"
-          size="0.007858632056211503"
+          stroke-dashoffset="502.5566548147257"
+          size="0.007853363850544354"
           data-testid="lang-donut"
         />
       </g>
@@ -319,8 +319,8 @@
           stroke="#384d54"
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="502.5955718846027"
-          size="0.00522690906149122"
+          stroke-dashoffset="502.5961301270118"
+          size="0.005223405088822382"
           data-testid="lang-donut"
         />
       </g>
@@ -334,8 +334,8 @@
           stroke="#140f46"
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="502.6218451951764"
-          size="0.0042801414819106254"
+          stroke-dashoffset="502.62238582469786"
+          size="0.004277272195570469"
           data-testid="lang-donut"
         />
       </g>
@@ -349,8 +349,8 @@
           stroke="#ff5a03"
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="502.6433595328338"
-          size="0.0022007291359003416"
+          stroke-dashoffset="502.64388573974907"
+          size="0.002096097339002833"
           data-testid="lang-donut"
         />
       </g>
@@ -364,8 +364,8 @@
           stroke="#C1F12E"
           stroke-width="25"
           stroke-dasharray="502.6548245743669"
-          stroke-dashoffset="502.65442160401125"
-          size="0.00008016840501506724"
+          stroke-dashoffset="502.65442187415135"
+          size="0.00008011466237352278"
           data-testid="lang-donut"
         />
       </g>
@@ -378,35 +378,35 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#DA5B0B" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Jupyter Notebook 38.67%
+        Jupyter Notebook 38.65%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 37.91%
+        Python 37.88%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 14.26%
+        TypeScript 14.28%
       </text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 5.28%
+        JavaScript 5.31%
       </text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms">
       <circle cx="5" cy="6" r="5" fill="#fedf5b" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Cython 0.92%
+        Cython 0.91%
       </text>
     </g>
   </g><g transform="translate(0, 125)">

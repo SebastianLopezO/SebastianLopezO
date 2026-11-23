@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-11-22T13:33:30.085Z",
+  "generatedAt": "2026-11-23T16:24:24.383Z",
   "login": "SebastianLopezO",
   "github": {
     "visibility": "owner",
     "since": "2022-02-26",
     "totals": {
-      "contributions": 31863,
-      "commits": 30920,
+      "contributions": 31955,
+      "commits": 31012,
       "pullRequests": 276,
       "reviews": 569,
       "issues": 51,
       "repositoriesCreated": 34,
-      "activeDays": 824,
-      "days": 1731
+      "activeDays": 826,
+      "days": 1732
     },
     "years": [
       {
@@ -65,27 +65,27 @@
       },
       {
         "year": 2026,
-        "contributions": 24330,
-        "commits": 23839,
+        "contributions": 24422,
+        "commits": 23931,
         "pullRequests": 216,
         "reviews": 259,
         "issues": 0,
         "repositoriesCreated": 13,
         "restricted": 0,
-        "activeDays": 325,
-        "days": 326
+        "activeDays": 327,
+        "days": 327
       }
     ],
     "streaks": {
       "longest": {
-        "days": 524,
+        "days": 526,
         "from": "2025-06-16",
-        "to": "2026-11-21"
+        "to": "2026-11-23"
       },
       "current": {
-        "days": 524,
+        "days": 526,
         "from": "2025-06-16",
-        "to": "2026-11-21"
+        "to": "2026-11-23"
       }
     },
     "bestDay": {
@@ -93,13 +93,13 @@
       "contributions": 723
     },
     "weekdays": [
-      2112,
-      5206,
+      2139,
+      5209,
       5726,
       5437,
       3814,
-      6644,
-      2924
+      6668,
+      2962
     ],
     "repositories": {
       "owned": 29,
@@ -113,12 +113,12 @@
     "languagesByCommits": [
       {
         "name": "TypeScript",
-        "commits": 14858,
-        "share": 54.8
+        "commits": 14877,
+        "share": 54.7
       },
       {
         "name": "Python",
-        "commits": 7374,
+        "commits": 7387,
         "share": 27.2
       },
       {
@@ -143,13 +143,13 @@
       },
       {
         "name": "PowerShell",
-        "commits": 520,
+        "commits": 521,
         "share": 1.9
       },
       {
         "name": "Go",
-        "commits": 460,
-        "share": 1.7
+        "commits": 507,
+        "share": 1.9
       },
       {
         "name": "Shell",

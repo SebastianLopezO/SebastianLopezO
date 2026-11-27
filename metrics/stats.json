@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-11-26T15:41:00.566Z",
+  "generatedAt": "2026-11-27T15:30:08.945Z",
   "login": "SebastianLopezO",
   "github": {
     "visibility": "owner",
     "since": "2022-02-26",
     "totals": {
-      "contributions": 32034,
-      "commits": 31091,
+      "contributions": 32046,
+      "commits": 31103,
       "pullRequests": 276,
       "reviews": 569,
       "issues": 51,
       "repositoriesCreated": 34,
-      "activeDays": 828,
-      "days": 1735
+      "activeDays": 830,
+      "days": 1736
     },
     "years": [
       {
@@ -65,27 +65,27 @@
       },
       {
         "year": 2026,
-        "contributions": 24501,
-        "commits": 24010,
+        "contributions": 24513,
+        "commits": 24022,
         "pullRequests": 216,
         "reviews": 259,
         "issues": 0,
         "repositoriesCreated": 13,
         "restricted": 0,
-        "activeDays": 329,
-        "days": 330
+        "activeDays": 331,
+        "days": 331
       }
     ],
     "streaks": {
       "longest": {
-        "days": 528,
+        "days": 530,
         "from": "2025-06-16",
-        "to": "2026-11-25"
+        "to": "2026-11-27"
       },
       "current": {
-        "days": 528,
+        "days": 530,
         "from": "2025-06-16",
-        "to": "2026-11-25"
+        "to": "2026-11-27"
       }
     },
     "bestDay": {
@@ -96,9 +96,9 @@
       2144,
       5211,
       5739,
-      5493,
-      3814,
-      6671,
+      5495,
+      3815,
+      6680,
       2962
     ],
     "repositories": {
@@ -113,7 +113,7 @@
     "languagesByCommits": [
       {
         "name": "TypeScript",
-        "commits": 14892,
+        "commits": 14893,
         "share": 54.6
       },
       {
@@ -142,13 +142,13 @@
         "share": 2
       },
       {
-        "name": "PowerShell",
-        "commits": 523,
+        "name": "Go",
+        "commits": 530,
         "share": 1.9
       },
       {
-        "name": "Go",
-        "commits": 519,
+        "name": "PowerShell",
+        "commits": 523,
         "share": 1.9
       },
       {
